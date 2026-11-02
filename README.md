@@ -27,6 +27,9 @@ It walks through the whole design, one piece at a time, from the society we hope
 - [1. A society of sovereigns](src/01-a-society-of-sovereigns.md)
 - [2. The legacy we're living](src/02-the-legacy-were-living.md)
 - [3. Nature has no bosses](src/03-nature-has-no-bosses.md)
+- [4. What if an organisation were alive?](src/04-what-if-an-organisation-were-alive.md)
+- [5. Why an operating system](src/05-why-an-operating-system.md)
+- [6. The spark](src/06-the-spark.md)
 
 The full outline is in [`src/SUMMARY.md`](src/SUMMARY.md). Chapters appear as they're drafted, not in order.
 

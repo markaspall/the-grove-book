@@ -10,9 +10,9 @@
 
 # Part two. A different kind of organisation
 
-- [4. What if an organisation were alive?]()
-- [5. Why an operating system]()
-- [6. The spark]()
+- [4. What if an organisation were alive?](04-what-if-an-organisation-were-alive.md)
+- [5. Why an operating system](05-why-an-operating-system.md)
+- [6. The spark](06-the-spark.md)
 
 # Part three. Inside the organism
 
