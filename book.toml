@@ -1,0 +1,13 @@
+[book]
+title = "The Grove"
+description = "An operating system for organisations without a boss: the design, the rationale, and how we decided. Written while it's being built."
+authors = ["Mark Spall"]
+language = "en"
+src = "src"
+
+[output.html]
+git-repository-url = "https://github.com/markaspall/the-grove-book"
+edit-url-template = "https://github.com/markaspall/the-grove-book/edit/main/{path}"
+default-theme = "light"
+preferred-dark-theme = "navy"
+no-section-label = true
