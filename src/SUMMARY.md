@@ -13,33 +13,35 @@
 - [4. What if an organisation were alive?](04-what-if-an-organisation-were-alive.md)
 - [5. Why an operating system](05-why-an-operating-system.md)
 - [6. The spark](06-the-spark.md)
+- [Interlude. One Tuesday](06b-one-tuesday.md)
 
 # Part three. Inside the organism
 
 - [7. Purpose: what closes, what explores](07-purpose.md)
 - [8. The branch: cells, not jobs](08-the-branch.md)
-- [9. Making decisions](09-making-decisions.md)
-- [10. Trust](10-trust.md)
-- [11. Work that finds its way](11-work-that-finds-its-way.md)
-- [12. Vision as hypothesis](12-vision-as-hypothesis.md)
-- [13. Promises](13-promises.md)
-- [14. Money and value](14-money-and-value.md)
+- [9. Belonging without a seat](09-belonging-without-a-seat.md)
+- [10. Making decisions](10-making-decisions.md)
+- [11. Trust](11-trust.md)
+- [12. Work that finds its way](12-work-that-finds-its-way.md)
+- [13. Vision as hypothesis](13-vision-as-hypothesis.md)
+- [14. Promises](14-promises.md)
+- [15. Money and value](15-money-and-value.md)
 
 # Part four. The organisation that knows itself
 
-- [15. The read]()
-- [16. Holding the whole without a centre]()
-- [17. The co-pilot]()
-- [18. Memory]()
+- [16. The read](16-the-read.md)
+- [17. Holding the whole without a centre](17-holding-the-whole.md)
+- [18. The co-pilot](18-the-co-pilot.md)
+- [19. Memory](19-memory.md)
 
 # Part five. Beyond one organisation
 
-- [19. Birth, division and death]()
-- [20. Between organisations]()
-- [21. DNA, the network, and why not open source]()
-- [22. Into the legal world]()
+- [20. Birth, division and death]()
+- [21. Between organisations]()
+- [22. DNA, the network, and why not open source]()
+- [23. Into the legal world]()
 
 # Part six. Return
 
-- [23. Rehearsing the future]()
-- [24. Back to society]()
+- [24. Rehearsing the future]()
+- [25. Back to society]()

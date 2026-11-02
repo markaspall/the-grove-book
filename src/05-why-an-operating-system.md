@@ -66,7 +66,7 @@ That isn't a policy she forgot to read. There's no setting that turns it off, an
 
 The same goes for the shortcut everyone takes when a deadline lands, the decision made in a corridor. With two people seated in a forum, nothing passes the moment one of them says yes. There's a window of two days in which the other can see it and answer. A concern holds the change until it's met, reshaped or lifted by the person who raised it, and nobody else can lift it for them. A change big enough to matter waits a few more days after it's agreed, and a concern raised in those days stops it. Each time we found a place where a founder could quietly keep the last word, we closed it. At one point a founder could add new structure in a single step, with no measure and no look back. Now that step is refused.
 
-There's no override anywhere: no veto, no administrator, no emergency switch. The obvious question is what happens when the building's on fire, and we come back to it when we look at decisions in Chapter 9.
+There's no override anywhere: no veto, no administrator, no emergency switch. The obvious question is what happens when the building's on fire, and we come back to it when we look at decisions in Chapter 10.
 
 A founder alone still decides alone. There's nobody else to ask, and pretending otherwise would be theatre. The rules begin to bite the moment a second person takes a seat, and that's deliberate. The guardrails don't stop you starting. They stop you staying the boss.
 

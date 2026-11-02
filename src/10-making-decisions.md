@@ -1,4 +1,4 @@
-# Chapter 9. Making decisions
+# Chapter 10. Making decisions
 
 *A working draft, November 2026. This book is being written while The Grove is being built; expect it to change. Checked against the build as it stood on 1 November 2026.*
 
@@ -56,7 +56,7 @@ Any rework at any stage resets the proposal: it's checked again and advice is as
 
 ### Who decides
 
-The people who decide are the governors of the forum that holds the change, which is the forum above the branch being changed. If that forum has fewer than two people in it, the decision moves up until one has. A founder alone, or a founder whose members hold no seat, decides alone. Their voices are weighted by the trust their peers have placed in them for that kind of matter, which Chapter 10 explores. The organisation-wide pool of skill advises; the local forum decides.
+The people who decide are the governors of the forum that holds the change, which is the forum above the branch being changed. If that forum has fewer than two people in it, the decision moves up until one has. A founder alone, or a founder whose members hold no seat, decides alone. Their voices are weighted by the trust their peers have placed in them for that kind of matter, which Chapter 11 explores. The organisation-wide pool of skill advises; the local forum decides.
 
 Wise-Eye takes part all the way through, but never decides. It gives the checker a note on whether the change matches its words. It offers its own advice, clearly marked as its own. If you ask, it will rework your proposal to fit the advice you received. And at review, it summarises what happened alongside the evidence.
 
@@ -75,6 +75,20 @@ Since 1 November 2026, an unresolved tension rises to the forum above after four
 None of this needs a meeting. It runs asynchronously, on a clock, in the places people already work. People can still meet if they want to. Nothing waits for them to.
 
 Much of this hasn't been tried with real people yet, and the lengths of the clocks are our best first guesses.
+
+## And when the building's on fire?
+
+Anyone who has run anything asks it within minutes. The roof is leaking onto the stock. A client's details have gone somewhere they shouldn't. A key supplier folded overnight. Who grabs the wheel?
+
+In an organisation on The Grove, nobody grabs the wheel of the organisation itself. There is no administrator, no override, no emergency path around the stages above. But most of what a fire needs was never a change to the structure. It's work, and work moves without a proposal.
+
+Here is what someone can do today. Whoever holds a branch can act on its work at once: take it, answer it, ring whoever needs ringing. Work that comes in marked as unable to wait goes to the top of what its holder sees and into their day. Anything at high stakes is held for a person, with a careful draft from Wise-Eye, which never sends it alone. Money never moves through the system at all. It stays in the organisation's own bank, so someone who has to pay a plumber at midnight simply pays, and records it after. With a receipt, and under any limit the organisation has set for one person's word, it counts on their word, open to question by any member for a week. The books never refuse a payment for lack of funds; whatever the budget can't cover shows as owed. And when work is at risk of missing its day, whoever holds the branch above can step in and take it, even out of someone's hands, or approve an answer that was waiting on one person who isn't there.
+
+What they can't do is just as plain. Nobody can change the structure in a hurry. A change passes only as fast as everyone involved answers: a check, advice that closes once everyone asked has replied, a vote that closes once every decider has consented. A high-impact change then still waits out its three-day timelock. The circuit breaker on that timelock is a brake, never an accelerator: a concern can stop a change in those three days, but nothing can hurry one through. Nobody can be taken out of a seat without a proposal. And nothing is pushed. No page, no alert, no phone ringing at three in the morning. If the fire starts while everyone's asleep, it waits in the place they'll look first when they wake.
+
+That's a real cost, and we don't pretend otherwise. In September we sketched a break-glass mode: one named person given command over one area's work for a few hours, easy for others to cancel, unable to touch the purpose, the money or anyone's right to leave, and owing a full account afterwards. We haven't built it. Part of it, sending the commander's work to people's phones, sits against a later decision that nothing goes out to a member. Whether to build the rest is open.
+
+Why live without it for now? Because an override built for emergencies tends to become the way things are really decided. Whoever holds the key gets used to turning it, and everyone else learns to wait for them. What we kept instead is a bet: that most fires are work rather than structure, and that the people nearest the work are best placed to act. Once the smoke clears, any change to the structure goes the ordinary way, and its review asks whether it helped. An emergency that keeps coming back is usually a missing branch, and the answer is to grow one.
 
 ## How we decided
 

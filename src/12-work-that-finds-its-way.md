@@ -1,4 +1,4 @@
-# Chapter 11. Work that finds its way
+# Chapter 12. Work that finds its way
 
 *A working draft, November 2026. This book is being written while The Grove is being built; expect it to change. Checked against the build as it stood on 1 November 2026.*
 
@@ -88,7 +88,7 @@ And where branches overlap, for instance when the same outside person turns up i
 
 There's no assigning people. No capacity planning, no smoothing out anyone's load, no timesheets, no priority fields, no sprints or backlogs, no status reports travelling upward, no alerts. When nobody hands out other people's time, that whole layer has no job to do.
 
-What remains is small. The promise, which Chapter 13 explores. The route. The automation. And three things left for a person: to decide, to promise, and to do something on a particular day.
+What remains is small. The promise, which Chapter 14 explores. The route. The automation. And three things left for a person: to decide, to promise, and to do something on a particular day.
 
 ## How we decided
 

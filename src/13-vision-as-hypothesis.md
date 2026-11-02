@@ -1,4 +1,4 @@
-# Chapter 12. Vision as hypothesis
+# Chapter 13. Vision as hypothesis
 
 *A working draft, November 2026. This book is being written while The Grove is being built; expect it to change. Checked against the build as it stood on 1 November 2026.*
 
@@ -16,7 +16,7 @@ We agree with more of that than you might expect. The vision matters. The questi
 
 A new organisation has no operating life yet. Nothing has arrived from outside, nobody has asked for anything, nothing has been tried and failed. So every tension in it, every sense of what's missing or what needs a home, is imagined.
 
-That has a quiet consequence. In Chapter 9 we described how an organisation on The Grove changes its own shape by consent, in response to tensions people actually feel. In a new organisation, the tensions are mostly pictures of the future. Governance built on imagined tensions is design by vision with consent attached. The process looks fair, but whoever imagines most vividly, and speaks most confidently, ends up holding the structure. The loudest visionary wins, and everyone else agrees to a map of a place none of them has visited.
+That has a quiet consequence. In Chapter 10 we described how an organisation on The Grove changes its own shape by consent, in response to tensions people actually feel. In a new organisation, the tensions are mostly pictures of the future. Governance built on imagined tensions is design by vision with consent attached. The process looks fair, but whoever imagines most vividly, and speaks most confidently, ends up holding the structure. The loudest visionary wins, and everyone else agrees to a map of a place none of them has visited.
 
 The business cost is familiar to anyone who has started something. Months spent building what nobody wanted. A team shaped around a market that turned out to be somewhere else. Work invented in planning sessions that keeps people busy and changes nothing for anyone outside.
 

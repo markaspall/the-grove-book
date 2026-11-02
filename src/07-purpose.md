@@ -40,7 +40,7 @@ The most useful distinction we've found is between purpose and vision.
 
 Purpose closes. It's the organisation's identity: the thing that stays fixed while everything inside it moves. People come and go, parts of the organisation grow and fade, work changes shape week by week, and the purpose holds still so that all that movement has something to move around. It's revisited rarely, and only by proposal.
 
-Vision explores. A founder usually arrives with a vivid picture of what they want to build. On The Grove, that picture is treated as a set of speculations: bets about how to meet the purpose, each one to be tested against the world. Chapter 12 looks at bets in detail. The point here is that they're held lightly, and the purpose is held firmly.
+Vision explores. A founder usually arrives with a vivid picture of what they want to build. On The Grove, that picture is treated as a set of speculations: bets about how to meet the purpose, each one to be tested against the world. Chapter 13 looks at bets in detail. The point here is that they're held lightly, and the purpose is held firmly.
 
 An example we used again and again in design: imagine an organisation whose purpose is to support neurodivergent children. Its founder has a coaching programme in mind. That programme is only the first speculation about how to meet the purpose. Perhaps it works. Perhaps the families need something else entirely: a support network for parents, training for schools, a space for the children themselves. Many shapes could fit the purpose. If the founder had written the coaching programme into the purpose, every one of those discoveries would feel like failure. Kept apart, they feel like learning.
 
