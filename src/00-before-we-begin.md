@@ -1,6 +1,6 @@
 # Before we begin
 
-*A working draft, November 2026. This book is being written while The Grove is being built; expect it to change.*
+*A working draft, November 2026. This book is being written while The Grove is being built; expect it to change. Checked against the build as it stood on 1 November 2026.*
 
 ---
 
@@ -12,9 +12,11 @@ So, plainly: this book isn't complete, and we don't claim that what's in it is r
 
 What we can promise is that it's honest about where it stands.
 
+One convention helps with that. When we say something in the system *is* so, it's built and working as the book is written. When something is decided but not built yet, we say we're building towards it. When we don't know, we say that too. Each chapter notes the build it was checked against, because the build keeps moving.
+
 ## Why write it now
 
-> *We're writing this now because the time is right. In a little over two months we built an operating system for organisations, and almost none of it is new. The answers have been around for years, in self-management, in systems thinking, in the way living things organise themselves. What's changed is that the technology to make them work is finally here.*
+> *We're writing this now because the time is right. In about two months we built an operating system for organisations, and almost none of it is new. The answers have been around for years, in self-management, in systems thinking, in the way living things organise themselves. What's changed is that the technology to make them work is finally here.*
 >
 > *The hard part was never the code. It's us. If we all woke up tomorrow having somehow forgotten that hierarchy ever existed, I think we'd build something very different. We can't forget, of course. So this is one example of what we could build instead, offered in the hope that it opens a door onto what's possible.*
 

@@ -1,6 +1,6 @@
 # Chapter 5. Why an operating system
 
-*A working draft, November 2026. This book is being written while The Grove is being built; expect it to change.*
+*A working draft, November 2026. This book is being written while The Grove is being built; expect it to change. Checked against the build as it stood on 1 November 2026.*
 
 ---
 
@@ -30,7 +30,7 @@ That's the kind of thing we set out to build: not another tool that sits on top 
 
 The comparison holds further than you might expect.
 
-The **hardware** is a blockchain, the Internet Computer, where each organisation lives in its own small, self-contained piece of the network that nobody else controls.
+The **hardware** is a blockchain, the Internet Computer. We're building towards each organisation living in its own small, self-contained piece of that network, which nobody else controls. Today, while the system is young, the organisations share one piece and we still hold its keys.
 
 The **operating system** provides the means an organisation needs to run: ways to sense what's happening, make decisions, route work to where it belongs, keep promises, handle money, and see itself whole. And it provides the guardrails: the few rules every organisation carries, which stop it drifting back into the old shape when people are tired or under pressure.
 
@@ -56,7 +56,25 @@ The legal scholar Lawrence Lessig made an argument in the late 1990s that has on
 
 That cuts both ways. Most software for organisations quietly enforces hierarchy: approval chains, managers who can see their reports' work but not the other way round, dashboards built for the top. Nobody voted for any of it. It's just how the tools were built.
 
-So we built the other way. In an organisation on The Grove, a small number of things are simply not possible. Nobody can grant themselves a seat. Money can fund the work but can't buy a say in decisions. Once there's more than one person, no decision about a part of the organisation is made by one person alone. Nobody can quietly change the rules for everyone else. And no reading of the organisation is ever about an individual. These aren't policies that can be bent in a hurry. They're how the system works.
+So we built the other way. It's easiest to see in a moment.
+
+Picture a small organisation on The Grove, a few months old. The person who started it holds the root, the seat that carries the organisation's purpose. Two others hold seats on the parts beneath it. A large order has come in, and the founder knows exactly who should take on the new kitchen work: herself. So she starts a proposal to seat herself on that part.
+
+It doesn't go through. The words she sees are plain: a seat is never taken by your own proposal. Someone else seated in the forum above has to raise it, and when it's decided, she stands aside from it, because it's about her.
+
+That isn't a policy she forgot to read. There's no setting that turns it off, and nobody to ask for an exception, because there's nobody above the forum to ask.
+
+The same goes for the shortcut everyone takes when a deadline lands, the decision made in a corridor. With two people seated in a forum, nothing passes the moment one of them says yes. There's a window of two days in which the other can see it and answer. A concern holds the change until it's met, reshaped or lifted by the person who raised it, and nobody else can lift it for them. A change big enough to matter waits a few more days after it's agreed, and a concern raised in those days stops it. Each time we found a place where a founder could quietly keep the last word, we closed it. At one point a founder could add new structure in a single step, with no measure and no look back. Now that step is refused.
+
+There's no override anywhere: no veto, no administrator, no emergency switch. The obvious question is what happens when the building's on fire, and we come back to it when we look at decisions in Chapter 9.
+
+A founder alone still decides alone. There's nobody else to ask, and pretending otherwise would be theatre. The rules begin to bite the moment a second person takes a seat, and that's deliberate. The guardrails don't stop you starting. They stop you staying the boss.
+
+A few more things are held the same way. Money can fund the work but can't buy a say: the money and the say are kept apart in the system, with no way to turn one into the other. Nobody inside an organisation can quietly change the rules for everyone else. And no reading of the organisation is ever about a person.
+
+We should be honest that not everything is held this way. Some of what keeps Wise-Eye, the system's AI, in its place is structure: it has no way to consent to a proposal, so it can't. Some of it is words: its guidance asks it never to tell people what they should do, and that holds only as long as the model listens. Thomas Thomison, who co-founded HolacracyOne, puts the difference well: a prompt is not a constitution.[^3] Wherever it matters, we've tried to move a rule from the second kind to the first. When we caught Wise-Eye writing a customer's phone number into guidance the whole organisation reads, we didn't write it a better instruction. The system now refuses to keep it.
+
+That's the answer to the culture objection. Not that culture doesn't matter, but that a tired team on a bad Friday shouldn't need to remember the rules for the rules to hold.
 
 Everything else is left to the organisation. The guardrails are few, on purpose. They mark the edges of the road, not the route.
 
@@ -66,11 +84,13 @@ There's one more question: who runs the system?
 
 If one company owns the platform that organisations run on, that company holds all the power, however good its intentions. It can change the rules, raise the price, or be bought by someone with different intentions. An operating system for organisations without bosses would have quietly put a boss back on top of all of them.
 
-The nearest model we found is an unlikely one: Visa. In the late 1960s, Dee Hock helped turn a struggling credit card programme into an organisation owned and governed by the banks that used it, neither a single company nor a free-for-all, which he later called *chaordic*: a blend of chaos and order.[^3] The network existed because its members ran it together.
+The nearest model we found is an unlikely one: Visa. In the late 1960s, Dee Hock helped turn a struggling credit card programme into an organisation owned and governed by the banks that used it, neither a single company nor a free-for-all, which he later called *chaordic*: a blend of chaos and order.[^4] The network existed because its members ran it together.
 
-The Grove works on a similar idea. Organisations form a network by recognising each other. The network has a steward, which is itself just an organisation like any other, bound by the same rules, whose job is to look after the system's code for the organisations that use it. Every organisation carries the system with it, sealed inside its own space. Nobody can push changes into an organisation; each one decides for itself whether to adopt a new version. And if a steward ever stopped serving its network, the organisations could leave together, take the system with them, and form a network of their own.
+The Grove is designed on a similar idea, and this is the part we're furthest from finishing. The plan is that organisations form a network by recognising each other. The network has a steward, which will itself be an organisation like any other, bound by the same rules, whose job is to look after the system's code for the organisations that use it. Every organisation will carry the system with it, sealed inside its own space. Nobody will be able to push changes into an organisation; each will decide for itself whether to adopt a new version. And if a steward ever stopped serving its network, the organisations could leave together, take the system with them, and form a network of their own.
 
-How that works in practice, and why it isn't simply open source, is a story for later in the book. For now the point is simple. The system is designed so that capturing it would be worthless.
+None of that is how things stand today. Today we hold the keys: the organisations share one space, and we can change the code they all run on. We built the organisation first and the network second, because a network of organisations that can't yet run themselves would be worth nothing. But we know the order leaves a gap, and we'd rather name it than have you find it.
+
+How the network will work, and why it isn't simply open source, is a story for later in the book. For now the point is simple. The system is being designed so that capturing it would be worthless.
 
 ## How we decided
 
@@ -80,7 +100,7 @@ We argued about the word. *Platform* sounded like someone else's property. *Tool
 
 We also had to decide how much to build in. It would have been easy to encode a particular way of organising, ours, and make every organisation follow it. We chose not to. The guardrails are the few things we believe must hold for any organisation without a boss to stay that way. Everything else is the organisation's own DNA. The code is only the ground it grows in.
 
-And we chose a blockchain not because it's fashionable but because it answers a specific question: where can an organisation live so that nobody, including us, can switch it off, read its private records or change its rules from outside? On the Internet Computer, each organisation can control its own space. That was the property we needed.
+And we chose a blockchain not because it's fashionable but because it answers a specific question: where can an organisation live so that nobody, including us, can switch it off, read its private records or change its rules from outside? On the Internet Computer, each organisation can come to control its own space. That's the property we're building towards. We aren't there yet.
 
 ## What you might take from this
 
@@ -94,4 +114,5 @@ That's why an operating system: the means to run without a boss, and the few gua
 
 [^1]: Robertson, B. J. (2015), *Holacracy: The New Management System for a Rapidly Changing World*, Henry Holt.
 [^2]: Lessig, L. (1999), *Code and Other Laws of Cyberspace*, Basic Books.
-[^3]: Hock, D. (1999), *Birth of the Chaordic Age*, Berrett-Koehler. See also Hock, D. (2005), *One from Many: VISA and the Rise of Chaordic Organization*, Berrett-Koehler.
+[^3]: Thomison, T. (2026), "You've Been Training for This", PowerShift. Thomison co-founded HolacracyOne in 2007.
+[^4]: Hock, D. (1999), *Birth of the Chaordic Age*, Berrett-Koehler. See also Hock, D. (2005), *One from Many: VISA and the Rise of Chaordic Organization*, Berrett-Koehler.

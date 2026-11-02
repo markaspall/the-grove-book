@@ -1,6 +1,6 @@
 # Chapter 1. A society of sovereigns
 
-*A working draft, November 2026. This book is being written while The Grove is being built; expect it to change.*
+*A working draft, November 2026. This book is being written while The Grove is being built; expect it to change. Checked against the build as it stood on 1 November 2026.*
 
 ---
 
@@ -52,7 +52,7 @@ Organisations are where we practise the habits a society runs on.
 
 If every working day teaches you that someone above you decides, that speaking up is risky and that your job is to comply, it would be surprising if you brought anything different to your community or your vote. If every working day teaches you that you can sense what's wrong, raise it, and change how things are done, that habit travels too.
 
-Organisations are also where coordination either works or fails. Within one, a race to the bottom can be stopped: people can agree to hold back together, because they can see each other and trust that the agreement will hold. Between organisations, the same thing becomes possible if they have a way to commit together. Much of what's broken at the scale of societies could be practised, tested and mended first at the scale of organisations.
+Organisations are also where coordination either works or fails. Within one, a race to the bottom can be stopped: people can agree to hold back together, because they can see each other and trust that the agreement will hold. Between organisations, the same thing becomes possible once they have a way to commit together: to act only when enough others act too. That's one of the things we're still building towards. Much of what's broken at the scale of societies could be practised, tested and mended first at the scale of organisations.
 
 And organisations are where the change can start now. You don't need a treaty to change how your team makes decisions. You don't need a new government to change who in your organisation gets heard.
 
@@ -63,6 +63,8 @@ This isn't just hope. For decades, people assumed shared resources had only two 
 The political economist Elinor Ostrom spent her career showing that this wasn't true. She studied fisheries, forests, irrigation systems and grazing land around the world, some managed by local communities for centuries, and found many that thrived without either a central authority or private ownership. What they had in common were well-designed rules made by the people who used the resource: clear boundaries, ways to monitor what was happening, fair consequences for breaking the rules, and ways to resolve conflict that everyone could reach.[^4] In 2009 she became the first woman to receive the Nobel Prize in economics, largely for this work.
 
 Ostrom's commons weren't utopias. They were ordinary people who had found a way to coordinate without being ruled. That's the kind of thing we mean.
+
+Most of what she found has a counterpart later in this book: clear boundaries, rules made by the people they bind, nested levels that each run their own affairs, and a way to resolve conflict that anyone can reach. Two of her principles we've chosen not to follow, and it's only fair to say so. In her commons, people watched each other, and those who took too much faced consequences, small at first and growing. We don't want an organisation where colleagues police each other. So in an organisation on The Grove the watching is turned on the organisation rather than the person: the work shows where things are going wrong without naming who. And there are no sanctions on people at all. What does that work instead is trust that has to keep being renewed, a concern that holds a change until it's met, and a look back at every decision to see whether it did what it said. Whether that's enough is one of the things this book exists to find out.
 
 ## What we mean by sovereign
 

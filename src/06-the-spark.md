@@ -1,6 +1,6 @@
 # Chapter 6. The spark
 
-*A working draft, November 2026. This book is being written while The Grove is being built; expect it to change.*
+*A working draft, November 2026. This book is being written while The Grove is being built; expect it to change. Checked against the build as it stood on 1 November 2026.*
 
 ---
 
@@ -30,13 +30,21 @@ What's striking about this view is that responsibility isn't given. It's taken. 
 
 And when the formal structure doesn't match who's really carrying things, trouble follows. Some people hold authority without taking any initiative. Others take initiative and have no authority to finish what they started. Merckelbach describes two ways it goes wrong: the despot, who never lets go of anything; and the vacuum, where everyone is equal and nobody leads, so nothing gets decided.
 
+We take a great deal from this, and part company with it in places. Source theory gives the person who started something a lasting role as its source, the one who listens for the whole. On The Grove, a founder's vision is treated as a set of hypotheses to test rather than a picture to hold. The founder's seat is one others can share. And nobody holds the whole by right of having started it. We come back to where those differences lead later in the book.
+
 ## Seats, not jobs
 
-In an organisation on The Grove, the work is organised into parts, which we'll meet properly in Chapter 8. Each part has a purpose and the things it's accountable for. And each part has a seat.
+In an organisation on The Grove, the work is organised into parts we call branches, which we'll meet properly in Chapter 8. Each branch has a purpose and the things it's accountable for. Each has a seat. And each takes part in two forums: the one above it, where it has a say alongside its siblings, and its own, where the branches beneath it are decided.
 
-A seat isn't a job title. It's something you hold. You can hold more than one. Two or three people can share one. You step into it because you want to carry what it carries, and you can step out of it when you need to, with a grace period so the work isn't dropped.
+A seat isn't a job title. It's something you hold. You can hold more than one. Two or three people can share one. You step into it because you want to carry what it carries, and you can step out of it when you need to, without anyone's permission. The work you had in hand goes back to the branch, so it isn't dropped.
 
 Nobody is assigned a seat. Seats are offered: a part of the organisation says it needs someone, people say they'd like to take it on, and the people already holding the parts around it agree. It's closer to an invitation than an appointment, and that matters. Responsibility that's chosen feels different from responsibility that's imposed. People who choose a seat tend to carry all of it, not just the slice they were told about.
+
+The details show the care. Whoever holds the seat, or the branch above while it's empty, posts that it's open. Members say they'd like it. Seating someone is always a proposal, heard in the forum above and raised by someone seated there. The person being seated stands aside from deciding it, because it's about them. And only one change to a branch's seat is open at a time, so nobody is swapped out while someone else is being swapped in.
+
+What happens when nobody steps forward? That's the shared kitchen, the case the sceptic fears most. An empty seat falls to the branch above, so the work always has someone who answers for it. And a seat left empty for two weeks is one of the signs that makes the organisation read a branch as untended, so the gap shows rather than hides.
+
+When several people share a seat, they're a crew. They each take part as people, but in the forum above they weigh as one seat. If two of a crew of three consent, they carry two thirds of that seat's weight, not the weight of two people. So a big team can't outvote a small one just by being big.
 
 And because the work is assigned to the seat, not to the person, nobody is ever handed a pile of tasks by someone above them. Work arrives at the part of the organisation that answers for it. Whoever holds that seat takes it up.
 
@@ -46,9 +54,11 @@ We call the person holding a seat its steward.
 
 The word was chosen with care. A steward isn't an owner. They don't possess the part of the organisation they hold; they look after it on behalf of the whole, for as long as they hold the seat. And a steward isn't a manager. Their job isn't to produce results with their own hands, or to tell others what to do. It's to tend the conditions in which the work can thrive: making sure the right work reaches the part, that what it needs is there, that what's growing gets room and what's fading is let go.
 
-Holding a seat isn't a job, either. It's closer to a role you play, sometimes several at once, often alongside your other work. The founder of an organisation holds the first seat, the root, which carries the organisation's purpose and anything that hasn't yet found a home. But the root isn't above anyone. It sits alongside the other parts. And the quickest way for a founder to stop being the boss is simply for others to take up seats, so that what the root was holding moves out to the people who are now carrying it.
+Holding a seat isn't a job, either. It's closer to a role you play, sometimes several at once, often alongside your other work. The founder of an organisation holds the first seat, the root, which carries the organisation's purpose and anything that hasn't yet found a home.
 
-In one of our early test conversations, a founder bringing his small company onto The Grove asked, half joking, whether holding the root made him the boss. The answer, and the whole design, is no. It makes him the person holding the purpose until others share it.
+The honest answer to whether the root is above anyone has two halves. In decisions, it isn't: the root is one seat in a forum it shares with the branches just beneath it, and its voice weighs the same as theirs. In structure, it is: work with no home rests there, tensions nobody has answered end there, and only its forum can change the purpose. So the root isn't a boss, but it carries more than it looks. The quickest way for a founder to stop carrying it alone is for others to take up seats, including a share of the root itself, so that what it was holding moves out to the people who are now carrying it.
+
+In one of our early test conversations, a role-played founder bringing his small company onto The Grove asked, half joking, whether holding the root made him the boss. The answer, and the whole design, is no. It makes him the person holding the purpose until others share it.
 
 ## The spark and the co-pilot
 
@@ -60,7 +70,7 @@ But a great deal of what fills a working week isn't that. It's admin: chasing re
 
 So every steward has a companion beside them. We call it Wise-Eye. It reads what's arriving, prepares what's needed, drafts replies, routes work to where it belongs, keeps track of what the organisation has promised and what's at risk, and offers a view of how things are going. It works on behalf of the part the steward holds, and says so. It can take on more as it earns trust, one kind of work at a time, but only when the steward chooses.
 
-What it never does is decide. It can draft a proposal; it can't consent to one. It can raise a concern for someone to consider; it can't block a decision. It's a facilitator, not a fixer: it asks more than it tells, and offers guidance mostly when asked. The spark stays human. The load moves to the co-pilot.
+What it never does is decide. It can draft a proposal; it can't consent to one. It can offer advice on a proposal; it can't raise a concern, and it can't block anything. It's a facilitator, not a fixer: it asks more than it tells, and offers guidance mostly when asked. The spark stays human. The load moves to the co-pilot.
 
 We'll look at Wise-Eye properly in Chapter 17. It's introduced here because it changes what it means to hold a seat. Holding a part of the organisation no longer means carrying all its admin alone. It means being free to do the part only a person can do.
 
@@ -71,6 +81,8 @@ One kind of person turns up again and again around The Grove: the founder who do
 They've usually worked for one. Some have been one, and didn't like who they became. They have an idea, a purpose, something they want to bring into the world, and they want to do it with others as equals. But every path they know ends in hierarchy: hire people, manage them, become the bottleneck.
 
 For them, the shift is subtle but freeing. They're the source of the organisation; they took the risk of starting it. They hold its purpose at the beginning. But their vision is treated as a set of hypotheses to test against the world, not a plan everyone has to follow. And from the first day, the organisation is built to let others take up seats, share the root, and carry parts of the whole as their own.
+
+We should be plain about the beginning, though. A founder alone decides alone, because there's nobody else to ask. The same is true while others have joined but nobody else holds a seat, and that's exactly where the boss grows back by default. What pushes against it is the design: branches that can post their own open seats, a root that can be shared, and work that goes to branches rather than to people, so there's always somewhere for someone else to step in. The rules start to bite the moment a second person takes a seat.
 
 The founder is the spark that lights it. They don't have to be the fire.
 

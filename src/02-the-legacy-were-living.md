@@ -1,6 +1,6 @@
 # Chapter 2. The legacy we're living
 
-*A working draft, November 2026. This book is being written while The Grove is being built; expect it to change.*
+*A working draft, November 2026. This book is being written while The Grove is being built; expect it to change. Checked against the build as it stood on 1 November 2026.*
 
 ---
 
@@ -82,7 +82,9 @@ Before The Grove existed, I'd already lived most of this. I'd built the tree mys
 >
 > *Over more than five years I tried to build something better, again and again. A first rough version on WordPress. A node-based attempt. An organisational operating system inside pureDAO, an accelerator programme on the Internet Computer, in 2023. Then Lumenophore. Each one taught me something, and each one stalled for the same reason: it was too big for one person to hold.*
 
-When I took the idea to the "we", the first question was what to keep. We didn't want to throw out everything hierarchy does. It does some things well: clarity about who holds what, someone who carries a promise, work that actually gets finished on a day. We wanted those, without the tree. So we kept accountability and dropped command. We kept structure and moved it out of people and into the system itself, where anyone can see it and anyone can propose to change it.
+When I took the idea to the "we", the first question was what to keep. We didn't want to throw out everything hierarchy does. It does some things well: clarity about who holds what, someone who carries a promise, work that actually gets finished on a day. We wanted those, without the tree. So we kept accountability and dropped command. We kept structure and moved it out of people and into the system itself, where anyone can see it and raise a tension about it, and the people who hold seats where a change is decided can propose one.
+
+Accountability without command turned out to need a home of its own. In an early simulation, work reached exactly the right part of the organisation and then sat there. A small team shared it, nobody held any one piece, and it was everybody's, which meant nobody's. It was Freeman's hidden structure again, turning up inside an explicit one. So a promise in The Grove is held by a part of the organisation and carried by a named person, on a clock, and when it starts to slip it rises to the part above, where someone can step in. That's the tree's real job, done without the tree.
 
 We also had to decide whether to build on one of the existing practices. Holacracy was the obvious candidate. It's clear, well documented, and openly licensed, and others have since taken its constitution and extended it for organisations with AI in them. We chose to start from a clean sheet instead, beginning with what Laloux described and what nature does, and only then reaching for practices that fitted. That meant more work and more mistakes. It also meant we weren't bound to a meeting format, a vocabulary or a set of rules designed for a world where everything had to be done by hand.
 

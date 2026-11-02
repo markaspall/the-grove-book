@@ -1,6 +1,6 @@
 # Chapter 4. What if an organisation were alive?
 
-*A working draft, November 2026. This book is being written while The Grove is being built; expect it to change.*
+*A working draft, November 2026. This book is being written while The Grove is being built; expect it to change. Checked against the build as it stood on 1 November 2026.*
 
 ---
 
@@ -66,11 +66,25 @@ A machine doesn't tell you how it's doing unless someone builds gauges into it. 
 
 An organisation does the same, if you look. Every piece of work that arrives, gets passed on, gets done or gets dropped leaves a trace. So does every proposal, every promise, every conversation about where things should go. Taken together, those traces are a remarkably honest picture of the organisation's real state, often more honest than anything anyone would say in a meeting.
 
-In an organisation on The Grove, those traces are read continuously. The work itself shows where a part of the organisation is straining and needs to **grow**, where it has gone quiet and may be **withering**, where it's doing two different jobs and might **split**, and where two parts keep passing work back and forth and might **merge**. It shows tensions: work that keeps bouncing between two parts, work that keeps being done from the wrong place, work that arrives with nobody to answer for it. Each is read as *the map is wrong here*, never as *someone is doing badly*.
+In an organisation on The Grove, those traces are read continuously.
 
-It also reads the organisation's lean: where people say they want to go, and where their energy is actually moving. When the two agree, that's a strong direction. When people say one thing and the work does another, that's worth noticing. When the work is quietly moving somewhere nobody has named, that's worth noticing too.
+It helps to say exactly what's read, because the first fear, and a fair one, is that an organisation that reads itself is an organisation that watches its people.
 
-And because the whole thing is a pattern rather than a fixed design, you can rehearse it. Before a big change, you can grow a simulated version of the organisation, let it run, and see whether the change creates freedom or friction. Not a prediction of the future, which no living thing allows, but a rehearsal: a way to see what a change might do before anyone has to live it.
+The read never sees a person. It sees what happens to work at each part of the organisation: what arrived, what was done, what was passed on, what was refused, what was done from outside that part's accountabilities, and what came in with nowhere to go. That's all. There is nowhere in it to write down who.
+
+And it only counts what crossed the membrane. An enquiry from a customer counts. A task the team set itself doesn't. So a part of the organisation can't grow itself by keeping busy. The world has to ask.
+
+From those traces come four readings. A part needs to **grow** when work keeps arriving faster than it's closed, by a clear margin, for weeks rather than days. It may be **withering** when nothing arrives and nothing is done, *and* something has been left untended: its accountabilities untouched, its measures not looked at, its seat empty. We never read a part as dying because it's quiet. Some parts of an organisation are meant to be quiet, the way a fire exit is. A part may want to **split** when its work falls into groups that different hands take up. Two parts may want to **merge** only when work keeps passing back and forth between them, and never because the same people happen to hold both.
+
+The traces also show tensions: work that keeps bouncing between two parts, work that keeps being done from the wrong place, work that arrives with nobody to answer for it. Each is read as *the map is wrong here*, never as *someone is doing badly*.
+
+None of this decides anything. A reading is a question put to the forum that can answer it: here's what the work is doing, what do you make of it? If nobody answers, the question doesn't fade. Every two weeks it rises to the forum above, until it reaches the top of the organisation, where it says plainly that the whole hasn't answered it yet.
+
+Some of this we learned by watching it go wrong. In our simulations, an organisation that had just split could be offered back together within days, chasing its own tail. So a change now has eight weeks to settle before it's read again. And the numbers themselves are guesses. We'd rather tell you that than pretend the organism knows itself better than it does. What we're sure of is the shape: read the work, never the person, and let people decide what it means.
+
+The read also looks at the organisation's lean: where people say they want to go, and where their energy is actually moving. The two are set side by side and never blended into one. When they agree, that's a strong direction. When people say one thing and the work does another, we call it **drift**. When the work is quietly moving somewhere nobody has named, we call it **the unspoken**. Both are worth noticing, and neither is anyone's fault.
+
+And because the whole thing is a pattern rather than a fixed design, it should one day be possible to rehearse it. We're building towards a way to take a copy of an organisation before a big change, let it run, and see whether the change creates freedom or friction. Not a prediction of the future, which no living thing allows, but a rehearsal. It isn't built yet.
 
 ## How we decided
 
@@ -88,7 +102,7 @@ We also kept in mind what Chapter 3 warned about. Nature is beautiful and ruthle
 
 An organisation isn't a machine you design and run. It's more like a living pattern that keeps re-forming around a purpose, with many boundaries, parts that are also wholes, and a life cycle of its own.
 
-Seen that way, it can be read like a living thing, and its next move rehearsed before anyone has to live it.
+Seen that way, it can be read like a living thing: from what happens to the work, never from watching the people.
 
 ---
 
