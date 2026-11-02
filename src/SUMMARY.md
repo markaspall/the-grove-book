@@ -5,7 +5,7 @@
 # Part one. The world we're in
 
 - [1. A society of sovereigns](01-a-society-of-sovereigns.md)
-- [2. The legacy we're living]()
+- [2. The legacy we're living](02-the-legacy-were-living.md)
 - [3. Nature has no bosses](03-nature-has-no-bosses.md)
 
 # Part two. A different kind of organisation

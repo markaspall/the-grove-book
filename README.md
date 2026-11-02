@@ -12,19 +12,20 @@ Most organisations still run on an old loop: information travels up, someone at 
 
 Nature works differently. Slime moulds design networks, termites build cities, bees choose new homes, and none of them has anyone in charge.
 
-The Grove is our attempt to build an organisation that works more like that: one that senses and responds, where authority lives in the structure rather than in a person, where work finds its way to the part of the organisation that answers for it, and where AI carries much of the load while people keep the say.
+This book describes an operating system for organisations that work more like that: one that senses and responds, where authority lives in the structure rather than in a person, where work finds its way to the part of the organisation that answers for it, and where AI carries much of the load while people keep the say. It's a system of means and guardrails; each organisation's shape is its own. The system itself has no name. The Grove is the first network of organisations running on it.
 
-This book walks through the whole design, one piece at a time, from the society we hope it serves down to how a single decision gets made, and back out again. Each chapter starts with a doubt, says what the current way costs, shows what changes, and explains **how we decided**: what we weighed and why we chose as we did.
+It walks through the whole design, one piece at a time, from the society we hope it serves down to how a single decision gets made, and back out again. Each chapter starts with a doubt, says what the current way costs, shows what changes, and explains **how we decided**: what we weighed and why we chose as we did.
 
 ## Read it
 
-- **As a book:** the reading site, built from this repository (link to follow once publishing is switched on).
+- **As a book:** [markaspall.github.io/the-grove-book](https://markaspall.github.io/the-grove-book/), built from this repository.
 - **Here:** the chapters are in [`src/`](src/). Start with [Before we begin](src/00-before-we-begin.md).
 
 ## What's written so far
 
 - [Before we begin](src/00-before-we-begin.md)
 - [1. A society of sovereigns](src/01-a-society-of-sovereigns.md)
+- [2. The legacy we're living](src/02-the-legacy-were-living.md)
 - [3. Nature has no bosses](src/03-nature-has-no-bosses.md)
 
 The full outline is in [`src/SUMMARY.md`](src/SUMMARY.md). Chapters appear as they're drafted, not in order.

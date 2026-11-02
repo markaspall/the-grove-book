@@ -40,7 +40,11 @@ Between the individual and the state there's a layer that often gets overlooked.
 
 It's the organisation.
 
-> *I've spent most of my life interested in one question: what could people become? Not just one person, but teams, organisations, whole societies. My career has wandered, from code to boardrooms to coaching to facilitation and somatic work, but looking back, it was always circling that question. And again and again, the place where it got stuck wasn't in people. People were extraordinary, given half a chance. It got stuck in the way they were organised.*
+> *For as long as I can remember, I've been drawn to one question: what could people become? Not just one person, but teams, organisations, whole societies. My working life wandered, from code to boardrooms to coaching to facilitation and somatic work, but it kept circling back to that question.*
+>
+> *I can't tell you where that kind of search comes from. I knew in my heart that the way we organised was wrong long before my head could explain why, and I refused to let the feeling go. I let it steer my life, which some would call foolish, and it has turned out fine. What I came to believe is simple: people are beautiful, loving creatures caught in a trap of the mind. Given half a chance, they're extraordinary.*
+>
+> *I felt that half chance for myself when I worked inside a Holacracy organisation, and again as a solo founder. I have a phrase I live by: I am life as it meets me. It means meeting whatever comes with agency, not waiting for permission. My own life has been the experiment.*
 
 ## Organisations as the practice ground
 
@@ -66,6 +70,8 @@ We use the word *sovereign* a lot in this book, and it needs care, because it ha
 
 We don't mean the lone individual who owes nothing to anyone, or the strongman who answers to no one. We mean something closer to self-authorship: the capacity to sense your own situation, decide what matters, take responsibility for it, and stand in honest relationship with others who are doing the same. A sovereign person isn't isolated. They're the opposite of a cog.
 
+> *For me, being sovereign means being the author of my own life. Life is chaotic and unpredictable; what I make of it is mine to answer for. Nobody else can take that from me, and nobody else should have to carry it for me.*
+
 Three levels of it run through the book.
 
 **Sovereign people.** People who can see the whole of what they're part of, raise what they sense, take up the work they're drawn to, and leave when they need to. Not managed, not assigned, not scored.
@@ -75,6 +81,8 @@ Three levels of it run through the book.
 **A sovereign society.** A society made of many such organisations, able to work together and commit together without one of them ruling the rest. Self-sustaining, not because someone at the top holds it together, but because its parts can sense, respond and coordinate.
 
 Put like that, it can sound grand. In practice it starts small: one team that decides for itself, one founder who doesn't become the boss, one organisation that keeps its promises without anyone cracking a whip.
+
+Three lines have guided us since the start, and they say the same thing more briefly. *Flow is the new force. Unfolding is the new invention. Collaboration is the new competition.* Force gives way to flow, the master plan gives way to what unfolds, and winning alone gives way to winning together.
 
 ## A society that leaves us the human part
 

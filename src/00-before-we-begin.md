@@ -14,13 +14,15 @@ What we can promise is that it's honest about where it stands.
 
 ## Why write it now
 
-> *For most of my working life I carried a question I couldn't answer. I'd built a company, sat at the top of it, and sat across the table from people at the top of other companies. Almost all of us were doing the same thing: trying to steer something we could no longer see clearly, with the people who could see it best furthest from the wheel. I knew there had to be another way. I found pieces of it over the years, in practices like Holacracy, in rooms I facilitated, in the way people behaved when the structure got out of their way. But the whole thing wouldn't hold together. Not by hand. Not with the tools we had.*
+> *We're writing this now because the time is right. In a little over two months we built an operating system for organisations, and almost none of it is new. The answers have been around for years, in self-management, in systems thinking, in the way living things organise themselves. What's changed is that the technology to make them work is finally here.*
 >
-> *Then the tools changed.*
+> *The hard part was never the code. It's us. If we all woke up tomorrow having somehow forgotten that hierarchy ever existed, I think we'd build something very different. We can't forget, of course. So this is one example of what we could build instead, offered in the hope that it opens a door onto what's possible.*
 
-When the tools changed, the question stopped being mine alone. I took it to the "we", and we started building.
+For years before that, the idea was mine to carry, and it was too big to hold alone. The thinking alone was a lifetime's work, and the code was more. Then the tools changed. It became possible to try an idea, throw it away and start again in days rather than years. So I brought the idea to the "we", and we started building. Years of solo work were compressed into weeks.
 
-The result is The Grove: an operating system for organisations that run without a boss. Not without leadership, and not without structure, but without someone at the top who has to know everything, decide everything and tell everyone. You'll meet it properly from chapter five onwards. Before that, we want to show you why it might be needed, and where the idea came from.
+The result is an operating system for organisations that run without a boss. Not without leadership, and not without structure, but without someone at the top who has to know everything, decide everything and tell everyone. It's a system of means and guardrails. The means are what an organisation needs to run: ways to sense, decide, route work, keep promises and see itself. The guardrails are what stop it drifting back to the old ways when people are tired or under pressure. What it doesn't do is dictate how an organisation should be shaped. Each organisation's shape, its purpose, its parts and its agreements, is its own, held as data. We think of that as the organisation's DNA. The code underneath is only the substrate it grows on.
+
+The system itself doesn't have a name. The first network of organisations running on it is called The Grove, and that's the name you'll see most in these pages.
 
 We could have waited until it was finished and then written it up. We chose not to, for three reasons.
 

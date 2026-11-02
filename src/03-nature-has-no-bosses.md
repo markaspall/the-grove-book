@@ -30,7 +30,7 @@ That loop made sense for most of history, when information moved slowly and only
 
 Every decision waits for one person's attention. The people closest to the problem, who usually know most, have to explain it upwards and then wait. By the time an answer comes back, the situation has moved on. The person at the top, meanwhile, is drowning: too much coming in, too little time, and the quiet dread of being the one who'll be blamed. The people below learn, slowly, that their job is to report and comply rather than to think. Some of the best of them leave. The rest stop offering what they see.
 
-> *I noticed something else. Small groups worked. Under a dozen people, everyone could hold the whole picture, and things moved. But a dozen was the limit. Past that, conversations started to pool in corners, and even with twelve I found myself being kept in the dark. Not out of malice. There was simply more going on than one conversation could carry. Every time we grew, we added another layer of someone-in-charge to bridge the gap, and every layer made the people at the top a little further from the customer.*
+> *Something else became clear as we grew. Small groups worked. With a handful of people, everyone could see what everyone else was doing, and things moved. Somewhere around eight, that began to change. People formed their own little silos, and the real conversations moved to the water cooler. By twelve the transparency was gone, and I was increasingly in the dark about what was actually happening. At that size structure becomes necessary, or people drift. The only structure I knew was another layer of someone-in-charge, and every layer put the people at the top a little further from the customer.*
 
 None of this is anyone's fault. It's the shape of the system, and the shape came from a time when there was no other way to get information to where decisions were made.
 
@@ -38,7 +38,7 @@ Around the same time, in another software company on the other side of the Atlan
 
 ## Where to look
 
-> *So where do you look on the lonely days, sitting with problems nobody else in the building can help you with? For me it was a coffee on the lawn, looking out over the fields. If you look long enough, nature starts to say something. It took me a while to hear it. But at some point I started wondering how all of that was organised, and who, if anyone, was in charge.*
+> *So where do you look, on the days when the problem won't let go and there's nobody in the building to share it with? For me the answer was long walks, and books: systems thinking, Spiral Dynamics, Margaret Wheatley, whose work on organisations and the new science I read from cover to cover. Somewhere between the walking and the reading, I started looking more closely at how the living world around me was organised, and who, if anyone, was in charge.*
 
 ## The slime mould and the railway
 
@@ -74,7 +74,7 @@ You might be thinking of the obvious exception. Surely wolves have an alpha.
 
 The "alpha wolf" came largely from studies of captive wolves, unrelated animals forced together in an enclosure, who did fight for dominance. In 1999 L. David Mech, the biologist whose own early book had helped spread the idea, published a paper saying, in effect, that he'd got it wrong. In the wild, a wolf pack is mostly a family. The leaders are the parents. They lead the way parents do, through experience and care, and the young leave to start packs of their own.[^7]
 
-We tell ourselves nature is organised like our organisations. Often it's the other way round. We're so surrounded by hierarchy that we see it everywhere, even where it isn't. And when our hearts dream of something else, our minds quietly rebuild it the old way.
+We tell ourselves nature is organised like our organisations. Often it's the other way round. We're so surrounded by hierarchy that we see it everywhere, even where it isn't.
 
 ## What nature is doing instead
 
@@ -91,9 +91,11 @@ None of this means nature is gentle, or that it has no structure. It has a great
 
 I didn't come to this as a blank sheet. Hierarchy had already failed me in practice, in exactly the way described above. I'd seen flat organisations fail too: without structure, the most confident voices take over, and the structure that forms is invisible and unaccountable. And I'd worked inside Holacracy, which got closer than anything else, giving authority to roles and letting anyone change the structure, but which still leaned on people running its meetings and keeping its records by hand.
 
-What I couldn't do, for a long time, was build the alternative. A termite has its mud and a bee has its dance. People in an organisation needed something that could carry the traces, hold the structure and keep the agreements, without a person at the top doing it for them. For years the idea had to wait for the technology.
+> *In time the ideas needed gathering, and they gathered into a story. I wrote *Max Unleashed*, a fable about a small mouse with his heart in the right place, who learns from the living world around him how to solve his problems and build something fairer, with no one in charge. Telling it as a tale made the idea whole for the first time. What was left was to make it real. I hope the story can still do for others what it did for me: show a new way before anyone asks how it works.*
 
-When the technology arrived, I took the idea to the "we", and we pondered it together. The question wasn't whether to move beyond hierarchy. It was how far to follow nature, and what to keep.
+What I couldn't do, for a long time, was build the alternative. A termite has its mud and a bee has its dance. People in an organisation needed something that could carry the traces, hold the structure and keep the agreements, without a person at the top doing it for them. And it was simply too big for one person to hold, the ideas and the code together.
+
+Then the technology arrived. It became possible to try something, throw it away and start again within days, and to work through ideas at a pace no one person could manage. So I brought the idea to the "we", and we began to work on it together. Years of solo effort were compressed into weeks. The question wasn't whether to move beyond hierarchy. It was how far to follow nature, and what to keep.
 
 Copying nature outright was never the answer. Nature is ruthless at the edges. Parts that don't pull their weight are starved or shed. A colony that chooses badly dies. We didn't want an organisation that treats its people the way a slime mould treats a dead-end tube.
 
@@ -119,4 +121,6 @@ The question for the rest of this book isn't whether we can do without anyone le
 [^6]: Seeley, T. D. (2010), *Honeybee Democracy*, Princeton University Press.
 [^7]: Mech, L. D. (1999), "Alpha status, dominance, and division of labor in wolf packs", *Canadian Journal of Zoology* 77: 1196 to 1203.
 
-For the organisation as a living system rather than a machine: Laloux, F. (2014), *Reinventing Organizations*, Nelson Parker; and, from the cybernetic side, Beer, S. (1972), *Brain of the Firm*, Allen Lane.
+The fable that came before The Grove: *Max Unleashed*, at max-unleashed.com.
+
+For the organisation as a living system rather than a machine: Wheatley, M. J. (1992), *Leadership and the New Science*, Berrett-Koehler; Laloux, F. (2014), *Reinventing Organizations*, Nelson Parker; and, from the cybernetic side, Beer, S. (1972), *Brain of the Firm*, Allen Lane.
