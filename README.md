@@ -30,6 +30,14 @@ It walks through the whole design, one piece at a time, from the society we hope
 - [4. What if an organisation were alive?](src/04-what-if-an-organisation-were-alive.md)
 - [5. Why an operating system](src/05-why-an-operating-system.md)
 - [6. The spark](src/06-the-spark.md)
+- [7. Purpose: what closes, what explores](src/07-purpose.md)
+- [8. The branch: cells, not jobs](src/08-the-branch.md)
+- [9. Making decisions](src/09-making-decisions.md)
+- [10. Trust](src/10-trust.md)
+- [11. Work that finds its way](src/11-work-that-finds-its-way.md)
+- [12. Vision as hypothesis](src/12-vision-as-hypothesis.md)
+- [13. Promises](src/13-promises.md)
+- [14. Money and value](src/14-money-and-value.md)
 
 The full outline is in [`src/SUMMARY.md`](src/SUMMARY.md). Chapters appear as they're drafted, not in order.
 

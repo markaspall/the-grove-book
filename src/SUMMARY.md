@@ -16,14 +16,14 @@
 
 # Part three. Inside the organism
 
-- [7. Purpose: what closes, what explores]()
-- [8. The branch: cells, not jobs]()
-- [9. Making decisions]()
-- [10. Trust]()
-- [11. Work that finds its way]()
-- [12. Vision as hypothesis]()
-- [13. Promises]()
-- [14. Money and value]()
+- [7. Purpose: what closes, what explores](07-purpose.md)
+- [8. The branch: cells, not jobs](08-the-branch.md)
+- [9. Making decisions](09-making-decisions.md)
+- [10. Trust](10-trust.md)
+- [11. Work that finds its way](11-work-that-finds-its-way.md)
+- [12. Vision as hypothesis](12-vision-as-hypothesis.md)
+- [13. Promises](13-promises.md)
+- [14. Money and value](14-money-and-value.md)
 
 # Part four. The organisation that knows itself
 
