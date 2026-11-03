@@ -26,7 +26,7 @@ Some of the books behind this book are in the notes to each chapter. Others shap
 
 ## What people could become
 
-- **Hillman, J. (1996), *The Soul's Code: In Search of Character and Calling*, Random House.** The idea that each person carries a calling. It sits behind seats chosen rather than assigned, in Chapter 6, and behind asking for a seat as a sign of where someone would give, in Chapter 9.
+- **Hillman, J. (1996), *The Soul's Code: In Search of Character and Calling*, Random House.** The idea that each person carries a calling. It sits behind seats chosen rather than assigned, in Chapter 6, and behind members saying, in their own words, which open seat they'd like, in Chapter 9.
 - **Eisenstein, C. (2007), *The Ascent of Humanity*, Panenthea Press.** A long argument that our crises grow from a story of separation, and that a story of connection is possible. Chapters 1 and 25.
 - **Macy, J. and Brown, M. Y. (2014), *Coming Back to Life: The Updated Guide to the Work That Reconnects*, New Society Publishers.** Turning grief for the world into the energy to act, together. The tone of Chapter 25 owes it something.
 - **Vaughan-Lee, L. (ed.) (2013), *Spiritual Ecology: The Cry of the Earth*, The Golden Sufi Center.** Essays on the inner side of the ecological crisis: that how we see the world shapes how we treat it.
