@@ -18,9 +18,9 @@ This page is a reference to every named part of the system the book describes, s
 
 **Accountability.** One ongoing activity a branch answers for, such as "bookings". Work is routed by matching against them. (Chapters 8 and 12)
 
-**Purpose.** What the organisation, or a branch, exists to serve: a direction, not a destination. The root's purpose changes only in the root's own forum, with every member asked for advice, two thirds of the forum's trust and a timelock. A branch's purpose is set in its parent's forum. (Chapter 7)
+**Purpose.** What the organisation, or a branch, exists to serve: a direction, not a destination. The root's purpose changes only in the forum around the root, with every member asked for advice, two thirds of the forum's trust and a timelock. A branch's purpose is set in the forum around its parent. (Chapter 7)
 
-**Forum.** A branch together with the branches directly inside it: a parent and its children. There is one kind of forum, the same at every level. A branch takes part in its parent's forum as one of the children, and that's where its own remit is decided, with its steward taking part, not standing outside. Its own forum, itself and its children, decides its children's remits and how it arranges its own means. So a branch takes part in two forums but is governed by one: its parent's. A branch's remit is never decided with its own children. The root has no parent, so its remit and purpose are decided in its own forum, with its children. And if a parent's forum has fewer than two distinct people, the decision moves on to the next forum towards the root, never down to the branch's own children. (Chapters 6 and 8)
+**Forum.** The people who hold the seat of a branch and the seats of the branches grown directly from it. One kind, the same at every level. Forums are made of people, not branches: someone holding several seats can sit in many forums, one person holding several seats in the same forum counts once, and a crew carries one seat's weight. A branch's remit is decided in one forum only, the forum around its parent, where whoever holds its seat takes part as a person, never by the people below it. The root has no parent, so its remit and purpose are decided in the forum around the root. A forum with fewer than two distinct people passes its decisions towards the root. (Chapters 6 and 8)
 
 **Seat.** What a person holds in a branch; each branch has one, and it can be shared. Nobody takes a seat by their own proposal unless they'd decide alone anyway, and anyone can step down. (Chapters 6 and 8)
 
@@ -178,7 +178,7 @@ This page is a reference to every named part of the system the book describes, s
 
 **Agreement.** Two meanings. The organisation's agreement on how its people are here together, which members agree to on joining. And an agreement between organisations, for one to serve another's job, decided by a proposal on each side and looked back on every ninety days by default. (Chapters 9 and 21)
 
-**Service.** Something a branch offers other organisations, at its own price, by a proposal in its own forum. (Chapter 21)
+**Service.** Something a branch offers other organisations, at its own price, by a proposal. (Chapter 21)
 
 **Need.** A branch's posting of what it's short of, for organisations to answer with a service. (Chapter 21)
 

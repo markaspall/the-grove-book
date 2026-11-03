@@ -50,9 +50,9 @@ That small detail matters for everything after. Nothing comes into being in an o
 
 Inside an organisation, the life of branches is built, and it runs through ordinary proposals.
 
-A new branch is born by a proposal heard in the forum it will sit in, among its parent and its future siblings. It can start from nothing, or it can carry jobs out of its parent, taking their work and records with it. One job that has become two can be split into two. A job can move to another branch where that work already lives. And a branch can be folded back into its parent.
+A new branch is born by a proposal heard in the forum around the branch it grows from. It can start from nothing, or it can carry jobs out of its parent, taking their work and records with it. One job that has become two can be split into two. A job can move to another branch where that work already lives. And a branch can be folded back into its parent.
 
-Folding is how a branch ends, and it's worth being exact about what happens, because this is where most organisations lose things. When a fold is agreed in the parent's forum, everything the branch answered for goes up to the parent, with its open work, its records, its domains and their connections, its playbooks and its measures. Where the parent already answers for the same job, the work joins the parent's own, so nothing is held twice. The promises it was keeping go up too, along with what it holds, money owed to it, sendings under way and the bets it had placed. What's left of its budget goes with its work. Any branch beneath it now grows under the parent. Practices that held only on that branch end, each one saying why. An open seat it had posted closes. Its holders step down. Then the branch is composted. Its name stays in the record, so the history can still say where things were.
+Folding is how a branch ends, and it's worth being exact about what happens, because this is where most organisations lose things. When a fold is agreed in the forum around the parent, everything the branch answered for goes up to the parent, with its open work, its records, its domains and their connections, its playbooks and its measures. Where the parent already answers for the same job, the work joins the parent's own, so nothing is held twice. The promises it was keeping go up too, along with what it holds, money owed to it, sendings under way and the bets it had placed. What's left of its budget goes with its work. Any branch beneath it now grows under the parent. Practices that held only on that branch end, each one saying why. An open seat it had posted closes. Its holders step down. Then the branch is composted. Its name stays in the record, so the history can still say where things were.
 
 Nothing is dropped on the floor. The work doesn't end because the branch did. It moves to where it can still be done.
 
@@ -102,7 +102,7 @@ The fold was built later than the rest. Simulated organisations showed the readi
 
 We decided never to suggest merging two branches because the same people hold both. And we decided to treat a division as a passage people grieve through, not only a mechanism.
 
-What's still open is a lot. Whether a spin-off is decided by the forum the branch sits in, or by the root every time, since it takes value out of the organisation. How long the holding stage lasts while a legal entity divides, which takes months where the software takes minutes. How closing works. And whether, once real organisations use the fold, it will feel like a fair ending or a tidy one.
+What's still open is a lot. Whether a spin-off is decided by the forum around the branch's parent, or by the root every time, since it takes value out of the organisation. How long the holding stage lasts while a legal entity divides, which takes months where the software takes minutes. How closing works. And whether, once real organisations use the fold, it will feel like a fair ending or a tidy one.
 
 ## What you might take from this
 

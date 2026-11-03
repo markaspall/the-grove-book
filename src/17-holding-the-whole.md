@@ -50,7 +50,7 @@ Barbara Marx Hubbard drew something like this for a whole society. Her Wheel of 
 
 ## What holds the whole
 
-**Purpose is what closes it.** An organisation needs something that makes it this organisation and not a crowd. On The Grove that's its purpose, held at the root, the first seat. It's what Beer would call identity. Only the root's own forum can change it, and a change to it is put to every member for advice before anyone decides. A branch can change what it's accountable for in the forum it sits in; nobody below the root can change what the whole is for.
+**Purpose is what closes it.** An organisation needs something that makes it this organisation and not a crowd. On The Grove that's its purpose, held at the root, the first seat. It's what Beer would call identity. Only the root's own forum can change it, and a change to it is put to every member for advice before anyone decides. A branch's accountabilities change in the forum around its parent; nobody below the root can change what the whole is for.
 
 **The root is one seat, and the end of every rise.** This is the honest double answer Chapter 6 gave. In decisions, the root weighs the same as each of the branches just beneath it in its forum. In structure, it's where things end: work that has no home rests there, problems nobody has answered arrive there, and only its forum touches the purpose. So the root carries more than it looks. What it doesn't carry is a private view.
 

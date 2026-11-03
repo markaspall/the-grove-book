@@ -60,7 +60,7 @@ This also changes what success means. In an organisation on The Grove, success i
 
 Once purpose carries direction, it has to be built into how the organisation works, not just written down at the start.
 
-**Every part has one.** The whole organisation has a root purpose. Each branch, each part within it, has its own guiding purpose, set in the forum it sits in, with its parent and its siblings. A branch can't be grown without one, and it's written as what the branch does for the purpose above it. So a steward holding a small part of a large organisation can ask the same question as the founder: does this belong here? The answer is nested, the way Chapter 4 described parts that are also wholes.
+**Every part has one.** The whole organisation has a root purpose. Each branch, each part within it, has its own guiding purpose, set in the forum around its parent. A branch can't be grown without one, and it's written as what the branch does for the purpose above it. So a steward holding a small part of a large organisation can ask the same question as the founder: does this belong here? The answer is nested, the way Chapter 4 described parts that are also wholes.
 
 **Changing the root is rare and shared.** Only the root's forum can change the root purpose, and every member is asked for advice before it decides. It counts as the highest impact a change can have, so it needs two thirds of the forum's trust behind it and no concern standing. Then it waits out a timelock, three days before the change takes effect, so nobody can rewrite the organisation's identity in a hurry.
 

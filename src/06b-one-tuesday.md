@@ -62,7 +62,7 @@ Then advice. Tomasz sets three days, the shortest a proposal can. It's put to Ju
 
 ## The vote
 
-The forum that decides is the one Repairs sits in: its parent, the root, together with Repairs itself and its siblings, Sales and Classes. Here that's the root's forum, so Tomasz takes part in deciding a change to his own branch. Adding an accountability is a low-impact change, so it passes when the people consenting carry a fifth of the forum's trust in this kind of matter and no concern stands. In a forum of four, one person's word could be enough on its own. That's exactly why the vote stays open for two days whatever happens: nobody can pass a change the moment it opens.
+The forum that decides is the one around Repairs' parent, the root: the people who hold the root's seat and the seats of the branches grown from it, Repairs, Sales and Classes. So Tomasz, who holds Repairs' seat, takes part as a person in deciding a change to his own branch. Adding an accountability is a low-impact change, so it passes when the people consenting carry a fifth of the forum's trust in this kind of matter and no concern stands. In a forum of four, one person's word could be enough on its own. That's exactly why the vote stays open for two days whatever happens: nobody can pass a change the moment it opens.
 
 Ruth, Ade and Tomasz consent on the first day. Lena says nothing. She's busy with a class and has no harm to name. When the two days end, enough of the forum's trust has said yes and no concern stands, so the change is made. Lena's silence didn't block it, and it didn't count as a yes either. It doesn't wait any longer than that. Only a high-impact change waits out a three-day timelock first, and this isn't one.
 

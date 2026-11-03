@@ -70,7 +70,7 @@ So we built the other way. It's easiest to see in a moment.
 
 Picture a small organisation on The Grove, a few months old. The person who started it holds the root, the seat that carries the organisation's purpose. Two others hold seats on the parts beneath it. A large order has come in, and the founder knows exactly who should take on the new kitchen work: herself. So she starts a proposal to seat herself on that part.
 
-It doesn't go through. The words she sees are plain: a seat is never taken by your own proposal. Someone else seated in the forum that branch sits in, alongside its parent and its siblings, has to raise it, and when it's decided, she stands aside from it, because it's about her.
+It doesn't go through. The words she sees are plain: a seat is never taken by your own proposal. Someone else seated in the forum around that branch's parent has to raise it, and when it's decided, she stands aside from it, because it's about her.
 
 That isn't a policy she forgot to read. There's no setting that turns it off, and nobody to ask for an exception, because there's nobody above the forum to ask.
 
