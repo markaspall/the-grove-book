@@ -94,7 +94,7 @@ Some of this we learned by watching it go wrong. In our simulations, an organisa
 
 The read also looks at the organisation's lean: where people say they want to go, and where their energy is actually moving. The two are set side by side and never blended into one. When they agree, that's a strong direction. When people say one thing and the work does another, we call it **drift**. When the work is quietly moving somewhere nobody has named, we call it **the unspoken**. Both are worth noticing, and neither is anyone's fault.
 
-And because the whole thing is a pattern rather than a fixed design, it should one day be possible to rehearse it. We're building towards a way to take a copy of an organisation before a big change, let it run, and see whether the change creates freedom or friction. Not a prediction of the future, which no living thing allows, but a rehearsal. It isn't built yet.
+And because the whole thing is a pattern rather than a fixed design, it should one day be possible to rehearse it. We've decided on a way to take a copy of an organisation before a big change, let it run, and see whether the change creates freedom or friction, and parked it until the rest is settled. Not a prediction of the future, which no living thing allows, but a rehearsal. It isn't built yet.
 
 ## How we decided
 

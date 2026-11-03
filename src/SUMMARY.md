@@ -43,8 +43,8 @@
 
 # Part six. Return
 
-- [24. Rehearsing the future]()
-- [25. Back to society]()
+- [24. Rehearsing the future](24-rehearsing-the-future.md)
+- [25. Back to society](25-back-to-society.md)
 
 ---
 
