@@ -11,6 +11,7 @@
 - How an organisation has many boundaries, like a membrane, and parts that are also wholes
 - What the read looks at, the four readings it makes, and why it never sees a person
 - How drift and the unspoken show the gap between what people say and where the work moves
+- What it takes to count as living, and how the organisation senses, steadies, repairs, learns and adapts
 
 ---
 
@@ -97,6 +98,32 @@ Some of this we learned by watching it go wrong. In our simulations, an organisa
 The read also looks at the organisation's lean: where people say they want to go, and where their energy is actually moving. The two are set side by side and never blended into one. When they agree, that's a strong direction. When people say one thing and the work does another, we call it **drift**. When the work is quietly moving somewhere nobody has named, we call it **the unspoken**. Both are worth noticing, and neither is anyone's fault.
 
 And because the whole thing is a pattern rather than a fixed design, it should one day be possible to rehearse it. We've decided on a way to take a copy of an organisation before a big change, let it run, and see whether the change creates freedom or friction, and parked it until the rest is settled. Not a prediction of the future, which no living thing allows, but a rehearsal. It isn't built yet.
+
+## What it would take to count as living
+
+Calling an organisation alive is easy. Earning the word is harder. Biologists list what living things do: they keep a boundary, take in what they need and move it to where it's needed, sense their surroundings, keep themselves steady, repair damage, learn, adapt, grow, reproduce and die. If the living picture is more than a metaphor, an organisation on The Grove should be able to say how it does each of those. Here's where it stands.
+
+**A boundary.** The membrane is real in the system. Work is weighed by how it crossed, people join by invitation and leave freely, and a seat is the clear edge of who decides.
+
+**Taking in and circulating.** Work arrives at the edge and is routed to the part that answers for it. Money comes in and goes to a shared commons, and from there to the parts that need it, by proposal, as Chapter 15 describes. The part that earns doesn't keep the food for itself.
+
+**Sensing.** The read, described above, and the Field, where people sense together, are its senses: one reads what the work does, the other hears what people notice.
+
+**Keeping steady.** When one of the organisation's own measures leaves its usual range, it becomes one piece of work on the branch it's about, never a stream of alarms, and its strength follows the reading. Closing it takes words: what was found, and what's being done or why this level is right. If the reading is still out of range four weeks later, it opens again one branch up, so nobody can quiet a signal about their own part with a story. Left untouched for two weeks, it rises. Once the reading has been back in its range for two weeks, it clears itself. It works much as a hormone does: a graded signal that keeps nudging until the body comes back into balance. And changes are damped, so the organisation doesn't chase its own tail.
+
+**Repair.** When a part is damaged, something else takes the strain. An empty seat falls to the branch above, so the work always has someone who answers for it. Work at risk can be taken by whoever holds the branch above. A promise that slips rises until someone steps in. Someone who leaves takes nothing with them that the organisation needs: their work goes back to its branch. And a tension nobody answers climbs, a forum at a time, until somebody does.
+
+**Learning.** Every change is looked back on about four weeks after it's made: did it land, what did we learn, keep it, change it or stop it? Playbooks, the organisation's ways of doing things, are revised from what happens. Bets are reshaped by what comes back. And the learning pulse watches whether the organisation is getting better at learning, not just busier.
+
+**Adapting.** Its shape changes when the work shows it should: parts grow, split, merge and fold, each by a decision people can see.
+
+**Defending itself.** The few guardrails act like an immune system. Money can't buy a say. Nobody can seat themselves. Personal details of outsiders are refused where the whole organisation would read them. A newcomer brought in to swing things can be questioned and put on hold.
+
+**Growing, reproducing and dying.** Branches are born, divide and end by folding into their parent, with nothing dropped. Organisations giving rise to new organisations is designed and not yet built, and closing a whole organisation isn't designed at all, as Chapter 21 says plainly.
+
+**Remembering.** What it knows lives in its branch documents and its record, written as the work happens, as Chapter 20 describes.
+
+One honest caveat. A careful critic of our early wording pointed out that something can organise itself without being alive: a living thing also nourishes, repairs and renews itself, and in an organisation much of that is done by people. That's true, and it's the design. The system carries the signals, the routes and the clocks. People do the repairing, the caring and the deciding. Whether the whole deserves the word in a biologist's strict sense, we're happy to leave open. In the ways that matter for the people inside it, it behaves like something alive, and it can't do that without them.
 
 ## How we decided
 
