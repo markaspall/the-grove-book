@@ -8,7 +8,7 @@
 
 - Why the book is written in public while the system is still being built
 - How "is", "building towards" and "we don't know" mark what's built and what isn't
-- The road from here: the test bench, the sandpit, the first real organisations, going live, the network
+- The road from here: closing the gaps, the test bench, the sandpit, going live with the Steward, early adopters, and scale
 - Who the book is written for, and why every chapter starts with a doubt
 - How the six parts run, and the shape each chapter follows
 - Why "I", "we" and "us" all appear, and who each of them is
@@ -29,11 +29,12 @@ One convention helps with that. When we say something in the system *is* so, it'
 
 So you can place what you read, here's the order we expect things to happen in. It's a direction, not a timetable, and it may change as we learn.
 
-1. **The test bench, now.** Organisations seeded, grown and run by AI people, in one shared space we control, so we can test the design, the experience, scale and security, and change things quickly.
-2. **The sandpit.** The first taste for people: step into a simulated organisation at a key moment in its life, take the part of one of its people, and play.
-3. **The first real organisations.** A small number of founders and teams bringing their own work onto The Grove, learning with us where it holds and where it breaks.
-4. **Going live.** The Grove open to anyone, with each organisation its own independent DAO, running its own copy of the operating system, with its own DNA growing in it, and free to take a legal form when it needs one.
-5. **The network.** Organisations recognising each other, a Steward that is itself an organisation like any other looking after the shared code, and organisations able to commit together.
+1. **Closing the gaps.** Finishing what's still missing, until the system is as complete as we can see it being on our own.
+2. **The test bench.** Alongside that, organisations seeded, grown and run by AI people, in one shared space we control, so we can test the design, the experience, scale and security, and change things quickly.
+3. **The sandpit.** The first people to use it beyond the one human who built it: step into a simulated organisation at a key moment in its life, take the part of one of its people, and play. We expect more fixes from that, and rounds of it, until it's stable.
+4. **Going live.** Each organisation its own independent DAO, running its own copy of the operating system, with its own DNA growing in it, and free to take a legal form when it needs one. The Steward is there from the first day: an organisation like any other, looking after the code for the organisations that run it. From then on, everything is formal: releases, changes and how the system itself is looked after all go through the Steward's own decisions, in the open.
+5. **Early adopters.** The first organisations to come on, with plenty of hand-holding.
+6. **Scale, and working together.** More organisations, and organisations working with each other: services, agreements, and in time the ability to commit together.
 
 Each chapter says which of these the thing it describes belongs to: built and working on the test bench, or still to come.
 

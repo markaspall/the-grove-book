@@ -178,7 +178,7 @@ This page is a reference to every named part of the system the book describes, s
 
 **Network.** Organisations that recognise each other and share a steward for their code. On today's test bench all share one space we control; when The Grove goes live, each organisation is its own DAO in its own space. (Chapters 22 and 23)
 
-**The Steward.** The organisation that looks after a network's code and ships releases, taking no fee on what passes between organisations. Distinct from a seat's steward. Today a service we run; as an organisation, not built yet. (Chapters 22 and 23)
+**The Steward.** The organisation that looks after a network's code and ships releases, taking no fee on what passes between organisations. Distinct from a seat's steward. On the test bench a service we run; an organisation in its own right from the day The Grove goes live. (Chapters 22 and 23)
 
 **Kernel.** The smallest core of the code: the guardrails nobody inside an organisation can vote away. (Chapter 23)
 

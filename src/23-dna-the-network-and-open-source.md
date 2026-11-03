@@ -62,7 +62,7 @@ This is what we mean by open to those who have earned it. Not open to anyone wit
 
 **The Steward is an organisation like any other.** A network of organisations that recognise each other needs someone to maintain the code for it. That Steward will be an organisation on the same system, bound by the same rules, whose only difference is that it holds the source and ships releases. It earns its keep by being worth staying with. The Steward takes no fee from the services organisations provide to each other: what an organisation earns from its services is its own. An organisation pays it one flat plan for maintaining the system, never per person and never per decision, and is free to top up its own computing directly or bring its own key for AI, which keeps the plan honest.
 
-On the test bench the Steward isn't that. It's a separate service we run, and no plan is charged. Turning it into an organisation with seats, and handing it the code, is the step after organisations can live in their own spaces.
+On the test bench the Steward isn't that. It's a separate service we run, and no plan is charged. It becomes an organisation with seats, holding the code, from the day The Grove goes live. It has to: a system with no steward of its own would leave the code in one person's hands.
 
 **And if a Steward goes bad, the organisations leave together.** Capturing a Steward gets you its business and nothing else. No keys to anyone's space, no only copy of anyone's records, no power to push code, no source held hostage, because every organisation already carries it. Bad code goes uninstalled. A price rise ends with organisations that stop paying. Neglect ends with organisations that pair up, open their seals and steward themselves.
 
