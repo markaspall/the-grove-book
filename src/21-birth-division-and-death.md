@@ -1,4 +1,4 @@
-# Chapter 20. Birth, division and death
+# Chapter 21. Birth, division and death
 
 *A working draft, November 2026. This book is being written while The Grove is being built; expect it to change. Checked against the build as it stood on 1 November 2026.*
 
@@ -56,7 +56,7 @@ Folding is how a branch ends, and it's worth being exact about what happens, bec
 
 Nothing is dropped on the floor. The work doesn't end because the branch did. It moves to where it can still be done.
 
-The organisation's reading, described in Chapter 16, can show that a branch may be withering, or that two branches pass work back and forth so much they may want to be one. The reading never acts on that. A person raises the proposal, and the forum decides. And quiet alone is never read as dying, because some parts of an organisation are meant to be quiet.
+The organisation's reading, described in Chapter 17, can show that a branch may be withering, or that two branches pass work back and forth so much they may want to be one. The reading never acts on that. A person raises the proposal, and the forum decides. And quiet alone is never read as dying, because some parts of an organisation are meant to be quiet.
 
 ## Leaving
 

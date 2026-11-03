@@ -26,20 +26,20 @@
 - [13. Vision as hypothesis](13-vision-as-hypothesis.md)
 - [14. Promises](14-promises.md)
 - [15. Money and value](15-money-and-value.md)
+- [16. Into the legal world](16-into-the-legal-world.md)
 
 # Part four. The organisation that knows itself
 
-- [16. The read](16-the-read.md)
-- [17. Holding the whole without a centre](17-holding-the-whole.md)
-- [18. The co-pilot](18-the-co-pilot.md)
-- [19. Memory](19-memory.md)
+- [17. The read](17-the-read.md)
+- [18. Holding the whole without a centre](18-holding-the-whole.md)
+- [19. The co-pilot](19-the-co-pilot.md)
+- [20. Memory](20-memory.md)
 
 # Part five. Beyond one organisation
 
-- [20. Birth, division and death](20-birth-division-and-death.md)
-- [21. Between organisations](21-between-organisations.md)
-- [22. DNA, the network, and why not open source](22-dna-the-network-and-open-source.md)
-- [23. Into the legal world](23-into-the-legal-world.md)
+- [21. Birth, division and death](21-birth-division-and-death.md)
+- [22. Between organisations](22-between-organisations.md)
+- [23. DNA, the network, and why not open source](23-dna-the-network-and-open-source.md)
 
 # Part six. Return
 

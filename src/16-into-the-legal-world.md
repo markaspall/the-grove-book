@@ -1,4 +1,4 @@
-# Chapter 23. Into the legal world
+# Chapter 16. Into the legal world
 
 *A working draft, November 2026. This book is being written while The Grove is being built; expect it to change. Checked against the build as it stood on 1 November 2026.*
 
@@ -7,6 +7,7 @@
 **In this chapter**
 
 - Why the law's demand for a named signer seems to make that person the boss
+- Why the legal body is part of the organisation, collectively stewarded, not something outside it
 - What co-operatives and employee ownership change, and what they leave untouched
 - How a legal body can point at where decisions are made: a passport, not a new king
 - How the designed company and its purpose lock work, and why the signer holds a role, not power
@@ -35,6 +36,8 @@ The law isn't blind to other ways. Co-operatives have carried shared ownership f
 ## A passport, not a new king
 
 The turn is to stop asking whether to have a legal body and ask which way authority flows through it.
+
+And to see the legal body as part of the organisation, not something standing outside or above it. It's how the organisation moves in the real world: how it signs a lease, holds an account, employs someone, is seen by a court. It's optional, and it belongs to the organisation the way a branch does. On The Grove it's a collectively stewarded legal entity: held by the members together, carrying out what the organisation decides, and answering to it.
 
 In the usual company, the paper is the source and the organisation borrows from it. Turn that round. Decisions are made in the organisation, by the people doing the work, in the way the earlier chapters describe. The legal body doesn't decide anything. It points at where decisions are made and says to a bank or a court: what they agreed, we agreed.
 

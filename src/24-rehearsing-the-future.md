@@ -121,4 +121,4 @@ A rehearsal isn't a forecast: it finds the friction before your people have to.
 [^3]: Pfiffner, M. (2022), *The Neurology of Business: Implementing the Viable System Model*, Springer.
 [^4]: Box, G. E. P. (1976), "Science and Statistics", *Journal of the American Statistical Association*, 71. Box argues there that all models are wrong and the scientist's job is to find which wrongness matters; the familiar phrasing "all models are wrong, but some are useful" comes from his later writing.
 
-On Stafford Beer's viable system model, which Pfiffner builds on, see Chapter 17. For simulation as a way of asking "what structure produces this?" rather than "what will happen?", Epstein's later essays, collected as *Generative Social Science* (Princeton University Press, 2006), are a clear and readable place to start.
+On Stafford Beer's viable system model, which Pfiffner builds on, see Chapter 18. For simulation as a way of asking "what structure produces this?" rather than "what will happen?", Epstein's later essays, collected as *Generative Social Science* (Princeton University Press, 2006), are a clear and readable place to start.

@@ -11,12 +11,12 @@ Some of the books behind this book are in the notes to each chapter. Others shap
 - **Laloux, F. (2014), *Reinventing Organizations*, Nelson Parker.** The book that showed whole organisations already working this way. Its threads of self-management, wholeness and evolutionary purpose run through Parts two and three.
 - **Bockelbrink, B., Priest, J. and David, L., *Sociocracy 3.0: A Practical Guide*, freely available from the authors.** A modular, openly licensed take on sociocracy: patterns any group can pick up, including consent and the drivers behind a change. Its spirit of small, separable practices sits close to Chapter 10.
 - **Robertson, B. J. (2015), *Holacracy*, Henry Holt.** Roles over people, tensions as fuel, a written constitution. Much of the structure in Chapters 8 and 10 began as a conversation with it.
-- **Nixon, T. (2021), *Work with Source*.** Who brings something into the world, and how responsibility is taken rather than given. Chapters 6 and 17 agree with it and part company with it.
+- **Nixon, T. (2021), *Work with Source*.** Who brings something into the world, and how responsibility is taken rather than given. Chapters 6 and 18 agree with it and part company with it.
 - **Semler, R. (1993), *Maverick*, Century.** A Brazilian company where people set their own hours and pay and chose their managers, decades before the word Teal. Proof, early on, that it could be done at scale.
 - **Carney, B. M. and Getz, I. (2009), *Freedom, Inc.*, Crown Business.** More organisations that took command away and found their people stepped up.
 - **Hsieh, T. (2010), *Delivering Happiness*, Business Plus.** The company behind the best-known Holacracy story, in its founder's words, before the story got hard.
 - **Mackey, J. and Sisodia, R. (2013), *Conscious Capitalism*, Harvard Business Review Press,** and **Kofman, F. (2006), *Conscious Business*, Sounds True.** Business as something that can serve more than its owners.
-- **Dethmer, J., Chapman, D. and Klemp, K. W. (2014), *The 15 Commitments of Conscious Leadership*, Conscious Leadership Group.** Leading from responsibility rather than blame. It sits behind the Clearing, the space kept off the record, in Chapter 19.
+- **Dethmer, J., Chapman, D. and Klemp, K. W. (2014), *The 15 Commitments of Conscious Leadership*, Conscious Leadership Group.** Leading from responsibility rather than blame. It sits behind the Clearing, the space kept off the record, in Chapter 20.
 
 ## Systems, dialogue and the learning organisation
 
@@ -25,7 +25,7 @@ Some of the books behind this book are in the notes to each chapter. Others shap
 - **Jaworski, J. (1996), *Synchronicity: The Inner Path of Leadership*, Berrett-Koehler.** Leadership as creating the conditions for what wants to happen.
 - **Bohm, D. (1996), *On Dialogue*, Routledge,** and **Isaacs, W. (1999), *Dialogue and the Art of Thinking Together*, Currency.** A group thinking together before anyone decides. Chapters 9 and 10.
 - **Capra, F. (1996), *The Web of Life*, Anchor Books,** and **(2002), *The Hidden Connections*, HarperCollins.** Life, and organisations, as networks rather than machines. Chapter 4.
-- **de Geus, A. (1997), *The Living Company*, Harvard Business School Press.** Why a few companies live for centuries. Chapters 4 and 20.
+- **de Geus, A. (1997), *The Living Company*, Harvard Business School Press.** Why a few companies live for centuries. Chapters 4 and 21.
 
 ## Nature, self-organisation and software
 
@@ -43,7 +43,7 @@ Some of the books behind this book are in the notes to each chapter. Others shap
 - **Beck, D. E. and Cowan, C. C. (1996), *Spiral Dynamics*, Blackwell.** Clare W. Graves's research on how values emerge as life conditions change. Chapter 2.
 - **Wilber, K. (1996), *A Brief History of Everything*, Shambhala; (2000), *A Theory of Everything*, Shambhala; (2006), *Integral Spirituality*, Shambhala.** The integral map that carried Graves into the colours Laloux used.
 - **McIntosh, S. (2007), *Integral Consciousness and the Future of Evolution*, Paragon House.** The integral view applied to culture and its next steps.
-- **Kegan, R. (1994), *In Over Our Heads*, Harvard University Press.** How the mind grows to meet what life asks of it. Chapter 16.
+- **Kegan, R. (1994), *In Over Our Heads*, Harvard University Press.** How the mind grows to meet what life asks of it. Chapter 17.
 - **Torbert, W. R. (2004), *Action Inquiry*, Berrett-Koehler,** and **Rooke, D. and Torbert, W. R. (2005), "Seven Transformations of Leadership", *Harvard Business Review*.** How leaders grow, and act differently as they do.
 - **Barrett, R. (1998), *Liberating the Corporate Soul*, Butterworth-Heinemann.** Seven levels of consciousness, read in organisations as well as people.
 
@@ -77,7 +77,7 @@ Some of the books behind this book are in the notes to each chapter. Others shap
 
 ## AI and the future
 
-- **Bostrom, N. (2014), *Superintelligence: Paths, Dangers, Strategies*, Oxford University Press.** The serious case for caution about capable AI. Part of why, in Chapter 18, Wise-Eye's limits are held in structure rather than in instructions.
+- **Bostrom, N. (2014), *Superintelligence: Paths, Dangers, Strategies*, Oxford University Press.** The serious case for caution about capable AI. Part of why, in Chapter 19, Wise-Eye's limits are held in structure rather than in instructions.
 - **Harari, Y. N. (2018), *21 Lessons for the 21st Century*, Jonathan Cape.** What work, meaning and freedom become as algorithms take more of each. Chapter 25 answers some of its questions differently.
 - **Davidson, J. D. and Rees-Mogg, W. (1997), *The Sovereign Individual*, Simon and Schuster.** A very different use of the word *sovereign*, built on the individual rather than the relationship. Chapter 1 explains why this book doesn't share it.
 
