@@ -34,6 +34,10 @@ This page is a reference to every named part of the system the book describes, s
 
 **The routing rule.** A forum with fewer than two distinct people doesn't decide; its decisions go to the next forum up that has two, ending at the root. One person holding several branches is still one person. (Chapter 8)
 
+**DAO.** A decentralised autonomous organisation: one whose rules are carried out by code its people agreed. Every organisation on The Grove is one from its first day. Nobody holds tokens, pays fees to act or handles cryptocurrency; the only touch of the blockchain is signing in with Internet Identity. (Chapter 5)
+
+**Legal wrapper.** An optional legal form for the organisation itself, so that it can be a legal entity the law can see: a DAO company owned by its members, pointing at where the organisation decides, with a purpose lock beside it. The organisation decides; the wrapper only carries its decisions into the legal world. Not built yet. (Chapter 23)
+
 ## Deciding
 
 **Tension.** A sensed gap between how things are and how they could be. Every proposal starts from one. (Chapters 10 and 16)
@@ -185,5 +189,3 @@ This page is a reference to every named part of the system the book describes, s
 **Service.** Something a branch offers other organisations, at its own price, by a proposal. (Chapter 21)
 
 **Need.** A branch's posting of what it's short of, for organisations to answer with a service. (Chapter 21)
-
-**Legal wrapper.** An optional legal body pointing at where the organisation decides: a members' DAO company with a purpose lock beside it. Not built yet. (Chapter 23)
