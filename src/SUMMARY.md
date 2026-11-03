@@ -49,3 +49,4 @@
 ---
 
 [The parts and what they do](appendix-the-parts-and-what-they-do.md)
+[The shelf behind this book](appendix-the-shelf.md)

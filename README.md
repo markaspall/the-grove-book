@@ -51,6 +51,7 @@ It walks through the whole design, one piece at a time, from the society we hope
 - [24. Rehearsing the future](src/24-rehearsing-the-future.md)
 - [25. Back to society](src/25-back-to-society.md)
 - [The parts and what they do](src/appendix-the-parts-and-what-they-do.md)
+- [The shelf behind this book](src/appendix-the-shelf.md)
 
 The full outline is in [`src/SUMMARY.md`](src/SUMMARY.md). Every chapter now has a first draft. Each will keep changing as the system does.
 
