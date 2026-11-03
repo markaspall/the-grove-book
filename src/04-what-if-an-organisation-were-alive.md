@@ -123,7 +123,7 @@ Calling an organisation alive is easy. Earning the word is harder. Biologists li
 
 **Remembering.** What it knows lives in its branch documents and its record, written as the work happens, as Chapter 20 describes.
 
-One honest caveat. A careful critic of our early wording pointed out that something can organise itself without being alive: a living thing also nourishes, repairs and renews itself, and in an organisation much of that is done by people. That's true, and it's the design. The system carries the signals, the routes and the clocks. People do the repairing, the caring and the deciding. Whether the whole deserves the word in a biologist's strict sense, we're happy to leave open. In the ways that matter for the people inside it, it behaves like something alive, and it can't do that without them.
+One honest caveat. A careful critic of our early wording pointed out that something can organise itself without being alive: a living thing also nourishes, repairs and renews itself, and in an organisation much of that is done by people. That's true, and it's the design. The system carries the signals, the routes and the clocks. Wise-Eye, the AI beside every steward, carries much of the load: reading what arrives, routing it, keeping track of what's at risk. People do the sensing, the repairing, the caring and the deciding. Put together, it's an organism powered by people and AI at once. That's as close to alive as we dare claim. Whether it deserves the word in a biologist's strict sense, we're happy to leave open. In the ways that matter for the people inside it, it behaves like something alive, and it can't do that without them.
 
 ## How we decided
 
