@@ -82,7 +82,11 @@ This page is a reference to every named part of the system the book describes, s
 
 **Triage.** Wise-Eye's first reading at the door: whether it's work, which accountability answers for it, what's at stake. (Chapters 12 and 18)
 
+**Connector.** A branch's link to one outside service: today a Gmail mailbox, a Google Drive, the organisation's social accounts or its books in Xero. Whoever holds the branch connects it; its key is sealed outside the system, and what arrives through it comes through the one door. Wise-Eye sends through it only once standing is earned, and never posts. (Chapters 12 and 18)
+
 **The membrane and the four weights.** The membrane is the boundary with the world, and work is weighed by how it crossed it: from outside (if it cost the sender at least an ask), held (the organisation's own committed work), going out, or made here. Only work from outside and held work make a branch want to grow. "Held" also, separately, means high-stakes work kept for a person. (Chapters 4, 12 and 16)
+
+**Canopy.** The organisation's website, served by the system itself rather than through a connector. Its structure, words and look are held as separate domains and go live only when their holders publish; Wise-Eye drafts, never publishes. What's sent in through it becomes work at the one door. (Chapter 12)
 
 **Ushering.** Moving work to the branch it belongs to. Any member who can see it can usher it. (Chapters 9 and 12)
 

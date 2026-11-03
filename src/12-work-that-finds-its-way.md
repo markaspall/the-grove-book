@@ -9,6 +9,7 @@
 - What handing out work costs the manager, the business and the people given it
 - Why work belongs to a branch, and nobody can give work to anyone else
 - How everything comes in through one door and is routed in a fixed order, with guesses marked
+- How connectors and the organisation's own website, the Canopy, carry work in and replies out
 - Why work weighs more or less depending on where it came from
 - How playbooks and new structure grow from the work, and what's left out on purpose
 
@@ -57,6 +58,22 @@ If nothing names it, the router looks for a branch the work plainly belongs to a
 If no branch is a plain fit, Wise-Eye makes its best guess, and marks it as a guess. The branch's people can confirm it or move it on, and each move teaches Wise-Eye where that kind of work belongs. Nothing goes out to anyone while the work is still a guess, and Wise-Eye never guesses at high stakes.
 
 And if nothing anywhere comes close, the work goes straight to the root as work no job covers. It becomes a question for the forum: who are we, if this keeps arriving?
+
+## Ways in and out
+
+The door has a front side. Before work can be routed it has to reach the organisation, and a reply has to find its way back out. That happens in two ways.
+
+The first is the connector: a link to one outside service, saying exactly what the organisation may do there and nothing more. Four are built. A Gmail mailbox, which can read, label and send, and can never delete anything for good. A Google Drive, which reaches only the files and folders someone picked in Google's own chooser, and only to read them. The organisation's social accounts, through one service that gathers many platforms, so comments and messages come in and answers and posts go out. And its books in Xero, read only, so the money can be seen without anyone typing it in. There's no calendar among them, because organisations on The Grove keep no calendar of people.
+
+A connector belongs to a branch. Whoever holds that branch's seat connects it, and says whose account it is: the branch's own, or their personal one carrying the branch's work. A personal one is flagged. It pauses when they leave the seat, and only they can hand it to the branch. As Chapter 8 described, a mailbox is one of a branch's domains. Any branch whose work it is can answer and write through it, under its own name, unless a proposal has locked that domain to its holders. Reading all of it, setting its rules and removing it stay with whoever holds the domain. Connecting, pausing and removing each go on the trail.
+
+The keys never come inside. Signing in happens on a thin relay outside, which seals the key so that only that one connection can open it. The system stores the sealed form and never the key. The relay can open it only while a job for that connection is in hand, and forgets it within minutes. Remove a connector and its key is gone for good.
+
+A mailbox is looked at every minute or so, and its first sort happens where the mail is: the branch's own rules first, then rules it accepted from Wise-Eye, then Wise-Eye's reading of the sender, the subject and the opening lines. Only work is brought in whole. What's unclear comes in as headers only, with a question, *is this ours?*, which is let go after a fortnight unanswered. Everything else stays in the mailbox, and all that's kept of it is a bare reference, for a week. A new rule that brings mail in looks back thirty days for what it would have caught. Comments and messages from the social accounts have no first sort: they all come in, and triage files what's noise.
+
+The second way is the Canopy, the organisation's website. It isn't a connector. The system serves it itself, at the organisation's own address and at up to five domains of its own. Its structure, each section's words and its look are held as separate domains, and nothing reaches the open web until the people holding a part publish it. Wise-Eye can draft every word and publish none. The page runs no outside script and sets no cookie, and visits are kept as daily totals: views, never people. A message through its form, or anything another website posts to an address the organisation has opened for it, becomes work. And what it chooses to publish as a feed, any website can read.
+
+Whichever way it arrives, work then comes through the one door like everything else.
 
 ## When the stakes are high
 
