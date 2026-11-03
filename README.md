@@ -44,6 +44,10 @@ It walks through the whole design, one piece at a time, from the society we hope
 - [17. Holding the whole without a centre](src/17-holding-the-whole.md)
 - [18. The co-pilot](src/18-the-co-pilot.md)
 - [19. Memory](src/19-memory.md)
+- [20. Birth, division and death](src/20-birth-division-and-death.md)
+- [21. Between organisations](src/21-between-organisations.md)
+- [22. DNA, the network, and why not open source](src/22-dna-the-network-and-open-source.md)
+- [23. Into the legal world](src/23-into-the-legal-world.md)
 
 The full outline is in [`src/SUMMARY.md`](src/SUMMARY.md). Chapters appear as they're drafted, not in order.
 

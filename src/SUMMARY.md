@@ -36,10 +36,10 @@
 
 # Part five. Beyond one organisation
 
-- [20. Birth, division and death]()
-- [21. Between organisations]()
-- [22. DNA, the network, and why not open source]()
-- [23. Into the legal world]()
+- [20. Birth, division and death](20-birth-division-and-death.md)
+- [21. Between organisations](21-between-organisations.md)
+- [22. DNA, the network, and why not open source](22-dna-the-network-and-open-source.md)
+- [23. Into the legal world](23-into-the-legal-world.md)
 
 # Part six. Return
 
