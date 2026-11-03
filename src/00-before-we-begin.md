@@ -10,7 +10,7 @@
 - How "is", "building towards" and "we don't know" mark what's built and what isn't
 - Who the book is written for, and why every chapter starts with a doubt
 - How the six parts run, and the shape each chapter follows
-- Why both "I" and "we" appear, and where the line between them falls
+- Why "I", "we" and "us" all appear, and who each of them is
 
 ---
 
@@ -92,15 +92,21 @@ People who think about organisations for a living have their own vocabulary: wor
 
 We've tried to keep the door open. Where a field's word earns its place, we use it, and explain it the first time it appears. Where a plain word will do, we use the plain one. If you're new to all this, you shouldn't stumble. If you've spent years in it, you shouldn't feel talked down to. We won't always get the balance right.
 
-## A note on "I" and "we"
+## A note on "I", "we" and "us"
 
-You'll see both, and the line between them is deliberate.
+You'll see all three, and the lines between them are deliberate.
 
-"I" is Mark: the years before The Grove existed, the experiences that shaped the question, the things that failed and the things that kept nagging. Those are one person's story, and only one person can tell them.
+"I" is Mark. It's the years before The Grove existed: the experiences that shaped the question, the things that failed and the things that kept nagging. And it's the future I hope for, wherever the book looks ahead to what might become possible. Those are beliefs before they're designs, and a belief is one person's to own.
 
-"We" begins the moment the idea was shared. From then on, The Grove was conceived, argued over, designed, tested and built by one human working alongside AI collaborators: in conversation, in code, in long sessions of testing and rethinking. Every decision was a person's. Very little of the work was done alone. Claiming it as "I" would be untrue.
+But even my "I" isn't mine alone. For thirty years I've read the people who thought about these things before me: about organisations and systems, about how people grow, about consciousness and what we might become. The shelf at the back of this book names many of them. I couldn't have come to any of the ideas I've put an "I" to without them. Where they surface in a chapter, I've tried to say so.
+
+"We" begins the moment the idea was shared. From then on, The Grove was conceived, argued over, designed, tested and built by one human working alongside AI collaborators: in conversation, in code, in long sessions of testing and rethinking. Every decision was a person's. Very little of the work was done alone, and claiming it as "I" would be untrue.
+
+The "we" is wider than that, though. Many people have shaped this through conversation: practitioners, friends, people who pushed back, people who asked the question I hadn't thought to ask. They aren't named here, but they're part of it, and their mark is on more pages than they know. I needed the AI to get going. The "we" deserves more humans, and it will grow as others add what they see. If you take part, whether by disagreeing, by trying it, or by telling us where it breaks, you're in it too.
 
 That, as it happens, is also one of the book's arguments. An organisation where people are the spark, the ones who sense, care and decide, and where AI carries much of the load. We've been living a small version of it while writing.
+
+And "us" is who it's for. Not for me. This is my offering, in a shape I think is needed, and it belongs to whoever can use it. It's for us. All of us. We deserve it.
 
 ## What we hope you'll take from this
 
