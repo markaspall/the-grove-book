@@ -11,7 +11,7 @@
 - Why the work flows through the structure, rather than past a map beside it
 - Which few guardrails live in the structure itself, and how a founder's last word was closed off
 - How the network is meant to be run by its members, like Visa, and where it stands today
-- Why the Internet Computer: no single point of control, room for a whole system, and an organisation that pays its own way
+- Why the Internet Computer: independence all the way through, with no single owner beneath the organisation who could take it away or use it as leverage
 
 ---
 
@@ -115,7 +115,7 @@ We argued about the word. *Platform* sounded like someone else's property. *Tool
 
 We also had to decide how much to build in. It would have been easy to encode a particular way of organising, ours, and make every organisation follow it. We chose not to. The guardrails are the few things we believe must hold for any organisation without a boss to stay that way. Everything else is the organisation's own DNA. The code is only the ground it grows in.
 
-And we chose a blockchain not because it's fashionable but because it answers a specific question: where can an organisation live so that nobody, including us, can switch it off, read its private records or change its rules from outside? The Internet Computer answered it better than anything else we looked at, for six reasons.
+And we chose a blockchain not because it's fashionable but because it answers a specific question: where can an organisation live so that nobody, including us, can switch it off, read its private records or change its rules from outside? Put another way: how does an organisation stay independent all the way down, with no single owner beneath it, of servers, software or sign-in, who could take it away or use it as leverage? The Internet Computer answered that better than anything else we looked at, for six reasons.
 
 - **No single point of control.** Most businesses today run on tools that sit in a few large clouds. When one of those has a bad day, thousands of businesses go down together, and whoever owns the servers sets the terms. On the Internet Computer, a piece of software, called a canister, runs on many machines at once, held by independent operators in different countries, and they have to agree on every change to its state. No one of them can switch it off or quietly alter it.
 - **Room for a whole system.** The smart contracts most DAOs run on are tiny. On Ethereum, a contract's code is capped at twenty-four kilobytes: room for a voting rule, not an organisation. A canister holds a full application and its data, which is why the whole operating system, guardrails and all, lives in one place rather than spread across contracts and outside servers.
@@ -124,11 +124,13 @@ And we chose a blockchain not because it's fashionable but because it answers a 
 - **Signing in that protects people.** Internet Identity uses the passkey already on a phone or laptop, so there's no password to steal, and it gives each person a different identity on every site, so they can't be followed from one to the next.
 - **Only its controllers can change it.** A canister's code can be replaced only by whoever controls it, and the network keeps a public fingerprint of the code that's installed, so a change can't happen unseen. Today we control it, because this is a test bench. At go-live, control passes to each organisation's own decision-making, so its code changes only when its people decide it should.
 
-That last one is the property we're building towards. We aren't there yet.
+Each of these takes away one thing an organisation would otherwise depend on someone else for: the servers, the size of what it can hold, the hosting, the fees, the sign-in, and the right to change its code. Together they're what independence all the way through means. The last is the one that completes it, and it's the property we're building towards. We aren't there yet.
 
 ## What you might take from this
 
 Culture matters, but culture alone erodes under pressure. Rules that live in the structure of the system itself don't depend on everyone's goodwill on a bad day.
+
+Independence has to run all the way down. An organisation without a boss inside can still have one outside: whoever owns the servers, the software or the sign-in it can't do without. So the question to ask of any foundation is who could take it away, or use it as leverage, and the answer we're building towards is nobody.
 
 That's why an operating system: the means to run without a boss, and the few guardrails that stop the boss growing back.
 
