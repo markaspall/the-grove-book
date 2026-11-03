@@ -140,4 +140,4 @@ Trust is earned from peers, it fades if it isn't renewed, and it can never be bo
 [^4]: Ostrom, E. (1990), *Governing the Commons: The Evolution of Institutions for Collective Action*, Cambridge University Press.
 [^5]: Ford, B. (2002), "Delegative Democracy", unpublished manuscript. One of the early descriptions of what is now often called liquid democracy.
 
-On trust and cooperation more broadly: Axelrod, R. (1984), *The Evolution of Cooperation*, Basic Books.
+On trust and cooperation more broadly: Axelrod, R. (1984), *The Evolution of Cooperation*, Basic Books. On autonomy, mastery and purpose as what moves people, rather than carrots and sticks: Pink, D. H. (2009), *Drive: The Surprising Truth About What Motivates Us*, Riverhead Books.

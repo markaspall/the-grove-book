@@ -59,11 +59,14 @@ Some of the books behind this book are in the notes to each chapter. Others shap
 - **Csikszentmihalyi, M. (1990), *Flow*, Harper and Row.** What it feels like when work and self line up.
 - **Covey, S. R. (1989), *The 7 Habits of Highly Effective People*, Free Press.** Responsibility taken, not given, long before it reached organisations.
 - **Dilts, R. (1996), *Visionary Leadership Skills*, Meta Publications,** and **(2003), *From Coach to Awakener*, Meta Publications;** **Bandler, R. and Grinder, J. (1979), *Frogs into Princes*, Real People Press;** **Robbins, A. (1986), *Unlimited Power*, Simon and Schuster.** Neuro-linguistic programming and its descendants: a practical grasp of what makes people tick, and what keeps them stuck.
+- **Pink, D. H. (2009), *Drive: The Surprising Truth About What Motivates Us*, Riverhead Books.** For thoughtful work, people are moved by autonomy, mastery and purpose, and rewards tied to performance can make it worse. The research behind no scores on people, the floor, and seats chosen rather than assigned. Chapters 11 and 15.
 - **Sinek, S. (2009), *Start with Why*, Portfolio.** Purpose before method, put plainly. Chapter 7.
 
 ## Building a venture
 
 - **Ries, E. (2011), *The Lean Startup*, Crown Business,** and **Osterwalder, A. and Pigneur, Y. (2010), *Business Model Generation*, Wiley.** A venture as a set of guesses to test, not a plan to execute. Chapter 13.
+
+- **Christensen, C. M. (1997), *The Innovator's Dilemma*, Harvard Business School Press.** Why well-run incumbents miss the new thing growing underneath them, and can't follow it without undoing what makes them who they are. The business case for building around the tower. Chapter 25.
 
 ## Consciousness and spirit
 
