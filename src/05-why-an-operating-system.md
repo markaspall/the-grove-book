@@ -60,7 +60,7 @@ Most tools for self-management are maps. They record the roles, the circles, the
 
 From the start, we wanted the opposite. Work arrives in the organisation and goes straight to the part that answers for it. A proposal to change how things are done is made where the work is happening, by the people doing it. The structure isn't a diagram beside the work; it's the thing the work flows through. So when the structure is wrong, you feel it in the work, and the work itself shows where.
 
-That's the deeper reason for an operating system rather than a tool. A tool is something you pick up and put down. An operating system is where you are.
+That's the deeper reason for an operating system rather than a tool. A tool is something you pick up and put down. An operating system is where you are. And because each organisation on The Grove is a DAO, its decisions, its records and its rules living in its own running code, The Grove isn't something the organisation uses. It's the form the organisation takes.
 
 ## Guardrails, not instructions
 
