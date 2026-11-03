@@ -7,6 +7,7 @@
 **In this chapter**
 
 - The three futures people fear from AI at work, and the trust problem underneath them
+- Why the operating system is itself an agentic system, out of the box, and where it reads for meaning
 - How Wise-Eye is placed beside each steward, acting for a named branch, with no seat
 - What it carries, and why it has no tool for consent or concern at all
 - How its standing to act alone is earned one kind of work at a time, and lost again
@@ -30,6 +31,22 @@ The second is to keep AI out, and leave the admin where it was: on whoever holds
 
 Underneath both sits an older problem. Researchers who studied pilots and plant operators found that people don't trust automation in proportion to how good it is. They trust it too much once it's been right for a while, and stop checking. Then, after one bad failure, they trust it too little and stop using it at all.[^1] Both cost: the first in errors nobody caught, the second in help nobody takes.
 
+## An agentic system, out of the box
+
+There's a great deal of talk just now about how organisations should bring AI agents into their work, and most are finding it hard. A 2025 study from MIT's NANDA initiative found that about nineteen in every twenty organisations it looked at had seen no measurable return from their generative AI pilots. It put the gap down less to the models than to tools that don't remember, adapt or learn from the work they're given.[^2] The usual picture is a capable model bolted onto an organisation that was never shaped for it, with someone left to wire it to the right data and teach it the business.
+
+On The Grove it's the other way round. The operating system is itself an agentic system. Wise-Eye isn't an add-on to be integrated. It's part of how the organisation runs from the day it's planted: beside every seat, reading the same records the organisation keeps, working inside the same rules. An organisation on The Grove gets it out of the box.
+
+Language models are good at something ordinary software never was: meaning. They can tell what a message is asking for rather than which words it contains, notice two people saying the same thing in different ways, and find the thread through a pile of material. So that's where The Grove uses one, and it uses one in a lot of places.
+
+- **Work.** It reads what arrives, asks what the work is, and routes it to the accountability that answers for it. It reads what a person shares, a document, a page or notes, and says what it holds. It notices when a kind of work keeps arriving with nobody answering for it, and when a job a branch has just taken on answers better for work waiting somewhere else.
+- **Shape.** From the work itself, it drafts the structure the work shows: a branch for a function with steady work of its own, or a first shape for an organisation that's still one branch. It reads an accountability's words and offers a split when two jobs are hiding in one.
+- **The Field.** It helps sharpen the question for a sensing, names the themes once the window has closed, and wonders aloud about the blind spots. When two people's views pull apart, it frames a meeting for them to look for a better third, not a verdict.
+- **Making sense of it all.** Each morning it turns what's come a steward's way into a few plain lines. Asked how things are, it takes a gardener's look: what's growing, what's fading, whether work flows. It keeps one shared set of themes across the organisation's work, its proposals and what the Field heard, and reads each theme against the purpose. It draws together what came back on a bet, and what a closed review said beside its evidence.
+- **Decisions.** It reads a draft proposal for what it needs to be carried out and looked back on, checks its words against the changes it would make, gives its own advice as advice, and suggests a rework that fits the concerns raised. It never decides.
+
+And what it learns, it learns about this one organisation. When a steward corrects its work, it proposes what the organisation should take from that: a line in a playbook, a rule for what counts as work in a mailbox, a change in how much it may do alone. A person accepts, edits or dismisses each one. When a branch keeps doing a kind of work by hand, it offers a view to carry it. Over months the playbooks become a written record of how this organisation does things, in its own words, which its people can read and change. As that knowledge settles, Wise-Eye's standing grows one kind of work at a time, until much of the routine runs by itself. How that standing is earned, and lost, comes later in this chapter.
+
 ## A companion with no seat
 
 In an organisation on The Grove, each time a person takes a seat on a branch, a companion is placed beside them there. It belongs to that branch and that person, not to the organisation at large. Only the people become the branch's governors; the companion is never counted among them. It has no seat, no vote and no trust that anyone can place in it.
@@ -46,7 +63,7 @@ It prepares what carries a person's word. An invitation, a proposal, money in or
 
 ## What it cannot do
 
-There is no tool for consenting to a proposal, and no tool for raising a concern. Not a forbidden one: none. The list of things it can prepare for a person to press doesn't include consent either. It can advise on a proposal, and its advice is shown on the open record, marked as its own, counted as nobody's answer, and holding nothing up. It gets one comment per version of a proposal; it can't come back and press the point. In Frederic Laloux's sense of the advice process, it's advice: there to be heard, never obeyed.[^2]
+There is no tool for consenting to a proposal, and no tool for raising a concern. Not a forbidden one: none. The list of things it can prepare for a person to press doesn't include consent either. It can advise on a proposal, and its advice is shown on the open record, marked as its own, counted as nobody's answer, and holding nothing up. It gets one comment per version of a proposal; it can't come back and press the point. In Frederic Laloux's sense of the advice process, it's advice: there to be heard, never obeyed.[^3]
 
 Every call it makes is checked by the system itself, whatever the model says. The tool has to belong to a playbook it loaded for this piece of work; the branch has to hold what the tool needs; and the playbook says, tool by tool, whether it may act by itself, act with a person's yes, or never act at all.
 
@@ -56,7 +73,7 @@ Out of the box, what it can do by itself is everything that stays inside: readin
 
 Standing is earned one kind of work at a time. When a steward approves a draft of a particular kind exactly as written, and the stakes were low, that counts. After five of those in a row, Wise-Eye offers, in plain words: it has drafted five of these that went out exactly as written; shall it send this kind itself from now on, only the low-stakes ones? A single edit resets the count, because an edit says it isn't ready yet. The offer is for one kind of work under one playbook, and a person has to say yes. The line that lets it act alone is written at the top of that playbook, where whoever holds the branch can read it and change it back.
 
-It can also lose that standing without anyone having to remember to take it away. One in ten of the calls it makes alone, filing something as not work or sending a reply by itself, is picked for a person to check. Right is one tap. Wrong needs a line saying what it should have done: filed work comes back through the door, and a reply that shouldn't have gone means that kind waits for a person again, and the count starts over. The idea is Stafford Beer's: an occasional, unannounced look, so that nobody has to watch everything.[^3] And if the way a kind of work is done won't settle, if within twenty-eight days two learned lines replace others, or six of the last ten approvals were edited, Wise-Eye stops acting alone on it and a task opens on the branch to agree one way together.
+It can also lose that standing without anyone having to remember to take it away. One in ten of the calls it makes alone, filing something as not work or sending a reply by itself, is picked for a person to check. Right is one tap. Wrong needs a line saying what it should have done: filed work comes back through the door, and a reply that shouldn't have gone means that kind waits for a person again, and the count starts over. The idea is Stafford Beer's: an occasional, unannounced look, so that nobody has to watch everything.[^4] And if the way a kind of work is done won't settle, if within twenty-eight days two learned lines replace others, or six of the last ten approvals were edited, Wise-Eye stops acting alone on it and a task opens on the branch to agree one way together.
 
 Some things never move. High stakes, legal matters, money, complaints, a notice from an authority, are held for the people who hold the branch, every time, with the yes and the no drafted side by side when it's theirs to decide. A person sends it. Promises have their own rule. Wise-Eye can send a promise by itself only once three of that kind have been kept, so there's a usual to read it against, and only when it fits that usual. More than twice the usual size, less notice than has ever been kept, a day already full, someone this kind of promise has never been made to: any of these, and it waits, saying why.
 
@@ -66,7 +83,7 @@ Through a connector, Wise-Eye works for the branch it's beside, and only where t
 
 Wise-Eye works from playbooks: plain documents, written with the people who do the work, saying how a kind of work is done here. They hold principles, never cases. A model copies the examples it's given, so an example in a playbook quietly becomes the answer it reaches for. Playbooks are checked against the names and details of every case we know, and any that turns up has to be said again in general words.
 
-Some of what keeps Wise-Eye in its place lives in those words. It's asked never to tell people what they should do, and to offer guidance as a suggestion. The system's own guide text is checked for that phrasing, but what Wise-Eye says in a live conversation isn't; it holds as long as the model listens. Thomas Thomison, who co-founded HolacracyOne, put the difference in a phrase we've borrowed: a prompt is not a constitution.[^4]
+Some of what keeps Wise-Eye in its place lives in those words. It's asked never to tell people what they should do, and to offer guidance as a suggestion. The system's own guide text is checked for that phrasing, but what Wise-Eye says in a live conversation isn't; it holds as long as the model listens. Thomas Thomison, who co-founded HolacracyOne, put the difference in a phrase we've borrowed: a prompt is not a constitution.[^5]
 
 So wherever it matters, we've tried to move a rule out of the words and into the structure. Chapter 5 told of Wise-Eye writing a customer's details into a playbook as a reminder to get back to them. The playbook was told, and still says, never to keep anything about a person there. But the system now refuses, too: a playbook holding an email address, a phone number, or the name of someone from outside on the branch's work isn't saved, and the refusal says where the detail goes instead, to the sealed notes or a card on the board with its day. The no-consent rule is the same pattern. Wise-Eye's base instructions say the voice belongs to people; the absence of the tool is what makes it true.
 
@@ -113,8 +130,9 @@ AI can carry the load while people keep the say.
 ## Notes and further reading
 
 [^1]: Parasuraman, R. and Riley, V. (1997), "Humans and Automation: Use, Misuse, Disuse, Abuse", *Human Factors*, 39(2), 230 to 253.
-[^2]: Laloux, F. (2014), *Reinventing Organizations*, Nelson Parker.
-[^3]: Beer, S. (1972), *Brain of the Firm*, Allen Lane. Beer's viable system model includes an occasional audit channel alongside routine reporting.
-[^4]: Thomison, T. (2026), "You've Been Training for This", PowerShift. Thomison co-founded HolacracyOne in 2007.
+[^2]: MIT NANDA (Challapally, A., Pease, C., Raskar, R. and Chari, P.) (2025), *The GenAI Divide: State of AI in Business 2025*, MIT. Drawn from interviews with enterprise leaders, a review of more than three hundred public AI initiatives and a survey; as reported in *The Register*, 18 August 2025.
+[^3]: Laloux, F. (2014), *Reinventing Organizations*, Nelson Parker.
+[^4]: Beer, S. (1972), *Brain of the Firm*, Allen Lane. Beer's viable system model includes an occasional audit channel alongside routine reporting.
+[^5]: Thomison, T. (2026), "You've Been Training for This", PowerShift. Thomison co-founded HolacracyOne in 2007.
 
 On why handing work to automation can leave people less able to step in when it fails: Bainbridge, L. (1983), "Ironies of Automation", *Automatica*, 19(6).

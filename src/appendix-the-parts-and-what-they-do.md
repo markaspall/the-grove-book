@@ -168,7 +168,7 @@ This page is a reference to every named part of the system the book describes, s
 
 ## AI
 
-**Wise-Eye.** The companion beside each steward on each branch they hold. It routes, drafts and prepares what needs a person's word. It has no seat and no tool for consenting or raising a concern. (Chapters 6 and 19)
+**Wise-Eye.** The system's AI, built in: the companion beside each steward on each branch they hold. It reads for meaning, routes, drafts, makes sense of what's happening, learns from corrections, and prepares what needs a person's word. It has no seat and no tool for consenting or raising a concern. (Chapters 6 and 19)
 
 **Playbooks.** Plain documents saying how a kind of work is done, each tool marked as Wise-Eye acting alone, with a person's yes, or never. Principles, never cases. (Chapters 12 and 19)
 
