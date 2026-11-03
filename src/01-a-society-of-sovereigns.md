@@ -90,9 +90,9 @@ Otto Scharmer describes the same widening at the scale of whole systems: a shift
 
 Three levels of it run through the book.
 
-**Sovereign people.** People who can see the whole of what they're part of, raise what they sense, take up the work they're drawn to, and leave when they need to. Not managed, not assigned, not scored.
+**Sovereign people.** It starts here, and it belongs to the person. Nobody grants it, and no organisation can take it away. What an organisation can do is give it room or crowd it out. The organisations we mean give it room: people can see the whole of what they're part of, raise what they sense, take up the work they're drawn to, and leave when they need to. Not managed, not assigned, not scored.
 
-**Sovereign organisations.** Organisations that answer to their own purpose, not to whoever funds them or whoever shouts loudest. Where money can fund the work but can never buy a say. Where no single person, inside or out, can capture the whole.
+**Sovereign organisations.** Organisations that answer to their own purpose, not to whoever funds them, hosts them or owns the ground they stand on. Nothing they depend on can be taken away, or used as leverage, by anyone outside. That independence is what makes an organisation sovereign. Keeping a boss from growing inside is a separate matter. An organisation where money can fund the work but never buy a say, and where no single person can capture the whole, is one that leaves its people room for their own sovereignty. That's what The Grove's guardrails are for.
 
 **A sovereign society.** A society made of many such organisations, able to work together and commit together without one of them ruling the rest. Self-sustaining, not because someone at the top holds it together, but because its parts can sense, respond and coordinate.
 
