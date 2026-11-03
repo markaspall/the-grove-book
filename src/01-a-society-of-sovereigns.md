@@ -28,7 +28,7 @@ We want to take that feeling seriously, because it's honest. And then we want to
 
 People who study these crises have started to notice that they aren't really separate problems. They share something underneath.
 
-Some call it the polycrisis: many crises tangled together, each making the others worse. Others, like the thinker Daniel Schmachtenberger, use the word *metacrisis*: a single pattern that keeps producing new crises, whatever the surface looks like.[^1] The pattern goes something like this.
+Some call it the polycrisis: many crises tangled together, each making the others worse. Others, like the thinker Daniel Schmachtenberger, use the word *metacrisis*: a single pattern that keeps producing new crises, whatever the surface looks like.[^1] The futurist Barbara Marx Hubbard read moments like this another way: not as an ending, but as the birth pangs of something larger trying to be born. We find both views useful. The pattern goes something like this.
 
 Imagine a lake shared by a dozen fishermen. Each one knows that if everyone fishes less, the lake will stay healthy for years. But each one also knows that if he holds back and the others don't, he'll go hungry and the lake will be emptied anyway. So each one, acting sensibly for himself, fishes as hard as he can. The lake dies, and nobody wanted it to.
 
@@ -131,4 +131,4 @@ If we can learn to organise differently there, we're practising the society we w
 [^3]: Alexander, S. (2014), "Meditations on Moloch", published on the blog *Slate Star Codex*.
 [^4]: Ostrom, E. (1990), *Governing the Commons: The Evolution of Institutions for Collective Action*, Cambridge University Press.
 
-For the feeling of acceleration and what it does to us: Rosa, H. (2019), *Resonance: A Sociology of Our Relationship to the World*, Polity. For a lively conversation about these ideas from the self-management world, the podcast *Islands of Resonance*, hosted by Dennis Wittrock and Tobias Klose. For a different, more individualist use of "sovereign" that this book does not share: Davidson, J. D. and Rees-Mogg, W. (1997), *The Sovereign Individual*, Simon and Schuster.
+For crises read as a birth rather than an ending: Hubbard, B. M. (1998), *Conscious Evolution: Awakening the Power of Our Social Potential*, New World Library. For the feeling of acceleration and what it does to us: Rosa, H. (2019), *Resonance: A Sociology of Our Relationship to the World*, Polity. For a lively conversation about these ideas from the self-management world, the podcast *Islands of Resonance*, hosted by Dennis Wittrock and Tobias Klose. For a different, more individualist use of "sovereign" that this book does not share: Davidson, J. D. and Rees-Mogg, W. (1997), *The Sovereign Individual*, Simon and Schuster.
