@@ -124,13 +124,13 @@ And we chose a blockchain not because it's fashionable but because it answers a 
 - **Signing in that protects people.** Internet Identity uses the passkey already on a phone or laptop, so there's no password to steal, and it gives each person a different identity on every site, so they can't be followed from one to the next.
 - **Only its controllers can change it.** A canister's code can be replaced only by whoever controls it, and the network keeps a public fingerprint of the code that's installed, so a change can't happen unseen. Today we control it, because this is a test bench. At go-live, control passes to each organisation's own decision-making, so its code changes only when its people decide it should.
 
-Each of these takes away one thing an organisation would otherwise depend on someone else for: the servers, the size of what it can hold, the hosting, the fees, the sign-in, and the right to change its code. Together they're what independence all the way through means. The last is the one that completes it, and it's the property we're building towards. We aren't there yet.
+Each of these takes away one thing an organisation would otherwise depend on someone else for: the servers, the size of what it can hold, the hosting, the fees, the sign-in, and the right to change its code. Together they're what independence all the way through means. Chapter 1 said a sovereign organisation is one that no single person, inside or out, can capture. The guardrails, and a say that money can't buy, close off capture from inside. These close it off from outside: nothing the organisation stands on is owned by someone who could pull it away. The last is the one that completes it, and it's the property we're building towards. We aren't there yet.
 
 ## What you might take from this
 
 Culture matters, but culture alone erodes under pressure. Rules that live in the structure of the system itself don't depend on everyone's goodwill on a bad day.
 
-Independence has to run all the way down. An organisation without a boss inside can still have one outside: whoever owns the servers, the software or the sign-in it can't do without. So the question to ask of any foundation is who could take it away, or use it as leverage, and the answer we're building towards is nobody.
+Independence has to run all the way down. An organisation without a boss inside can still have one outside: whoever owns the servers, the software or the sign-in it can't do without. So the question to ask of any foundation is who could take it away, or use it as leverage, and the answer we're building towards is nobody. That's the outside half of what makes an organisation sovereign.
 
 That's why an operating system: the means to run without a boss, and the few guardrails that stop the boss growing back.
 
