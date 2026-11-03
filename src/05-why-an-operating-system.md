@@ -11,6 +11,7 @@
 - Why the work flows through the structure, rather than past a map beside it
 - Which few guardrails live in the structure itself, and how a founder's last word was closed off
 - How the network is meant to be run by its members, like Visa, and where it stands today
+- Why the Internet Computer: no single point of control, room for a whole system, and an organisation that pays its own way
 
 ---
 
@@ -114,7 +115,16 @@ We argued about the word. *Platform* sounded like someone else's property. *Tool
 
 We also had to decide how much to build in. It would have been easy to encode a particular way of organising, ours, and make every organisation follow it. We chose not to. The guardrails are the few things we believe must hold for any organisation without a boss to stay that way. Everything else is the organisation's own DNA. The code is only the ground it grows in.
 
-And we chose a blockchain not because it's fashionable but because it answers a specific question: where can an organisation live so that nobody, including us, can switch it off, read its private records or change its rules from outside? On the Internet Computer, each organisation can come to control its own space. That's the property we're building towards. We aren't there yet.
+And we chose a blockchain not because it's fashionable but because it answers a specific question: where can an organisation live so that nobody, including us, can switch it off, read its private records or change its rules from outside? The Internet Computer answered it better than anything else we looked at, for six reasons.
+
+- **No single point of control.** Most businesses today run on tools that sit in a few large clouds. When one of those has a bad day, thousands of businesses go down together, and whoever owns the servers sets the terms. On the Internet Computer, a piece of software, called a canister, runs on many machines at once, held by independent operators in different countries, and they have to agree on every change to its state. No one of them can switch it off or quietly alter it.
+- **Room for a whole system.** The smart contracts most DAOs run on are tiny. On Ethereum, a contract's code is capped at twenty-four kilobytes: room for a voting rule, not an organisation. A canister holds a full application and its data, which is why the whole operating system, guardrails and all, lives in one place rather than spread across contracts and outside servers.
+- **One place, not a stack.** The canister itself serves the page people use, the organisation's own website, and the data behind both. There's no separate web host or database to run, secure or lose.
+- **The organisation pays, not its people.** A canister pays for its own computing, from a balance topped up in advance and priced against ordinary currencies rather than a token's swings. That's what lets members act without wallets or fees.
+- **Signing in that protects people.** Internet Identity uses the passkey already on a phone or laptop, so there's no password to steal, and it gives each person a different identity on every site, so they can't be followed from one to the next.
+- **Only its controllers can change it.** A canister's code can be replaced only by whoever controls it, and the network keeps a public fingerprint of the code that's installed, so a change can't happen unseen. Today we control it, because this is a test bench. At go-live, control passes to each organisation's own decision-making, so its code changes only when its people decide it should.
+
+That last one is the property we're building towards. We aren't there yet.
 
 ## What you might take from this
 
