@@ -22,7 +22,7 @@ So, plainly: this book isn't complete, and we don't claim that what's in it is r
 
 What we can promise is that it's honest about where it stands.
 
-One convention helps with that. When we say something in the system *is* so, it's built and working as the book is written. When something is decided but not built yet, we say we're building towards it. When we don't know, we say that too. Each chapter notes the build it was checked against, because the build keeps moving. And the system has a lot of named parts. If a word stops you, the page at the back, *The parts and what they do*, says what it is and which chapter explains it.
+One convention helps with that. When we say something in the system *is* so, it's built and working as the book is written. When something is decided but not built yet, we say we're building towards it. When we don't know, we say that too. Each chapter notes the build it was checked against, because the build keeps moving. One more thing about where things stand. The organisations on The Grove today are simulated: seeded, grown and run by AI people, while we test the design, the experience, scale and security. During that testing they share one space that we control, because we need to change things quickly. That isn't the shape The Grove goes live in. When it's open to anyone, each organisation will be its own independent DAO, running its own copy of the operating system, with its own DNA growing in it. And the system has a lot of named parts. If a word stops you, the page at the back, *The parts and what they do*, says what it is and which chapter explains it.
 
 ## Why write it now
 

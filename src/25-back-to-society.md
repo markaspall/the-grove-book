@@ -106,7 +106,7 @@ The answer would be many organisations pledging to act, to pay a living wage or 
 
 The book has tried to say what's open where it's open. Gathered in one place, it's a long list, and we'd rather it were read than skimmed.
 
-Most of the numbers are guesses: the lengths of the decision clocks, the fourteen days before a tension climbs, how much evidence Wise-Eye needs before it earns standing. Trust is designed to fade unless it's renewed; in the organisations running today it doesn't fade yet, and the right rate is a genuine open question. There's no emergency path; the fire alarm is designed and not built. The network beyond a single organisation, and the Steward that would look after the shared code as an organisation in its own right, are decided and not built. The everyday signature, the human hand a bank or landlord wants on a page, isn't designed at all.
+Most of the numbers are guesses: the lengths of the decision clocks, the fourteen days before a tension climbs, how much evidence Wise-Eye needs before it earns standing. Trust is designed to fade unless it's renewed; in the system as it runs today it doesn't fade yet, and the right rate is a genuine open question. There's no emergency path; the fire alarm is designed and not built. The network beyond a single organisation, and the Steward that would look after the shared code as an organisation in its own right, are decided and not built. The everyday signature, the human hand a bank or landlord wants on a page, isn't designed at all.
 
 And beneath all of these sits the largest. None of it has yet been lived by real organisations at scale.
 

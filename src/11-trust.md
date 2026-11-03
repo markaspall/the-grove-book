@@ -64,7 +64,7 @@ Trust given to someone can't be passed on again. Ana can't take the trust you ga
 
 Nobody can save their share up and spend it all at once on a decision they care about. Whatever you haven't directed goes evenly to your peers.
 
-Each person's choice stands until they change it, and they can change it any day. So standing lasts only while peers keep giving it. We designed trust to decay as well, so nobody's standing outlives the reasons for it. In the organisations running today it doesn't decay yet: weight moves only when peers move it.
+Each person's choice stands until they change it, and they can change it any day. So standing lasts only while peers keep giving it. We designed trust to decay as well, so nobody's standing outlives the reasons for it. In the system as it runs today it doesn't decay yet: weight moves only when peers move it.
 
 If everyone spreads their share evenly, everyone ends up with the same weight: one voice each. Quorum is a share of the economy's total, so a decision needs enough of the forum's trust behind it, not just enough heads in the room. And reading someone's trust when a decision is taken doesn't spend it. Taking part costs nothing.
 
@@ -116,7 +116,7 @@ The biggest choice was rejecting one global trust score. It would have been simp
 
 We rejected weighting by seniority or tenure. Being there longest is not the same as being trusted most.
 
-We designed trust to decay, so that power never settles permanently. That isn't running in live organisations yet. Either way, a decider who keeps ignoring good advice loses weight as peers notice and withdraw.
+We designed trust to decay, so that power never settles permanently. That isn't running in the system yet. Either way, a decider who keeps ignoring good advice loses weight as peers notice and withdraw.
 
 We firewalled reputation from decisions, and money from both.
 

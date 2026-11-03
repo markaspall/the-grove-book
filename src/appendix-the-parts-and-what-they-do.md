@@ -176,13 +176,13 @@ This page is a reference to every named part of the system the book describes, s
 
 ## Beyond one organisation
 
-**Network.** Organisations that recognise each other and share a steward for their code. Today all share one space we control; each in its own space is not built yet. (Chapters 22 and 23)
+**Network.** Organisations that recognise each other and share a steward for their code. On today's test bench all share one space we control; when The Grove goes live, each organisation is its own DAO in its own space. (Chapters 22 and 23)
 
 **The Steward.** The organisation that looks after a network's code and ships releases, taking no fee on what passes between organisations. Distinct from a seat's steward. Today a service we run; as an organisation, not built yet. (Chapters 22 and 23)
 
 **Kernel.** The smallest core of the code: the guardrails nobody inside an organisation can vote away. (Chapter 23)
 
-**DNA.** What makes an organisation itself: purpose, branches, agreements, playbooks and decisions, written by its people and belonging to them. (Chapters 5 and 23)
+**DNA.** What makes an organisation itself: purpose, branches, agreements, playbooks and decisions, written by its people and belonging to them. It's what runs on the operating system, the way programmes run on a computer. (Chapters 5 and 23)
 
 **Agreement.** Two meanings. The organisation's agreement on how its people are here together, which members agree to on joining. And an agreement between organisations, for one to serve another's job, decided by a proposal on each side and looked back on every ninety days by default. (Chapters 9 and 22)
 
