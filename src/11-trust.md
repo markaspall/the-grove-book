@@ -96,7 +96,7 @@ Reputation is never published. Each person sees only their own mirror. There's n
 
 Trust can't be bought, sold or transferred for value. Money may fund work. It can never buy voice. The two are firewalled, so someone who puts money into an organisation gains no say from it.
 
-The same thinking runs through identity checks. We're building towards checks that step up with governance responsibility, not with wealth. The more say someone carries, the more the organisation needs to know they're real. The rule is in the core, but no organisation runs a check yet: we haven't chosen who will do the checking.
+The same thinking runs through identity checks. We're building towards checks that step up with governance responsibility, not with wealth. The more say someone carries, the more the organisation needs to know they're real. The design asks a full identity check, the kind a bank calls KYC, of anyone who holds a seat, and only a lighter check that someone is one real person for anyone sharing the floor. The rule is in the core, but no organisation runs a check yet: we haven't chosen who will do the checking. Chapter 9 says what stands in its place for now.
 
 ## When trust breaks down
 

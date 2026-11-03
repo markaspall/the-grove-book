@@ -40,6 +40,8 @@ In the usual company, the paper is the source and the organisation borrows from 
 
 Until recently that was a nice idea with nowhere to stand. In 2021 the Wyoming legislature passed what's usually called its DAO supplement, which lets a limited liability company declare itself a decentralised autonomous organisation and name the smart contract, the running code, that governs it.[^3] (A DAO is simply an organisation whose rules are carried out by code its members agreed, rather than by an officer.) The Marshall Islands passed its own law the following year.[^4] For the first time, the paper could say: the rules are over there, in the running system.
 
+An organisation on The Grove is already a DAO in that sense, from its first day, as Chapter 5 described: its rules run as code its people agreed. What it doesn't have, until it takes a legal form, is a body the law can see.
+
 That's the shape organisations on The Grove are designed to take. We call it a passport, not a new king. A passport lets you travel and be recognised. It doesn't tell you where to go.
 
 ## What the design says

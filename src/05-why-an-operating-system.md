@@ -42,6 +42,8 @@ The comparison holds further than you might expect.
 
 The **hardware** is a blockchain, the Internet Computer. We're building towards each organisation living in its own small, self-contained piece of that network, which nobody else controls. Today, while the system is young, the organisations share one piece and we still hold its keys.
 
+That makes every organisation on The Grove a DAO from its first day: a decentralised autonomous organisation, whose rules are carried out by code its people agreed rather than by an officer. That's true even now, while the organisations share one space and we still hold its keys; what the shared space lacks is the independence, not the code. Most DAOs ask their members to buy tokens, hold a crypto wallet and pay a fee, often called gas, every time they act. Nobody in an organisation on The Grove does any of that. The only part of the blockchain anyone touches is signing in, with Internet Identity, the Internet Computer's own way of proving it's you, using the passkey on your phone or laptop rather than a password. Nobody holds a token, pays to act or handles cryptocurrency, and the organisation's money stays in its own bank. The blockchain is underneath, doing its job, and out of sight.
+
 The **operating system** provides the means an organisation needs to run: ways to sense what's happening, make decisions, route work to where it belongs, keep promises, handle money, and see itself whole. And it provides the guardrails: the few rules every organisation carries, which stop it drifting back into the old shape when people are tired or under pressure.
 
 The **programmes** are the organisations themselves. Each one runs on the system, in its own space, in its own way.
