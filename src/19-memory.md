@@ -107,4 +107,4 @@ What's known is shared, what's personal is sealed, and some things are never kep
 [^1]: Walsh, J. P. and Ungson, G. R. (1991), "Organizational Memory", *Academy of Management Review*, 16(1), 57 to 91. They describe the "retention bins" where organisations keep what they know: individuals, culture, transformations (routines), structures, ecology and external archives.
 [^2]: Argote, L. (1999), *Organizational Learning: Creating, Retaining and Transferring Knowledge*, Kluwer Academic.
 [^3]: Nonaka, I. and Takeuchi, H. (1995), *The Knowledge-Creating Company: How Japanese Companies Create the Dynamics of Innovation*, Oxford University Press.
-[^4]: Mayer-Schönberger, V. (2009), *Delete: The Virtue of Forgetting in the Digital Age*, Princeton University Press.
+[^4]: Mayer-Schönberger, V. (2009), *Delete: The Virtue of Forgetting in the Digital Age*, Princeton University Press. On the inner work that a space kept off the record makes room for: Dethmer, J., Chapman, D. and Klemp, K. W. (2014), *The 15 Commitments of Conscious Leadership*, Conscious Leadership Group.

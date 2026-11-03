@@ -129,4 +129,4 @@ A vision is strongest once the world has answered it.
 [^5]: Laloux, F. (2014), *Reinventing Organizations*, Nelson Parker.
 [^6]: Scharmer, C. O. (2016), *Theory U: Leading from the Future as It Emerges*, second edition, Berrett-Koehler. First published in 2007.
 
-On path tracing, the rendering method that shaped our picture of probes: Kajiya, J. T. (1986), "The Rendering Equation", *Proceedings of SIGGRAPH '86*. On searching out what's working rather than cataloguing what's broken: Hubbard, B. M. (1998), *Conscious Evolution: Awakening the Power of Our Social Potential*, New World Library.
+On path tracing, the rendering method that shaped our picture of probes: Kajiya, J. T. (1986), "The Rendering Equation", *Proceedings of SIGGRAPH '86*. On searching out what's working rather than cataloguing what's broken: Hubbard, B. M. (1998), *Conscious Evolution: Awakening the Power of Our Social Potential*, New World Library. On setting out a venture as a set of assumptions to test: Osterwalder, A. and Pigneur, Y. (2010), *Business Model Generation*, Wiley.
