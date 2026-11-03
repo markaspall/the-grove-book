@@ -4,6 +4,16 @@
 
 ---
 
+**In this chapter**
+
+- Why the law's demand for a named signer seems to make that person the boss
+- What co-operatives and employee ownership change, and what they leave untouched
+- How a legal body can point at where decisions are made: a passport, not a new king
+- How the designed company and its purpose lock work, and why the signer holds a role, not power
+- What's built, what's still open, and why we part from PowerShift's permanent Orchestrator
+
+---
+
 Sooner or later every conversation about organisations without bosses reaches the same wall.
 
 You can design all the forums and clocks you like, the sceptic says. The day you sign a lease, open a bank account or take someone on, the law asks for a name. A director. A signatory. Someone who can be sued. The legal entity wins in the end. Somewhere there's a person who signs, and whatever your software says, that person is the boss.

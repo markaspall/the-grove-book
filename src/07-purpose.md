@@ -4,6 +4,16 @@
 
 ---
 
+**In this chapter**
+
+- Why most purpose statements end up as wallpaper, and what that costs
+- How a purpose is found, and why an organisation can't be planted without one
+- Why purpose holds still while the founder's vision is tested as a set of bets
+- How every branch carries a purpose, why the root's rarely changes, and how the lens reads drift
+- What happens to work beside the purpose, and why purpose isn't the boundary
+
+---
+
 Walk into almost any office reception and you'll find it on the wall. A sentence about excellence, or customers, or making a difference. It was agreed at an away day, polished by a consultant, printed and framed. And on an ordinary Tuesday, nobody inside the building could tell you what it says.
 
 So the sceptic's view is fair: purpose statements are wallpaper. They're written to sound good, not to decide anything. When a real choice comes up, about which client to take or which project to drop, nobody reaches for the purpose. They reach for the budget, the targets, or the person in charge. If that's what purpose is, building an organisation around it sounds like building a house on a slogan.
@@ -50,7 +60,7 @@ This also changes what success means. In an organisation on The Grove, success i
 
 Once purpose carries direction, it has to be built into how the organisation works, not just written down at the start.
 
-**Every part has one.** The whole organisation has a root purpose. Each branch, each part within it, has its own guiding purpose, set in the forum above it. A branch can't be grown without one, and it's written as what the branch does for the purpose above it. So a steward holding a small part of a large organisation can ask the same question as the founder: does this belong here? The answer is nested, the way Chapter 4 described parts that are also wholes.
+**Every part has one.** The whole organisation has a root purpose. Each branch, each part within it, has its own guiding purpose, set in the forum it sits in, with its parent and its siblings. A branch can't be grown without one, and it's written as what the branch does for the purpose above it. So a steward holding a small part of a large organisation can ask the same question as the founder: does this belong here? The answer is nested, the way Chapter 4 described parts that are also wholes.
 
 **Changing the root is rare and shared.** Only the root's forum can change the root purpose, and every member is asked for advice before it decides. It counts as the highest impact a change can have, so it needs two thirds of the forum's trust behind it and no concern standing. Then it waits out a timelock, three days before the change takes effect, so nobody can rewrite the organisation's identity in a hurry.
 

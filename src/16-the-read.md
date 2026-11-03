@@ -4,6 +4,16 @@
 
 ---
 
+**In this chapter**
+
+- Why dashboards and watching people leave an organisation blind to itself
+- What the read looks at: a ledger of work at each branch, with no place for a name
+- How work is weighed by whether the world asked, and how grow, wither, split and merge are read
+- How tensions land on the right forum, and how the lean shows drift and the unspoken
+- What the flame says about each branch, and why no reading can decide, pay or seat anyone
+
+---
+
 Here's the doubt, put the way a tired practitioner puts it.
 
 You can't see what's really going on in an organisation. Not from above, and not from a screen. Dashboards measure what's easy to count, so they show tickets closed and hours logged and calls answered, and miss the conversation that saved a client. And anything built to watch the work ends up watching people, because people do the work. Give it a year and the tool that was meant to help you understand the organisation is the tool your colleagues learn to perform for.
@@ -56,9 +66,9 @@ Every number here is a guess. We set them as placeholders and said so in the cod
 
 The same traces show tensions, and each is read as *the map is wrong here*, never *someone is doing too much or too little*. There are five kinds the work shows by itself: work bouncing between two branches, one branch's work being done from another's seat, a branch keeping being sent work it doesn't hold, work arriving that no accountability answers for, and, since 1 November, overlap: the same people from outside coming to two branches, or promises to them split across two, so that nobody holds the whole of what they asked for.
 
-Each lands on the lowest forum that covers every branch involved. A tension about one branch goes to the forum above it, where its shape can change. A tension between two goes to the nearest forum they share. It arrives as a question, not a finding: *where should the line between these two sit?* Beside these sit the tensions people raised, the ones behind proposals that lapsed, were withdrawn, or whose review said they didn't work.
+Each lands on the lowest forum that covers every branch involved. A tension about one branch goes to the forum that branch sits in, with its parent and siblings, where its shape can change. A tension between two goes to the nearest forum they share. It arrives as a question, not a finding: *where should the line between these two sit?* Beside these sit the tensions people raised, the ones behind proposals that lapsed, were withdrawn, or whose review said they didn't work.
 
-If a tension sits unanswered for fourteen days, it rises to the forum above, and on up a forum a fortnight. At the root it says plainly that the whole organisation hasn't answered it yet. Someone seated where it sits can answer it in words, or raise a proposal from it.
+If a tension sits unanswered for fourteen days, it rises to the next forum up, and on up a forum a fortnight. At the root it says plainly that the whole organisation hasn't answered it yet. Someone seated where it sits can answer it in words, or raise a proposal from it.
 
 ## The lean, and the four ways it reads
 

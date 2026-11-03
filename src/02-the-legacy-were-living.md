@@ -4,6 +4,16 @@
 
 ---
 
+**In this chapter**
+
+- How the org chart began on a railway in 1855, and the problem it solved
+- What the tree of command was really doing: moving information up and decisions down
+- Why that job has changed, and what matrix, flat, agile, sociocracy, Holacracy and Teal each learned
+- How the habits of hierarchy live on in us after the boxes change
+- What we kept from hierarchy, what we dropped, and why we started from a clean sheet
+
+---
+
 There's a phrase most of us use without thinking: *who do you report to?*
 
 It's often the second question at a party, after *what do you do?* It tells you where someone sits. Above them, a manager. Above the manager, a director. Somewhere at the top, a chief executive, and above them a board. Draw it and you get a tree, branching downwards, every box connected to exactly one box above.

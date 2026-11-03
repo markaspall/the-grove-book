@@ -4,6 +4,16 @@
 
 ---
 
+**In this chapter**
+
+- Why a member without a seat can't propose or consent, and why that line is drawn on purpose
+- How joining works as a welcome and a vouch, and why leaving needs nobody's permission
+- What a member without a seat can do: sense, advise, move work, see the whole
+- Why consent goes with seats, and where that lets the boss grow back
+- Where this sits beside sociocracy and co-operatives, and what's still open
+
+---
+
 Anyone who has spent time in a sociocratic circle or a worker co-operative will have a question ready by now, and it's a sharp one.
 
 Earlier chapters said that only people who hold a seat raise proposals, and only people who hold a seat decide. So what about everyone else? A member who belongs to the organisation but holds no seat can't propose a change, can't consent to one and can't object to one. That sounds like two classes of people: those who decide, and those who are decided about. Call the first group stewards and the second members, and it's still a hierarchy. It just has nicer words.
@@ -64,7 +74,7 @@ The reason is accountability. The people who carry a part of the work decide abo
 
 It also keeps the organisation honest about who's carrying what. We moved work firmly onto seats after simulated organisations showed people without seats quietly doing the work while the structure stopped growing, because nobody needed a seat to get things done. So the work belongs to the seat, and if you're doing a branch's work, the invitation is to join its crew and say so. A crew isn't a promotion. It's the people doing a branch's work, sharing its one seat.
 
-The routing rule from Chapter 8 does the rest. A forum with fewer than two distinct people in it doesn't decide; its decisions rise to the nearest forum above with two or more, and end at the root if none has. A forum is made of the people who hold seats in it. Members without a seat don't change that count.
+The routing rule from Chapter 8 does the rest. A forum with fewer than two distinct people in it doesn't decide; its decisions go to the next forum up that has two or more, and end at the root if none has. A forum is made of the people who hold seats in it. Members without a seat don't change that count.
 
 ## Where the boss grows back
 
@@ -80,7 +90,7 @@ None of that is a guarantee. A founder who wants to stay the boss can. What the 
 
 It's fairest to say where we're close to each, and where we part.
 
-With sociocracy the closeness is real. Consent rather than majority. Decisions made by the people who do the work. Seats offered and agreed in the forum above. Where a crew shares a seat, everyone in it takes part, much as everyone in a circle does. The difference is that sociocracy assumes belonging means being in a circle. We let people belong without being in any forum at all, and give them voice through the Field and through advice instead of a seat at every table. We think that keeps forums small and decisions moving. The cost is that a member outside every forum has no consent anywhere.
+With sociocracy the closeness is real. Consent rather than majority. Decisions made by the people who do the work. Seats offered, and agreed in the forum the branch sits in. Where a crew shares a seat, everyone in it takes part, much as everyone in a circle does. The difference is that sociocracy assumes belonging means being in a circle. We let people belong without being in any forum at all, and give them voice through the Field and through advice instead of a seat at every table. We think that keeps forums small and decisions moving. The cost is that a member outside every forum has no consent anywhere.
 
 With co-operatives the difference is larger. Co-operative members can vote out the people who run things. An organisation on The Grove has no general meeting and no member vote on who holds which seat. The equal voice lives in the Field, where it informs and decides nothing. Some co-operative readers will find that a step too far, and we understand why. Our reasoning is that a periodic vote over people is a blunt tool for a living organisation, and that what it guards against, people holding power they shouldn't, is better met by seats anyone can step out of, trust that fades and has to be earned again, and decisions that come back for review. We hold that view with some humility.
 

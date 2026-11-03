@@ -4,6 +4,16 @@
 
 ---
 
+**In this chapter**
+
+- Why organisations without a boss are suspected of being soft on deadlines
+- What a simulated bakery showed when promises had nowhere to live
+- Why commitments get a firmer mode, firm on the promise and never on the person
+- How a promise is carried, timed and raised when it's at risk, and who may step in
+- What was left out on purpose, like alerts and timesheets, and why
+
+---
+
 Here's a doubt that usually arrives once people have warmed to everything else.
 
 Self-management sounds lovely for deciding things. Purpose, proposals, who holds which seat: fine, talk it through, take your time, consent when you're ready. But a customer who was promised a delivery on Thursday doesn't care how gracefully you reached agreement. They care whether it arrives on Thursday. And the sceptic suspects, with some reason, that organisations without a boss are soft on exactly this. Nobody chases. Nobody is on the hook. Deadlines become gentle suggestions, and the people who keep their word end up quietly carrying the ones who don't.

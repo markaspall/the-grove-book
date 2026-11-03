@@ -48,6 +48,7 @@ It walks through the whole design, one piece at a time, from the society we hope
 - [21. Between organisations](src/21-between-organisations.md)
 - [22. DNA, the network, and why not open source](src/22-dna-the-network-and-open-source.md)
 - [23. Into the legal world](src/23-into-the-legal-world.md)
+- [The parts and what they do](src/appendix-the-parts-and-what-they-do.md)
 
 The full outline is in [`src/SUMMARY.md`](src/SUMMARY.md). Chapters appear as they're drafted, not in order.
 

@@ -4,6 +4,16 @@
 
 ---
 
+**In this chapter**
+
+- Why "whoever pays decides" could undo everything else, and what it costs
+- How trust and money are kept apart as two currencies, so funding never buys a say
+- How revenue flows into a shared commons and out to branches by need, with evidence
+- How payments are checked, how pay is shared by dials, and what the floor is
+- What we're building towards for people who automate their own role, and what value can't be taken
+
+---
+
 Everything in this book so far could be undone by one old rule: whoever pays decides.
 
 A thoughtful sceptic will put it plainly. You can spread decisions across forums, offer seats instead of assigning them, read the organisation like a living thing. Fine. But follow the money. The part of the organisation that brings in the revenue will end up with the loudest voice, because it can threaten to leave. The investor who funds the next stage will want a seat at the table, and will get one. The person who signs off the budget is the boss, whatever the org chart says. Self-management is a lovely idea until the bills arrive.

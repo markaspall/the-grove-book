@@ -4,6 +4,16 @@
 
 ---
 
+**In this chapter**
+
+- What the boss's call, majority voting and consensus each cost
+- How consent and the advice process combine, with clocks in place of meetings
+- How a proposal moves through shape, advice, the vote, a timelock and its review
+- Why there's no expert veto or override, and what happens when a forum is stuck
+- What people can and can't do when the building's on fire
+
+---
+
 Say the word *consent* to someone who has spent a few years in a collaborative workplace and watch their face.
 
 They're picturing a circle of chairs. A proposal that took three weeks to write. A round where everyone speaks, then another round, then a break, then someone who missed the last meeting asks to start again. A decision that finally lands in the fourth session, worn down until nobody objects because nobody much cares any more. Or, just as often, no decision at all: the item rolls over to next month's agenda, and the month after, until the problem fades or the person who raised it leaves.
@@ -42,7 +52,7 @@ While you draft, Wise-Eye can read it and offer what's missing: who would answer
 
 Then the proposal moves through its stages, each one on a clock.
 
-**Shape.** Another person in the forum that will decide it, never you, checks that it's clear and that it does what its words say. Not whether it's a good idea. Just whether it's honest about itself. (A forum is the group of people who govern a part of the organisation, as Chapter 8 described.) If they think it isn't clear, they send it back and say what it needs. You can rework it, or stand by it, in which case the forum above checks it instead. If nobody looks at it for three days, it rises to the forum above. If nobody agrees its shape in time, it lapses. A founder working alone has nobody else to check, so their proposals pass this stage at once.
+**Shape.** Another person in the forum that will decide it, never you, checks that it's clear and that it does what its words say. Not whether it's a good idea. Just whether it's honest about itself. (A forum is the group of people who govern a part of the organisation, as Chapter 8 described.) If they think it isn't clear, they send it back and say what it needs. You can rework it, or stand by it, in which case the next forum up checks it instead. If nobody looks at it for three days, it rises to the next forum up. If nobody agrees its shape in time, it lapses. A founder working alone has nobody else to check, so their proposals pass this stage at once.
 
 **Advice.** The proposal is put to two kinds of people: those with skill in what it touches, and those it directly changes. A change to the purpose, or to the agreement about how we're here together, is put to every member. This lasts between three and fourteen days, or until everyone asked has answered. Advice never holds a proposal up. The one exception is someone who depends on a locked asset the proposal would move; their word does carry weight.
 
@@ -56,7 +66,7 @@ Any rework at any stage resets the proposal: it's checked again and advice is as
 
 ### Who decides
 
-The people who decide are the governors of the forum that holds the change, which is the forum above the branch being changed. If that forum has fewer than two people in it, the decision moves up until one has. A founder alone, or a founder whose members hold no seat, decides alone. Their voices are weighted by the trust their peers have placed in them for that kind of matter, which Chapter 11 explores. The organisation-wide pool of skill advises; the local forum decides.
+The people who decide are the governors of the forum that holds the change, which is the forum the branch sits in: its parent, the branch itself and its siblings. The branch's own steward decides alongside the others, not from outside. If that forum has fewer than two people in it, the decision moves up until one has. A founder alone, or a founder whose members hold no seat, decides alone. Their voices are weighted by the trust their peers have placed in them for that kind of matter, which Chapter 11 explores. The organisation-wide pool of skill advises; the local forum decides.
 
 Wise-Eye takes part all the way through, but never decides. It gives the checker a note on whether the change matches its words. It offers its own advice, clearly marked as its own. If you ask, it will rework your proposal to fit the advice you received. And at review, it summarises what happened alongside the evidence.
 
@@ -70,7 +80,7 @@ For the rare case where a forum is evenly split, the design includes a jury draw
 
 A lapsed proposal doesn't make its tension disappear. Organisations on The Grove show tensions of two kinds side by side. Some the work reveals by itself: work bouncing between branches, work done from the wrong place, work nobody holds, overlaps such as the same outside person turning up in two branches' work. Others are raised: the tension behind a proposal that lapsed, was withdrawn, or whose review said it didn't work.
 
-Since 1 November 2026, an unresolved tension rises to the forum above after fourteen days, and on up a forum at a time. If it reaches the root, it says so plainly: the whole organisation hasn't answered this yet.
+Since 1 November 2026, an unresolved tension rises to the next forum up after fourteen days, and on up a forum at a time. If it reaches the root, it says so plainly: the whole organisation hasn't answered this yet.
 
 None of this needs a meeting. It runs asynchronously, on a clock, in the places people already work. People can still meet if they want to. Nothing waits for them to.
 

@@ -45,3 +45,7 @@
 
 - [24. Rehearsing the future]()
 - [25. Back to society]()
+
+---
+
+[The parts and what they do](appendix-the-parts-and-what-they-do.md)

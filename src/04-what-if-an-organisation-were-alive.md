@@ -4,6 +4,16 @@
 
 ---
 
+**In this chapter**
+
+- What the machine picture of an organisation costs: restructures, people as parts, plans that miss
+- Why an organisation is more like a whirlpool, a pattern that keeps re-forming around a purpose
+- How an organisation has many boundaries, like a membrane, and parts that are also wholes
+- What the read looks at, the four readings it makes, and why it never sees a person
+- How drift and the unspoken show the gap between what people say and where the work moves
+
+---
+
 Most of us carry a picture of an organisation in our heads, even if we've never drawn it. It's a machine.
 
 Somebody designs it. It has parts, and each part has a function. The parts are connected in a particular way, set out in a chart. Inputs go in at one end, outputs come out at the other. When it runs badly, you diagnose the fault, replace or retrain the faulty part, and run it again. When the world changes, you redesign it. We even talk about it that way: running the business, driving results, the engine of growth, a well-oiled machine.
@@ -78,7 +88,7 @@ From those traces come four readings. A part needs to **grow** when work keeps a
 
 The traces also show tensions: work that keeps bouncing between two parts, work that keeps being done from the wrong place, work that arrives with nobody to answer for it. Each is read as *the map is wrong here*, never as *someone is doing badly*.
 
-None of this decides anything. A reading is a question put to the forum that can answer it: here's what the work is doing, what do you make of it? A tension doesn't fade if nobody answers it. Every two weeks it rises to the forum above, until it reaches the top of the organisation, where it says plainly that the whole hasn't answered it yet.
+None of this decides anything. A reading is a question put to the forum that can answer it: here's what the work is doing, what do you make of it? A tension doesn't fade if nobody answers it. Every two weeks it rises to the next forum up, until it reaches the top of the organisation, where it says plainly that the whole hasn't answered it yet.
 
 Some of this we learned by watching it go wrong. In our simulations, an organisation that had just split could be offered back together within days, chasing its own tail. So once a job has been moved, nobody is offered to move it again for eight weeks, and a young branch isn't read as withering while it finds its feet. And the numbers themselves are guesses. We'd rather tell you that than pretend the organism knows itself better than it does. What we're sure of is the shape: read the work, never the person, and let people decide what it means.
 

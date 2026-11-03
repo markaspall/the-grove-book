@@ -4,6 +4,16 @@
 
 ---
 
+**In this chapter**
+
+- The three futures people fear from AI at work, and the trust problem underneath them
+- How Wise-Eye is placed beside each steward, acting for a named branch, with no seat
+- What it carries, and why it has no tool for consent or concern at all
+- How its standing to act alone is earned one kind of work at a time, and lost again
+- How rules move from prompts into structure, and what guards against speed and flattery
+
+---
+
 Put an AI inside an organisation and three futures come to mind, none of them good.
 
 In the first, it takes the decisions. Slowly at first, because it's quicker, then by habit, until the people are signing off on choices they never really made. In the second, it takes the jobs, and the organisation without a boss turns out to be an organisation without people. In the third, which is the quiet one, it does neither. It just agrees with everyone. It tells the founder the idea is brilliant, tells the team the plan is sound, and helps the wrong things happen faster than they ever could before.

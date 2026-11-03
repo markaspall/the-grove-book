@@ -4,6 +4,16 @@
 
 ---
 
+**In this chapter**
+
+- Why governance built on imagined tensions lets the loudest visionary win
+- How a founder's vision enters as bets, each one saying what would show it wrong
+- How many small, aimed probes test a bet, and why silence isn't counted against it
+- What counts as evidence, how a verdict is reached, and how invented work waits for the world
+- Why claims about ourselves and claims about the world sit in separate lanes
+
+---
+
 Every organisation starts with someone who can see something that isn't there yet.
 
 They can describe it in detail. Who it's for, what it will feel like, why the world needs it. They've often carried it for years. Without that picture nothing would begin, and the people who join early usually join because the picture moved them.

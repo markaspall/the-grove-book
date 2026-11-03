@@ -4,6 +4,16 @@
 
 ---
 
+**In this chapter**
+
+- Why today's crises share one trap underneath: a failure to coordinate, not a moral failing
+- Why the organisation, between the individual and the state, is where change can start
+- What Elinor Ostrom found about commons, and which two of her principles we set aside
+- What "sovereign" means here, for people, for organisations and for a whole society
+- How AI could leave people the human part, and what that depends on
+
+---
+
 Open any news feed and it doesn't take long to feel small.
 
 The climate is shifting faster than many of us expected. Wars that seemed unthinkable a few years ago are on the evening news. Artificial intelligence is arriving in every corner of life, and nobody quite knows what it will do to work, to truth, or to us. Trust in institutions is thinning. Inequality keeps widening. Every few weeks something new lands on the pile before the last thing has been dealt with.

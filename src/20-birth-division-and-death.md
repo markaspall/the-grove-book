@@ -4,6 +4,16 @@
 
 ---
 
+**In this chapter**
+
+- Why organisations avoid endings, and what hidden endings cost the business and its people
+- How an organisation begins, and why a starter pack describes but creates nothing
+- How branches are born, split and folded, with nothing dropped when one ends
+- How people leave or step down, and how locks protect value and those who depend on it
+- What we've designed but not built for whole organisations that divide, merge or close
+
+---
+
 There's a belief so deep in organisational life that it rarely gets said out loud. A good organisation lasts for ever.
 
 The sceptic holds it without needing to defend it. Growth is success. Splitting means something went wrong: a falling out, a failed merger, a team that couldn't get on. Closing is the worst failure of all. And whenever a part of an organisation ends, or a person leaves, someone loses. Their job, their standing, the thing they built. So the sensible move is to keep everything going for as long as possible, and to treat every ending as damage to be limited.
@@ -38,7 +48,7 @@ That small detail matters for everything after. Nothing comes into being in an o
 
 Inside an organisation, the life of branches is built, and it runs through ordinary proposals.
 
-A new branch is born by a proposal heard in the forum above it. It can start from nothing, or it can carry jobs out of its parent, taking their work and records with it. One job that has become two can be split into two. A job can move to another branch where that work already lives. And a branch can be folded back into its parent.
+A new branch is born by a proposal heard in the forum it will sit in, among its parent and its future siblings. It can start from nothing, or it can carry jobs out of its parent, taking their work and records with it. One job that has become two can be split into two. A job can move to another branch where that work already lives. And a branch can be folded back into its parent.
 
 Folding is how a branch ends, and it's worth being exact about what happens, because this is where most organisations lose things. When a fold is agreed in the parent's forum, everything the branch answered for goes up to the parent, with its open work, its records, its domains and their connections, its playbooks and its measures. Where the parent already answers for the same job, the work joins the parent's own, so nothing is held twice. The promises it was keeping go up too, along with what it holds, money owed to it, sendings under way and the bets it had placed. What's left of its budget goes with its work. Any branch beneath it now grows under the parent. Practices that held only on that branch end, each one saying why. An open seat it had posted closes. Its holders step down. Then the branch is composted. Its name stays in the record, so the history can still say where things were.
 
@@ -90,7 +100,7 @@ The fold was built later than the rest. Simulated organisations showed the readi
 
 We decided never to suggest merging two branches because the same people hold both. And we decided to treat a division as a passage people grieve through, not only a mechanism.
 
-What's still open is a lot. Whether a spin-off is decided by the forum above the branch, or by the root every time, since it takes value out of the organisation. How long the holding stage lasts while a legal entity divides, which takes months where the software takes minutes. How closing works. And whether, once real organisations use the fold, it will feel like a fair ending or a tidy one.
+What's still open is a lot. Whether a spin-off is decided by the forum the branch sits in, or by the root every time, since it takes value out of the organisation. How long the holding stage lasts while a legal entity divides, which takes months where the software takes minutes. How closing works. And whether, once real organisations use the fold, it will feel like a fair ending or a tidy one.
 
 ## What you might take from this
 

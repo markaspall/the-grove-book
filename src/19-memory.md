@@ -4,6 +4,16 @@
 
 ---
 
+**In this chapter**
+
+- Why organisations forget what matters while AI tools keep too much in the wrong place
+- How each branch's five documents are written as the work happens, and who can read them
+- What's sealed to a seat or a person: boards, personal notes and conversations with Wise-Eye
+- What's never kept, or kept only for a while, from the Clearing to outsiders' details
+- What stays and what goes when someone leaves, and what's unresolved about erasure
+
+---
+
 There are two fears about memory, and most people hold both at once.
 
 The first is old. Organisations forget everything that matters. The person who knew why the contract was written that way leaves, and the reason leaves with them. A decision made eighteen months ago gets made again, from scratch, by people who never heard it was made. The minutes exist somewhere, but nobody reads minutes, and they never said why anyway.
@@ -38,7 +48,7 @@ Every branch has five standing documents. Its **intent**: why it exists, in the 
 
 Nobody sits down to write these. Wise-Eye, the AI companion in every organisation on The Grove, keeps them as it works alongside whoever holds the branch. Every few turns of a conversation, it folds what's been said into the documents: it rewrites the living ones whole when the conversation has moved them, and adds a dated line to the decisions. When it starts a new conversation, it reads them first. So does a new person taking up the branch. Wise-Eye's memory of the work isn't in a private chat. It's in the same documents everyone else reads.
 
-These documents are open to every member by default. A document can be placed in a locked domain (an area of the organisation's work held by one branch), and then only that branch's holders can read it. Others can see that it exists and why they can't open it. The lock lives on the domain, not the document, and it changes only by a proposal in the forum above. No steward can quietly hide what the organisation knows. An open document can't be slipped behind a lock; that takes a proposal too.
+These documents are open to every member by default. A document can be placed in a locked domain (an area of the organisation's work held by one branch), and then only that branch's holders can read it. Others can see that it exists and why they can't open it. The lock lives on the domain, not the document, and it changes only by a proposal in the forum its branch sits in. No steward can quietly hide what the organisation knows. An open document can't be slipped behind a lock; that takes a proposal too.
 
 Each document keeps its last sixty versions, with who wrote each and why. Deleting a document archives it; nothing is destroyed. When Wise-Eye writes a version that someone takes straight back out, its words go from the document and from its history, and a line remains saying only that a version was withdrawn.
 

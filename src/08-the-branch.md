@@ -4,6 +4,16 @@
 
 ---
 
+**In this chapter**
+
+- What bundling a person, a pile of work and a place in a hierarchy into a job costs
+- What a branch holds, a purpose, accountabilities, domains and practices, and why no person is named
+- How seats and crews bring people in, so several hats can be worn in the open
+- The one rule that stops a single person deciding alone in a forum
+- How new branches grow from the work, and how branches split, join and fade
+
+---
+
 Every few years a new way of organising arrives with its own vocabulary, and the sceptic has seen enough of them to know the pattern.
 
 Departments become tribes. Managers become leads. Job descriptions become roles. A consultant draws circles instead of boxes, and for a while everyone talks differently. Then, quietly, the same people do the same work, answer to the same person and guard the same territory. The words changed. The organisation didn't.
@@ -54,7 +64,7 @@ Because branches nest, every accountability has a path, like an address: root, t
 
 If the branch doesn't name a person, where do people come in?
 
-Each branch has a seat, held by a steward, as Chapter 6 described. Nobody takes a seat by their own proposal, unless they'd be deciding alone anyway. Someone else proposes them, and the forum above decides. We haven't yet built a step where the person named says yes. A seat can be shared, by two people co-stewarding or by a crew of the people doing the branch's work. When a shared seat takes part in a decision it carries one seat's voice, and each holder takes part as a person. Anyone can resign a seat, with a notice period they set themselves. If a seat empties, the branch above holds it meanwhile, so the work isn't orphaned.
+Each branch has a seat, held by a steward, as Chapter 6 described. Nobody takes a seat by their own proposal, unless they'd be deciding alone anyway. Someone else proposes them, and the forum the branch sits in decides. We haven't yet built a step where the person named says yes. A seat can be shared, by two people co-stewarding or by a crew of the people doing the branch's work. When a shared seat takes part in a decision it carries one seat's voice, and each holder takes part as a person. Anyone can resign a seat, with a notice period they set themselves. If a seat empties, the branch above holds it meanwhile, so the work isn't orphaned.
 
 Work is assigned to branches, never to people. And inside a branch, nothing hands out the pieces. Anyone in the crew can take a piece in hand, and the system shows who has it so it isn't dropped. Who takes what is the crew's business.
 
@@ -62,7 +72,7 @@ This is where the honest answer to the sceptic begins. Because a person can hold
 
 ## One rule instead of many
 
-A branch is governed in two places. It's governed in the forum above, among its parent and its peers, where its remit is set. And it governs in its own forum, with itself and the smaller branches inside it. Autonomy over the means, accountability for the ends.
+There's one kind of forum: a branch together with the branches directly inside it. A branch has its say about itself in its parent's forum, among its parent and its peers, where its remit is set. And it sits as the parent in its own forum, where the remits of the smaller branches inside it are set. It's the same forum at every level. The root is the one exception: it has no parent, so it's governed in its own forum, by its children. Autonomy over the means, accountability for the ends.
 
 That raises an obvious problem. What if one person holds a branch and all the branches inside it? Their "forum" would be a room with one person in it, approving their own decisions.
 
@@ -72,7 +82,7 @@ For a while we had a cluster of separate rules to deal with this and related pro
 
 A great deal follows from that one sentence.
 
-A solo founder builds freely, because there's nobody else yet, and everything routes to the root where they sit. The moment a second person takes a seat, decisions start being caught by a real plurality. Nobody can build an empire alone, because however many branches they hold, they can never be the only person in the room where those branches are decided. And a leaf held by one person, a branch with nothing inside it, becomes a container only with consent from the forum above, because its own forum has only one person in it. A leaf whose seat is shared by two or more people can decide that for itself.
+A solo founder builds freely, because there's nobody else yet, and everything routes to the root where they sit. The moment a second person takes a seat, decisions start being caught by a real plurality. Nobody can build an empire alone, because however many branches they hold, they can never be the only person in the room where those branches are decided. And a leaf held by one person, a branch with nothing inside it, becomes a container only with consent from the forum it sits in, with its parent and siblings, because its own forum, with nothing inside it yet, has only one person in it. A leaf whose seat is shared by two or more people can decide that for itself.
 
 That last point matters. Only structural change routes up. The day-to-day work stays local, with the people doing it.
 
@@ -98,7 +108,7 @@ Merging circle and role into one unit was the biggest structural choice. It cost
 
 Collapsing several rules into the routing rule was the most satisfying. Each separate rule had edge cases that the others had to patch. One rule, based on counting distinct people in the room, covered all of them.
 
-We rejected two things that kept coming back. One was an "expandable" flag on roles, a setting that said whether a piece of work was allowed to grow smaller pieces inside it. The routing rule already gates that, through consent from the forum above, so the flag was redundant. The other was a "Project" object with an owner and a plan. It looked harmless. It was the project manager smuggled back in: a person with a patch and authority over others' time. Work that needs doing belongs to a branch.
+We rejected two things that kept coming back. One was an "expandable" flag on roles, a setting that said whether a piece of work was allowed to grow smaller pieces inside it. The routing rule already gates that, through consent from the forum the leaf sits in, so the flag was redundant. The other was a "Project" object with an owner and a plan. It looked harmless. It was the project manager smuggled back in: a person with a patch and authority over others' time. Work that needs doing belongs to a branch.
 
 And we decided never to infer a merge from shared people. It would be easy to read overlap as duplication. It usually isn't.
 

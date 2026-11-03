@@ -4,6 +4,16 @@
 
 ---
 
+**In this chapter**
+
+- Why contracts forget and platforms own the memory, and what cooperation needs instead
+- How services, needs and agreements work between organisations on The Grove today
+- What crosses between two organisations, what each can see, and how agreements are looked back on
+- How people who belong to more than one organisation count, and the open question that raises
+- What's decided but not built, including conditional pledges against the race to the bottom
+
+---
+
 A sceptic who has come this far might grant us something. Perhaps inside one organisation, people who can see each other can decide by consent, keep their promises without a boss and agree to hold back together. Fine. But step outside the walls and the weather changes.
 
 Between organisations there's no shared purpose and no forum. There are contracts, written by whoever has the better lawyers. There's leverage: the big buyer squeezes the small supplier, and the platform squeezes everyone. And there's the race from Chapter 1, each organisation cutting the corner because it knows the others will. Cooperation is lovely in a circle, the doubt goes. Between organisations, competition wins, and the biggest wins most.
@@ -32,7 +42,7 @@ What exists today has three pieces: services, needs and agreements. They were bu
 
 **Finding someone** starts from what you're looking for, in your own words. What comes back is ordered nearest first: organisations you already exchange work or money with, then ones your own people belong to, then everyone else who lists the service. "Two of your people belong there" counts for more than anything a stranger says about itself. Wise-Eye can search for a service and draft a need, but a person reads the draft and posts it.
 
-**An agreement** takes two proposals, one in each organisation. On the side bringing the service in, it's heard in the forum above the branch it will serve, as a change to a seat would be. That's deliberate: an outside organisation serving one of a branch's jobs changes who carries the work, so it's decided where seats are decided. The proposal names the provider, which job it serves, which kinds of work it covers, the fee, how the two will work together, how often it's looked back on (every ninety days unless the forum chooses otherwise, anywhere from a week to a year) and what would show it worked. Once it passes, a piece of work lands on the provider's branch: this organisation asks to use your service. That branch agrees by a proposal in its own forum, or says no. Nothing starts until both have decided.
+**An agreement** takes two proposals, one in each organisation. On the side bringing the service in, it's heard in the forum that the branch it will serve sits in, as a change to a seat would be. That's deliberate: an outside organisation serving one of a branch's jobs changes who carries the work, so it's decided where seats are decided. The proposal names the provider, which job it serves, which kinds of work it covers, the fee, how the two will work together, how often it's looked back on (every ninety days unless the forum chooses otherwise, anywhere from a week to a year) and what would show it worked. Once it passes, a piece of work lands on the provider's branch: this organisation asks to use your service. That branch agrees by a proposal in its own forum, or says no. Nothing starts until both have decided.
 
 The line we hold here is simple. Bringing in a service changes who does the work, not who answers for it. The job stays with the branch that holds it. The provider gets no seat and no say in what's decided, only what the agreement opens to it.
 

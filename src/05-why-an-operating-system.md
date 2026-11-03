@@ -4,6 +4,16 @@
 
 ---
 
+**In this chapter**
+
+- Why culture alone erodes under pressure, and what written practices like Holacracy ask of people
+- What it means to run on an operating system, with each organisation's shape held as its own data
+- Why the work flows through the structure, rather than past a map beside it
+- Which few guardrails live in the structure itself, and how a founder's last word was closed off
+- How the network is meant to be run by its members, like Visa, and where it stands today
+
+---
+
 If you've followed us this far, you might agree with most of it and still have a fair objection.
 
 All of this sounds like culture. Living organisations, sensing and responding, people taking up responsibility rather than having it handed to them: these are questions of how people behave and what they believe. Culture is built through leadership, conversation, trust and time. It isn't something you can install. If anything, the history of organisational change is littered with software that promised to transform how people work and ended up as one more system to log into.
@@ -60,7 +70,7 @@ So we built the other way. It's easiest to see in a moment.
 
 Picture a small organisation on The Grove, a few months old. The person who started it holds the root, the seat that carries the organisation's purpose. Two others hold seats on the parts beneath it. A large order has come in, and the founder knows exactly who should take on the new kitchen work: herself. So she starts a proposal to seat herself on that part.
 
-It doesn't go through. The words she sees are plain: a seat is never taken by your own proposal. Someone else seated in the forum above has to raise it, and when it's decided, she stands aside from it, because it's about her.
+It doesn't go through. The words she sees are plain: a seat is never taken by your own proposal. Someone else seated in the forum that branch sits in, alongside its parent and its siblings, has to raise it, and when it's decided, she stands aside from it, because it's about her.
 
 That isn't a policy she forgot to read. There's no setting that turns it off, and nobody to ask for an exception, because there's nobody above the forum to ask.
 
@@ -86,7 +96,7 @@ If one company owns the platform that organisations run on, that company holds a
 
 The nearest model we found is an unlikely one: Visa. In the late 1960s, Dee Hock helped turn a struggling credit card programme into an organisation owned and governed by the banks that used it, neither a single company nor a free-for-all, which he later called *chaordic*: a blend of chaos and order.[^4] The network existed because its members ran it together.
 
-The Grove is designed on a similar idea, and this is the part we're furthest from finishing. The plan is that organisations form a network by recognising each other. The network has a steward, which will itself be an organisation like any other, bound by the same rules, whose job is to look after the system's code for the organisations that use it. Every organisation will carry the system with it, sealed inside its own space. Nobody will be able to push changes into an organisation; each will decide for itself whether to adopt a new version. And if a steward ever stopped serving its network, the organisations could leave together, take the system with them, and form a network of their own.
+The Grove is designed on a similar idea, and this is the part we're furthest from finishing. The plan is that organisations form a network by recognising each other. The network has a Steward, which will itself be an organisation like any other, bound by the same rules, whose job is to look after the system's code for the organisations that use it. Every organisation will carry the system with it, sealed inside its own space. Nobody will be able to push changes into an organisation; each will decide for itself whether to adopt a new version. And if a Steward ever stopped serving its network, the organisations could leave together, take the system with them, and form a network of their own.
 
 None of that is how things stand today. Today we hold the keys: the organisations share one space, and we can change the code they all run on. We built the organisation first and the network second, because a network of organisations that can't yet run themselves would be worth nothing. But we know the order leaves a gap, and we'd rather name it than have you find it.
 

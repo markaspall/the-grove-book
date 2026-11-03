@@ -4,6 +4,16 @@
 
 ---
 
+**In this chapter**
+
+- Why every organisation already has a hidden trust system, and what it costs
+- What PageRank, EigenTrust and Ostrom suggest about trust gathered from peers, and what to avoid
+- How trust works as governance weight, given by peers in each forum on each kind of matter
+- Why there are no chains, no global score and no way to buy a say
+- How reputation guides advice but never decisions, and how trust meets conflict and bad faith
+
+---
+
 Here's a doubt worth taking seriously.
 
 Trust is human. It grows slowly between people who have worked together, kept their word, shown up when it mattered. It lives in glances and in history. You can't write it into software. And the moment you try, you get something worse than no trust at all: a number. A rating. A league table of colleagues. Something people learn to game, or fear, or both.

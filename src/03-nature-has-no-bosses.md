@@ -4,6 +4,16 @@
 
 ---
 
+**In this chapter**
+
+- What a boss is really doing, knowing, deciding and telling, and what that loop costs
+- How slime moulds, termites, ants, starlings and bees coordinate with nobody in charge
+- Why the alpha wolf turned out to be a mistake
+- What nature does instead: sensing at the edges, traces that guide, decisions at a threshold
+- What we borrowed from nature, what we added to keep it human, and where we part ways
+
+---
+
 > *I was twelve when I first wrote code, on a ZX81 with a keyboard you had to press like a doorbell. I loved it. I still do. Like a lot of people who love building things, I was ambitious too, so the path seemed obvious: freelance first, then a company of my own. In time it became a software consultancy that grew far bigger than that twelve-year-old could have imagined.*
 >
 > *Somewhere along the way I learned something nobody had warned me about. The people who knew our customers best were the ones furthest from where the decisions were made. I'd sit with my opposite number in a client's organisation, two people at the top, both a little out of touch, trying to steer something we could no longer see clearly. They had the same problem I did. My mentors told me that's simply how it works: someone has to be at the top, and the top has to decide. It never sat comfortably. I knew it was wrong. I just didn't know what right looked like.*

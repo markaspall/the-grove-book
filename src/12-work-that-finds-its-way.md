@@ -4,6 +4,16 @@
 
 ---
 
+**In this chapter**
+
+- What handing out work costs the manager, the business and the people given it
+- Why work belongs to a branch, and nobody can give work to anyone else
+- How everything comes in through one door and is routed in a fixed order, with guesses marked
+- Why work weighs more or less depending on where it came from
+- How playbooks and new structure grow from the work, and what's left out on purpose
+
+---
+
 Here's a doubt that sounds like plain common sense.
 
 Someone has to hand out the work. An email arrives from a client. A supplier sends an invoice. A customer complains on the website. Somebody has to read it, decide whose it is, and pass it on. Take away the person who does that and the work piles up in a shared inbox until someone gives in and deals with it, usually the most conscientious person in the room, who then quietly becomes the boss anyway.

@@ -4,6 +4,16 @@
 
 ---
 
+**In this chapter**
+
+- Why source theory, the viable system model and PowerShift each say a centre has to hold the whole
+- What a centre costs, and what its absence costs
+- How purpose, the root, an open flame and climbing tensions hold the whole without a centre
+- How shared money is weighed by a forum with evidence, and where the gaps still are
+- What happens in an emergency with no override, and the fire alarm we've designed but not built
+
+---
+
 Here is the doubt at its strongest, and it doesn't come from people who like bosses.
 
 Something has to sit at the top. Not a tyrant, but someone or something that holds the whole: that knows what the organisation is for, sees how the parts fit, and can act when they don't. Take that away and a self-managed organisation doesn't become free. It drifts. Every part looks after its own patch, and the gaps between them grow until a customer notices.
@@ -38,13 +48,13 @@ Our answer is two things, neither of them a person. The whole can be held by eve
 
 ## What holds the whole
 
-**Purpose is what closes it.** An organisation needs something that makes it this organisation and not a crowd. On The Grove that's its purpose, held at the root, the first seat. It's what Beer would call identity. Only the root's own forum can change it, and a change to it is put to every member for advice before anyone decides. A branch can change what it's accountable for in the forum above it; nobody below the root can change what the whole is for.
+**Purpose is what closes it.** An organisation needs something that makes it this organisation and not a crowd. On The Grove that's its purpose, held at the root, the first seat. It's what Beer would call identity. Only the root's own forum can change it, and a change to it is put to every member for advice before anyone decides. A branch can change what it's accountable for in the forum it sits in; nobody below the root can change what the whole is for.
 
 **The root is one seat, and the end of every rise.** This is the honest double answer Chapter 6 gave. In decisions, the root weighs the same as each of the branches just beneath it in its forum. In structure, it's where things end: work that has no home rests there, problems nobody has answered arrive there, and only its forum touches the purpose. So the root carries more than it looks. What it doesn't carry is a private view.
 
 **Everyone can see the whole.** Since 1 November 2026, the organisation's flame, the single reading of how it's doing, opens for every member, not only those at the root. Press it and it unfolds into its four readings: whether what was promised and tried has landed; how far the work arriving sits from the purpose; how widely appreciation reaches; and the pulse of the Clearing, the organisation's shared space for how people are. Each is drawn over time and opens onto what feeds it, down to the piece of work or proposal behind it. Every branch has a flame of its own too, read over itself and everything beneath it, and shown beside its siblings, never ranked. People are never scored. The readings about people are collective, shown only where enough people hold that part that nobody can be picked out. Taking the whole seriously still sits most heavily at the root, but as a responsibility people carry, not information kept from everyone else.
 
-**Problems climb until they're answered.** A tension is a sensed gap between how things are and how they could be. Some the work reveals by itself: work bouncing between branches, work done from the wrong place, work nobody holds. Others are left behind when a proposal lapses, is withdrawn, or its review says it didn't work. Since 1 November, any tension left unanswered on a forum for fourteen days rises to the forum above, and fourteen days later to the one above that, until it reaches the root. When it gets there, it says plainly that the whole organisation hasn't answered it. It can be answered by a proposal raised from it, or in words by someone seated where it now sits, and those words stay beside it. Nothing removes it quietly.
+**Problems climb until they're answered.** A tension is a sensed gap between how things are and how they could be. Some the work reveals by itself: work bouncing between branches, work done from the wrong place, work nobody holds. Others are left behind when a proposal lapses, is withdrawn, or its review says it didn't work. Since 1 November, any tension left unanswered on a forum for fourteen days rises to the next forum up, and fourteen days later to the next, until it reaches the root. When it gets there, it says plainly that the whole organisation hasn't answered it. It can be answered by a proposal raised from it, or in words by someone seated where it now sits, and those words stay beside it. Nothing removes it quietly.
 
 **Pain reaches upward.** Beer gave the viable system an alarm he called the algedonic signal, from the Greek for pain and pleasure: a channel that lets distress in an operating part reach identity without passing through every layer of management. Ours is gentler. Work from outside that nobody has taken up for fourteen days on a branch shows in the morning heads-up of whoever holds the branch above, as work risen from below, with how much and how long the oldest has waited. It goes to the branch above, never to a named person, and it isn't pushed: it waits for when they come.
 

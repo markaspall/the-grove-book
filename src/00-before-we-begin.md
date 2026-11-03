@@ -4,6 +4,16 @@
 
 ---
 
+**In this opening**
+
+- Why the book is written in public while the system is still being built
+- How "is", "building towards" and "we don't know" mark what's built and what isn't
+- Who the book is written for, and why every chapter starts with a doubt
+- How the six parts run, and the shape each chapter follows
+- Why both "I" and "we" appear, and where the line between them falls
+
+---
+
 This book is being written while the thing it describes is still being built.
 
 That's worth saying first, because most books about organisations arrive finished. The research is done, the case studies are polished, the model has a name and a diagram, and the author's job is to convince you it works. This isn't that book. It's closer to a field journal kept on the way up a mountain nobody has quite climbed before. Some chapters will be written from solid ground. Others will be written from a ledge, looking at the next stretch and not yet sure of the route.
@@ -12,7 +22,7 @@ So, plainly: this book isn't complete, and we don't claim that what's in it is r
 
 What we can promise is that it's honest about where it stands.
 
-One convention helps with that. When we say something in the system *is* so, it's built and working as the book is written. When something is decided but not built yet, we say we're building towards it. When we don't know, we say that too. Each chapter notes the build it was checked against, because the build keeps moving.
+One convention helps with that. When we say something in the system *is* so, it's built and working as the book is written. When something is decided but not built yet, we say we're building towards it. When we don't know, we say that too. Each chapter notes the build it was checked against, because the build keeps moving. And the system has a lot of named parts. If a word stops you, the page at the back, *The parts and what they do*, says what it is and which chapter explains it.
 
 ## Why write it now
 

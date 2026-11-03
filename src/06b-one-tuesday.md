@@ -4,6 +4,16 @@
 
 ---
 
+**In this interlude**
+
+- One ordinary working day in a small bike workshop whose organisation runs on The Grove
+- How a customer's email finds the right branch, and a drafted reply waits for a person
+- How work passed back and forth shows up as a tension that blames nobody
+- How a promise gets a name and a day, and a proposal runs on clocks, not meetings
+- How the change is looked back on four weeks later, and which chapters explain each step
+
+---
+
 Before we go inside, piece by piece, here is one ordinary working day. Nothing dramatic happens in it. That's the point.
 
 Kestrel Cycles is a small workshop in a market town. It mends bikes, sells refurbished ones, and runs evening classes for people who want to look after their own. Ruth started it and still holds the root, the part of the organisation that holds the whole. Beneath it sit three branches. Repairs is held by Tomasz, with Jun and Sam as his crew. Sales is held by Ade. Classes is held by Lena. Six people in all, and a purpose they wrote together: keeping bikes on the road.
@@ -52,7 +62,7 @@ Then advice. Tomasz sets three days, the shortest a proposal can. It's put to Ju
 
 ## The vote
 
-The forum that decides is the root's, the one above the branch being changed. Adding an accountability is a low-impact change, so it passes when the people consenting carry a fifth of the forum's trust in this kind of matter and no concern stands. In a forum of four, one person's word could be enough on its own. That's exactly why the vote stays open for two days whatever happens: nobody can pass a change the moment it opens.
+The forum that decides is the one Repairs sits in: its parent, the root, together with Repairs itself and its siblings, Sales and Classes. Here that's the root's forum, so Tomasz takes part in deciding a change to his own branch. Adding an accountability is a low-impact change, so it passes when the people consenting carry a fifth of the forum's trust in this kind of matter and no concern stands. In a forum of four, one person's word could be enough on its own. That's exactly why the vote stays open for two days whatever happens: nobody can pass a change the moment it opens.
 
 Ruth, Ade and Tomasz consent on the first day. Lena says nothing. She's busy with a class and has no harm to name. When the two days end, enough of the forum's trust has said yes and no concern stands, so the change is made. Lena's silence didn't block it, and it didn't count as a yes either. It doesn't wait any longer than that. Only a high-impact change waits out a three-day timelock first, and this isn't one.
 
