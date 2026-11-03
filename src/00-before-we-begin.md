@@ -8,6 +8,7 @@
 
 - Why the book is written in public while the system is still being built
 - How "is", "building towards" and "we don't know" mark what's built and what isn't
+- The road from here: the test bench, the sandpit, the first real organisations, going live, the network
 - Who the book is written for, and why every chapter starts with a doubt
 - How the six parts run, and the shape each chapter follows
 - Why "I", "we" and "us" all appear, and who each of them is
@@ -23,6 +24,18 @@ So, plainly: this book isn't complete, and we don't claim that what's in it is r
 What we can promise is that it's honest about where it stands.
 
 One convention helps with that. When we say something in the system *is* so, it's built and working as the book is written. When something is decided but not built yet, we say we're building towards it. When we don't know, we say that too. Each chapter notes the build it was checked against, because the build keeps moving. One more thing about where things stand. The organisations on The Grove today are simulated: seeded, grown and run by AI people, while we test the design, the experience, scale and security. During that testing they share one space that we control, because we need to change things quickly. That isn't the shape The Grove goes live in. When it's open to anyone, each organisation will be its own independent DAO, running its own copy of the operating system, with its own DNA growing in it. Until then, the way to try it is a sandpit: a simulated organisation at a key moment in its life, where you take the part of one of its people and see it from the inside. A place to play before anything is at stake. And the system has a lot of named parts. If a word stops you, the page at the back, *The parts and what they do*, says what it is and which chapter explains it.
+
+## The road from here
+
+So you can place what you read, here's the order we expect things to happen in. It's a direction, not a timetable, and it may change as we learn.
+
+1. **The test bench, now.** Organisations seeded, grown and run by AI people, in one shared space we control, so we can test the design, the experience, scale and security, and change things quickly.
+2. **The sandpit.** The first taste for people: step into a simulated organisation at a key moment in its life, take the part of one of its people, and play.
+3. **The first real organisations.** A small number of founders and teams bringing their own work onto The Grove, learning with us where it holds and where it breaks.
+4. **Going live.** The Grove open to anyone, with each organisation its own independent DAO, running its own copy of the operating system, with its own DNA growing in it, and free to take a legal form when it needs one.
+5. **The network.** Organisations recognising each other, a Steward that is itself an organisation like any other looking after the shared code, and organisations able to commit together.
+
+Each chapter says which of these the thing it describes belongs to: built and working on the test bench, or still to come.
 
 ## Why write it now
 
