@@ -72,7 +72,7 @@ This is where the honest answer to the sceptic begins. Because a person can hold
 
 ## One rule instead of many
 
-There's one kind of forum: a branch together with the branches directly inside it. A branch has its say about itself in its parent's forum, among its parent and its peers, where its remit is set. And it sits as the parent in its own forum, where the remits of the smaller branches inside it are set. It's the same forum at every level. The root is the one exception: it has no parent, so it's governed in its own forum, by its children. Autonomy over the means, accountability for the ends.
+There's one kind of forum: a branch together with the branches directly inside it. A branch has its say about itself in its parent's forum, among its parent and its peers, where its remit is set. And it sits as the parent in its own forum, where the remits of the smaller branches inside it are set, and where it decides how to arrange its own means. It's the same forum at every level. A branch takes part in two, but it's governed by one: its parent's, never its own children's. The root is the one exception: it has no parent, so it's governed in its own forum, by its children. Autonomy over the means, accountability for the ends.
 
 That raises an obvious problem. What if one person holds a branch and all the branches inside it? Their "forum" would be a room with one person in it, approving their own decisions.
 

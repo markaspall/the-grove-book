@@ -44,7 +44,7 @@ We take a great deal from this, and part company with it in places. Source theor
 
 ## Seats, not jobs
 
-In an organisation on The Grove, the work is organised into parts we call branches, which we'll meet properly in Chapter 8. Each branch has a purpose and the things it's accountable for. Each has a seat. And each has a say in a forum: a parent branch together with the branches directly inside it. A branch's own remit is decided in its parent's forum, among its parent and its siblings, with its steward taking part. It's the same kind of forum at every level, with one exception: the root has no parent, so it's governed in its own forum, by the branches inside it.
+In an organisation on The Grove, the work is organised into parts we call branches, which we'll meet properly in Chapter 8. Each branch has a purpose and the things it's accountable for. Each has a seat. And each has a say in a forum: a parent branch together with the branches directly inside it. A branch's own remit is decided in its parent's forum, among its parent and its siblings, with its steward taking part, and never with its own children. It's the same kind of forum at every level, with one exception: the root has no parent, so it's governed in its own forum, by the branches inside it.
 
 A seat isn't a job title. It's something you hold. You can hold more than one. Two or three people can share one. You step into it because you want to carry what it carries, and you can step out of it when you need to, without anyone's permission. The work you had in hand goes back to the branch, so it isn't dropped.
 
