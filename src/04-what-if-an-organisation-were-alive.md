@@ -68,6 +68,8 @@ Organisations do all of this too, but because the machine picture has no words f
 
 If we took the living picture seriously, we'd expect some parts of an organisation to grow and others to fade. We'd expect two parts doing the same thing to merge, and one part doing two things to split. We'd expect an organisation to give rise to new organisations, and sometimes to end gracefully when its work is done. None of that would be failure. It would be life.
 
+The futurist Barbara Marx Hubbard took this picture as far as it will go. She saw humanity itself as one organism in the middle of being born, and read its crises not as signs of the end but as birth pangs: the strain of something outgrowing the shape it had. It's a useful way to look at an organisation in trouble too. Much of what feels like breakdown is growth that hasn't found its form yet.
+
 ## What changes when an organisation is alive
 
 Here's where the picture stops being a metaphor and starts being useful.
@@ -122,4 +124,4 @@ Seen that way, it can be read like a living thing: from what happens to the work
 [^2]: Koestler, A. (1967), *The Ghost in the Machine*, Hutchinson.
 [^3]: Ted Rau, co-founder of Sociocracy For All, writes about organisations as social systems in his essay series *Wiser Organizations*.
 
-On the metaphors we use for organisations and what they hide: Morgan, G. (1986), *Images of Organization*, Sage. On companies as living things: de Geus, A. (1997), *The Living Company*, Harvard Business School Press. On order arising in systems far from equilibrium, like the whirlpool: Prigogine, I. and Stengers, I. (1984), *Order Out of Chaos*, Bantam.
+On the metaphors we use for organisations and what they hide: Morgan, G. (1986), *Images of Organization*, Sage. On companies as living things: de Geus, A. (1997), *The Living Company*, Harvard Business School Press. On order arising in systems far from equilibrium, like the whirlpool: Prigogine, I. and Stengers, I. (1984), *Order Out of Chaos*, Bantam. On humanity as one organism being born, and crises as birth pangs: Hubbard, B. M. (1998), *Conscious Evolution: Awakening the Power of Our Social Potential*, New World Library.

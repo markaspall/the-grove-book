@@ -76,6 +76,8 @@ None of this is new. People have been trying to get beyond the tree for at least
 
 Each of these got something important right. Each also ran into the same wall. The structure had to be held by people: meetings to run, records to keep, rules to remember, facilitators to keep everyone honest. When people got tired, or busy, or a founder quietly kept the final say, the old tree grew back underneath. Many practitioners carry scars from this, along with real insight.
 
+Laloux's colours have an older root. From the 1950s the psychologist Clare W. Graves studied how people's values change as the conditions of their lives change. He found not a fixed ladder but ways of seeing that emerge in turn, each a response to problems the one before couldn't solve, and none of them final. Don Beck and Christopher Cowan carried his work into the world as Spiral Dynamics, and from there, by way of Ken Wilber's integral theory, it reached Laloux's colours.[^13] We hold it as lineage and as a lens: a way to understand why a person or an organisation sees the world as it does. Never as a scale to rank anyone on. Nothing in The Grove labels a person or an organisation by stage, and those who've worked longest with developmental models give the same warning: development is an arc, held lightly, never a league table.
+
 ## The legacy in our heads
 
 There's one more layer to this legacy, and it's the hardest to see.
@@ -122,3 +124,4 @@ The question isn't whether we can do without anyone being accountable. It's what
 [^10]: Endenburg, G. (1998), *Sociocracy: The Organization of Decision-Making*, Eburon. For a practical modern guide: Rau, T. J. and Koch-Gonzalez, J. (2018), *Many Voices One Song*, Sociocracy For All.
 [^11]: Robertson, B. J. (2015), *Holacracy: The New Management System for a Rapidly Changing World*, Henry Holt.
 [^12]: Laloux, F. (2014), *Reinventing Organizations*, Nelson Parker.
+[^13]: Beck, D. E. and Cowan, C. C. (1996), *Spiral Dynamics: Mastering Values, Leadership, and Change*, Blackwell. Graves's own account was published after his death: Graves, C. W. (2005), *The Never Ending Quest*, edited by Cowan, C. C. and Todorovic, N., ECLET Publishing.

@@ -52,6 +52,8 @@ Leaving needs nobody's permission: no proposal, no notice period, no trust. It t
 
 A member can **raise what they sense**. Anyone who belongs can call a sensing in the Field: a question put to a part of the organisation, open for a window of days. Members offer into it in their own words and mark what lands with them, blind, with no names and no counts until it closes. In the Field every member's voice weighs the same, and that view, one member and one voice, is the first one the reveal shows. Whoever called a sensing can also invite people from outside by a personal link, a customer or a neighbour, whose words are shown beside the members' and never mixed in. When it closes, the person who called it draws together what was born of it: a direction for the organisation, or work sent to the branch it's for.
 
+The Field owes most to Otto Scharmer. In his Theory U, a group that wants to see something new has to sense together before it decides anything: to look at the situation from many places at once, and to listen past what it already thinks, before a single view hardens. He calls it co-sensing, and the Field is built for that moment. It gathers before it judges, keeps names out so nobody performs, and decides nothing.
+
 A member can **give advice**. Every proposal is visible to everyone who belongs, and while one is gathering advice, any member can give theirs or say something on it. A change to the purpose, or to how we're here together, goes further: every member is asked for advice by default, seat or none. The forum still decides, but it decides having asked everyone.
 
 A member can **move work to where it belongs**. Ushering work to the branch it's for isn't governance, so anyone who can see it can usher it.
@@ -59,6 +61,8 @@ A member can **move work to where it belongs**. Ushering work to the branch it's
 A member can **see the whole**. The organisation's flame, and the readings beneath it of how things are going, are open to every member, each reading opening onto what feeds it. Nothing about how the organisation is doing is kept for the people at the root.
 
 A member can **say they'd like a seat**. When a branch posts an open seat, every member sees it and can say, in their own words, that they'd like it.
+
+Barbara Marx Hubbard had a name for the pull behind that: *vocational arousal*, the inner urge to give your own particular gifts to something larger than yourself. She trusted it as a guide to where a person belongs in the whole, and so do we. Someone asking for a seat is telling you where they'd give.
 
 And a member takes part in the rest of the life of the place: appreciating what someone did, coming to the Clearing, the gathering that's kept off the record.
 
@@ -118,4 +122,4 @@ Everyone who belongs can sense, advise and see the whole; the people who carry a
 [^2]: Rau, T. J. and Koch-Gonzalez, J. (2018), *Many Voices One Song: Shared Power with Sociocracy*, Sociocracy For All.
 [^3]: Hirschman, A. O. (1970), *Exit, Voice, and Loyalty: Responses to Decline in Firms, Organizations, and States*, Harvard University Press.
 
-On consent in nested circles, where sociocracy began: Endenburg, G. (1998), *Sociocracy: The Organization of Decision-Making*, Eburon. On organisations where anyone may decide after seeking advice: Laloux, F. (2014), *Reinventing Organizations*, Nelson Parker.
+On consent in nested circles, where sociocracy began: Endenburg, G. (1998), *Sociocracy: The Organization of Decision-Making*, Eburon. On organisations where anyone may decide after seeking advice: Laloux, F. (2014), *Reinventing Organizations*, Nelson Parker. On co-sensing, a group perceiving together before it decides: Scharmer, C. O. (2016), *Theory U: Leading from the Future as It Emerges*, second edition, Berrett-Koehler. On vocational arousal, each person's pull towards their own part in the whole: Hubbard, B. M. (1998), *Conscious Evolution: Awakening the Power of Our Social Potential*, New World Library.

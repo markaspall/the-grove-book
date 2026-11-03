@@ -38,6 +38,8 @@ The writer Arie de Geus spent years at Shell studying why a few companies live f
 
 Chapter 4 asked what changes if an organisation is alive rather than a machine, and one answer was that living things are born, split, merge and die, and none of that is failure. This chapter is where that picture has to show it can carry weight. If endings are part of life, then the questions change. Not "how do we avoid this?" but "who decides it, and who is looked after when it happens?"
 
+Barbara Marx Hubbard, whose picture of humanity as one organism being born runs underneath much of this book, read crises as birth pangs: real and painful, and a sign of something trying to come through rather than of the end. A split can be read the same way. Two streams of work pulling apart is often an organisation outgrowing a single shape, and the question is whether that birth is attended in the open or left to happen in the dark.
+
 ## Beginning
 
 An organisation on The Grove begins with one person. They give it a name, of sixty characters at most, and a purpose. By founding it they agree to the organisation's first version of how its people are here together, which they and later members can rewrite. They hold the root, the branch that holds the purpose and everything that hasn't found a home yet. In the first hour, Wise-Eye can help them draft a starter pack: the branches they mean to have, how the work runs, what they'll keep and watch. The pack describes. It doesn't create anything. A branch in it is a branch they intend, not one that exists.
@@ -116,4 +118,4 @@ An ending decided in the open, with a landing for everyone it touches, is a heal
 [^2]: Bridges, W. (1991), *Managing Transitions: Making the Most of Change*, Addison-Wesley.
 [^3]: Hirschman, A. O. (1970), *Exit, Voice, and Loyalty: Responses to Decline in Firms, Organizations, and States*, Harvard University Press.
 
-On the life cycle of organisations, from birth through growth to decline and renewal: Adizes, I. (1988), *Corporate Lifecycles: How and Why Corporations Grow and Die and What to Do About It*, Prentice Hall. On seeing organisations as living systems rather than machines: Morgan, G. (1986), *Images of Organization*, Sage.
+On the life cycle of organisations, from birth through growth to decline and renewal: Adizes, I. (1988), *Corporate Lifecycles: How and Why Corporations Grow and Die and What to Do About It*, Prentice Hall. On seeing organisations as living systems rather than machines: Morgan, G. (1986), *Images of Organization*, Sage. On crises read as birth pangs rather than endings: Hubbard, B. M. (1998), *Conscious Evolution: Awakening the Power of Our Social Potential*, New World Library.

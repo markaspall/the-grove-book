@@ -113,4 +113,4 @@ Organisations can already commit to each other in the open; what we're building 
 [^3]: Bunzl, J. (2001), *The Simultaneous Policy: An Insider's Guide to Saving Humanity and the Planet*, New European Publications.
 [^4]: Tabarrok, A. (1998), "The private provision of public goods via dominant assurance contracts", *Public Choice*.
 
-On how a conditional commitment changes the arithmetic of going first, Schelling, T. C. (1960), *The Strategy of Conflict*, Harvard University Press, remains a clear starting point.
+On how a conditional commitment changes the arithmetic of going first, Schelling, T. C. (1960), *The Strategy of Conflict*, Harvard University Press, remains a clear starting point. On co-creation, and gatherings that matched one group's needs with another's offers: Hubbard, B. M. (1998), *Conscious Evolution: Awakening the Power of Our Social Potential*, New World Library.

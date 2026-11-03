@@ -40,6 +40,8 @@ In the early 2000s, Steve Blank began telling entrepreneurs something blunt: the
 
 And from a different field, Stephan Haeckel described organisations that sense and respond rather than make and sell: ones that read signals from outside and shape themselves around what they hear.[^4] Frederic Laloux, writing about organisations without bosses, described purpose as something listened for rather than imposed.[^5]
 
+Otto Scharmer, coming at it from the inner side of leadership, gave us the word we use for the next step: prototyping. In his Theory U, once a group has sensed what wants to emerge, it doesn't write a plan. It explores the future by doing: small, quick, rough experiments that let the world answer early, while there's still time to change course.[^6]
+
 Put together, these suggest a different relationship between a founder and their vision. Not an order to follow, and not a dream to protect. A set of beliefs about the world that the world can answer.
 
 One more picture shaped our thinking, from computer graphics. Path tracing, a way of rendering realistic light, works by firing huge numbers of cheap rays into a scene. Most of them return almost nothing useful. But as their count grows, the picture sharpens out of the noise. No single ray matters much. Enough of them, aimed sensibly, and the image arrives. That turned out to be a good model for how an organisation finds out whether what it believes is true.
@@ -57,6 +59,8 @@ Each bet lives on a branch, one of the parts of the organisation that Chapter 8 
 Then comes the probe. A probe is a piece of outbound work that tests a bet and expects a reply by a certain day. A short post in a group where the right people already talk. A message offering one small thing. A question asked in a place where the answer might come.
 
 The design expects many probes, each expecting almost nothing. A success rate close to zero is normal. The more probes go out, the sooner the ones that work show up.
+
+There's something of Barbara Marx Hubbard in this way of looking. She argued that the way forward is found less by cataloguing everything that's broken than by searching out what's already working and connecting it. A probe that rises is a small piece of what's working. The design is built to notice those, not to tally the silences.
 
 But many isn't the same as scattered. Each probe is aimed: who it's for, where it goes, in what words, and from what reading of where people already gather and the language they already use. We often describe it with a fly fisher's eye. Read the water. Match the hatch, meaning offer what's already on the surface rather than what you wish was there. Choose the fly. Cast where they are. Watch the drift.
 
@@ -123,5 +127,6 @@ A vision is strongest once the world has answered it.
 [^3]: Popper, K. (1959), *The Logic of Scientific Discovery*, Hutchinson. First published in German in 1934 as *Logik der Forschung*.
 [^4]: Haeckel, S. H. (1999), *Adaptive Enterprise: Creating and Leading Sense-and-Respond Organizations*, Harvard Business School Press.
 [^5]: Laloux, F. (2014), *Reinventing Organizations*, Nelson Parker.
+[^6]: Scharmer, C. O. (2016), *Theory U: Leading from the Future as It Emerges*, second edition, Berrett-Koehler. First published in 2007.
 
-On path tracing, the rendering method that shaped our picture of probes: Kajiya, J. T. (1986), "The Rendering Equation", *Proceedings of SIGGRAPH '86*.
+On path tracing, the rendering method that shaped our picture of probes: Kajiya, J. T. (1986), "The Rendering Equation", *Proceedings of SIGGRAPH '86*. On searching out what's working rather than cataloguing what's broken: Hubbard, B. M. (1998), *Conscious Evolution: Awakening the Power of Our Social Potential*, New World Library.

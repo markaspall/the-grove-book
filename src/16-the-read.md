@@ -80,6 +80,8 @@ Then the two are set side by side, never blended. A **strong** lean is named and
 
 Drift and the unspoken do what the developmental psychologist Robert Kegan described as turning subject into object: something people were inside of, unseen, becomes something they can look at together.[^4] Neither is anyone's fault.
 
+Otto Scharmer describes much of his work as helping a system to sense and see itself, so that people can act from the whole rather than from their own corner of it.[^5] He also names a blind spot: we study what leaders do and how they do it, and rarely the inner place they act from. The read can't see that place, and doesn't try. What it can do is hold the work up where everyone can look at it together.
+
 ## The flame, and how it learns
 
 Some of what an organisation needs to know isn't about shape. So each branch has a flame, read over itself and everything beneath it; the root's is the organisation's. It's made of four readings. Landing: promises kept, changes whose reviews said they worked, bets that held. On purpose: how the work sits with the organisation's own measures. Flowing: how far appreciation reaches across the organisation rather than round in corners. Warm: how full the organisation's gatherings have been.
@@ -122,5 +124,6 @@ The work shows where the map is wrong, and it never needs to say whose fault tha
 [^2]: Weick, K. E. (1995), *Sensemaking in Organizations*, Sage.
 [^3]: Beer, S. (1972), *Brain of the Firm*, Allen Lane. The audit channel that looks directly at operations is part of his viable system model.
 [^4]: Kegan, R. (1982), *The Evolving Self*, Harvard University Press. For the idea applied to organisations: Kegan, R. and Lahey, L. L. (2009), *Immunity to Change*, Harvard Business Press.
+[^5]: Scharmer, C. O. (2016), *Theory U: Leading from the Future as It Emerges*, second edition, Berrett-Koehler. First published in 2007. The blind spot of leadership is the starting point of the book.
 
 On how measurement turns into its own goal: Muller, J. Z. (2018), *The Tyranny of Metrics*, Princeton University Press. On what happens when watching becomes the business: Zuboff, S. (2019), *The Age of Surveillance Capitalism*, Profile Books.

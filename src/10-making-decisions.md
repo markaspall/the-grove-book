@@ -128,4 +128,4 @@ Anyone can raise what needs changing, and nothing changes without surviving scru
 [^2]: Rau, T. J. and Koch-Gonzalez, J. (2018), *Many Voices One Song: Shared Power with Sociocracy*, Sociocracy For All.
 [^3]: Laloux, F. (2014), *Reinventing Organizations*, Nelson Parker.
 
-For a different route to the same idea, Holacracy's integrative decision-making, which tests objections against whether they would cause harm: Robertson, B. J. (2015), *Holacracy: The New Management System for a Rapidly Changing World*, Henry Holt.
+For a different route to the same idea, Holacracy's integrative decision-making, which tests objections against whether they would cause harm: Robertson, B. J. (2015), *Holacracy: The New Management System for a Rapidly Changing World*, Henry Holt. On synergy and co-creation: Hubbard, B. M. (1998), *Conscious Evolution: Awakening the Power of Our Social Potential*, New World Library.

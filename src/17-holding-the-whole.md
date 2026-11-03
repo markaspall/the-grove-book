@@ -46,6 +46,8 @@ Pfiffner's point is the crack we went through. If identity and resource sharing 
 
 Our answer is two things, neither of them a person. The whole can be held by everyone seeing it. And it can be held by what won't stay buried: problems that climb, on a clock, until someone answers them, and that say so out loud when nobody does.
 
+Barbara Marx Hubbard drew something like this for a whole society. Her Wheel of Co-Creation pictured its many sectors as parts of one wheel rather than layers of a pyramid: none set above the rest, each doing its own work, and each finding where it met the others. She was describing a society. We found it described an organisation too.
+
 ## What holds the whole
 
 **Purpose is what closes it.** An organisation needs something that makes it this organisation and not a crowd. On The Grove that's its purpose, held at the root, the first seat. It's what Beer would call identity. Only the root's own forum can change it, and a change to it is put to every member for advice before anyone decides. A branch can change what it's accountable for in the forum it sits in; nobody below the root can change what the whole is for.
@@ -103,4 +105,4 @@ The whole can be held by everyone seeing it, and by what won't stay buried.
 [^3]: Pfiffner, M. (2022), *The Neurology of Business: Implementing the Viable System Model*, Springer.
 [^4]: Thomison, T. (2026), "You've Been Training for This", PowerShift.
 
-On distributing leadership in practice: Laloux, F. (2014), *Reinventing Organizations*, Nelson Parker.
+On distributing leadership in practice: Laloux, F. (2014), *Reinventing Organizations*, Nelson Parker. On co-creation, and a society pictured as a wheel rather than a pyramid: Hubbard, B. M. (1998), *Conscious Evolution: Awakening the Power of Our Social Potential*, New World Library.

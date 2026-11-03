@@ -126,3 +126,5 @@ That's why an operating system: the means to run without a boss, and the few gua
 [^2]: Lessig, L. (1999), *Code and Other Laws of Cyberspace*, Basic Books.
 [^3]: Thomison, T. (2026), "You've Been Training for This", PowerShift. Thomison co-founded HolacracyOne in 2007.
 [^4]: Hock, D. (1999), *Birth of the Chaordic Age*, Berrett-Koehler. See also Hock, D. (2005), *One from Many: VISA and the Rise of Chaordic Organization*, Berrett-Koehler.
+
+On the social potential movement, the step from what one person can become to what we can become together: Hubbard, B. M. (1998), *Conscious Evolution: Awakening the Power of Our Social Potential*, New World Library.

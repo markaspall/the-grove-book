@@ -44,6 +44,12 @@ The second is that the thinking matters as much as the result. Every part of The
 
 The third is that we need you. The ideas in this book stand on the shoulders of a lot of people who have thought carefully about how humans organise: in self-management, in systems thinking, in biology, in economics, in the study of how people grow. Some of them will read this and see things we've missed. We'd rather hear it while there's still time to change course.
 
+One of those people deserves naming here, at the start, because so much of what follows is her work carried forward. Barbara Marx Hubbard, who lived from 1929 to 2019, spent most of her long life on the question that has run through mine: not only what one person could become, but what we could become together. She called her answer conscious evolution: the idea that humanity can now take part, knowingly and by choice, in its own next step. She saw humanity as one organism in the middle of being born, and read our crises not as the end of the story but as birth pangs. And she saw that the human potential movement, which asked what a single person could grow into, needed a next step. She called it the social potential movement: the same question, asked of groups, organisations and whole societies.
+
+Looking back at what we've built, I can see her everywhere in it. An organisation treated as something alive, born and changing. People drawn towards their own part rather than placed in one. Concerns met and woven in rather than outvoted. Attention paid to what's working. These are her ideas, given a structure and some code, and where they surface in the chapters that follow, I've tried to say so. She was a dear soul, and a brave one, and this book owes her more than a footnote can carry.
+
+She isn't the only one. Otto Scharmer's books, which I devoured one after another, taught me to sense before deciding, to listen from the whole rather than from my own corner, and to try the future in small pieces rather than plan it whole. You'll find him in how an organisation on The Grove senses together and tests its vision. And the research of the psychologist Clare W. Graves, carried into the world by Don Beck and Christopher Cowan as Spiral Dynamics, gave me a way to understand why people and organisations see the world so differently, without ever needing to rank them.
+
 ## Life is an experiment
 
 There's a phrase we keep coming back to: *life is an experiment.*
@@ -108,8 +114,11 @@ And if you think we've got something wrong, tell us. That's how experiments work
 
 ## Notes and further reading
 
-For readers who want a way into the traditions this book draws on, three starting points:
+For readers who want a way into the traditions this book draws on, six starting points:
 
 - Laloux, F. (2014), *Reinventing Organizations*, Nelson Parker: the most widely read survey of organisations that work without traditional hierarchy.
 - Robertson, B. J. (2015), *Holacracy: The New Management System for a Rapidly Changing World*, Henry Holt: the practice that gave authority to roles rather than people.
 - Meadows, D. H. (2008), *Thinking in Systems: A Primer*, Chelsea Green: a clear, short introduction to seeing organisations and societies as systems.
+- Hubbard, B. M. (1998), *Conscious Evolution: Awakening the Power of Our Social Potential*, New World Library: the clearest statement of the idea that humanity can take part knowingly in its own evolution, and of the social potential movement this book tries to carry into organisations.
+- Scharmer, C. O. (2016), *Theory U: Leading from the Future as It Emerges*, second edition, Berrett-Koehler; first published in 2007: sensing together, letting go and letting come, and learning the future by prototyping it. For a shorter way in: Scharmer, C. O. (2018), *The Essentials of Theory U*, Berrett-Koehler.
+- Beck, D. E. and Cowan, C. C. (1996), *Spiral Dynamics: Mastering Values, Leadership, and Change*, Blackwell: Clare W. Graves's research on how human values emerge as life conditions change, carried into practice.

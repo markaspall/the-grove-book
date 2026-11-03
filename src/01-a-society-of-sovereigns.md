@@ -28,7 +28,7 @@ We want to take that feeling seriously, because it's honest. And then we want to
 
 People who study these crises have started to notice that they aren't really separate problems. They share something underneath.
 
-Some call it the polycrisis: many crises tangled together, each making the others worse. Others, like the thinker Daniel Schmachtenberger, use the word *metacrisis*: a single pattern that keeps producing new crises, whatever the surface looks like.[^1] The futurist Barbara Marx Hubbard read moments like this another way: not as an ending, but as the birth pangs of something larger trying to be born. We find both views useful. The pattern goes something like this.
+Some call it the polycrisis: many crises tangled together, each making the others worse. Others, like the thinker Daniel Schmachtenberger, use the word *metacrisis*: a single pattern that keeps producing new crises, whatever the surface looks like.[^1] The pattern goes something like this.
 
 Imagine a lake shared by a dozen fishermen. Each one knows that if everyone fishes less, the lake will stay healthy for years. But each one also knows that if he holds back and the others don't, he'll go hungry and the lake will be emptied anyway. So each one, acting sensibly for himself, fishes as hard as he can. The lake dies, and nobody wanted it to.
 
@@ -82,6 +82,10 @@ We use the word *sovereign* a lot in this book, and it needs care, because it ha
 
 We don't mean the lone individual who owes nothing to anyone, or the strongman who answers to no one. We mean something closer to self-authorship: the capacity to sense your own situation, decide what matters, take responsibility for it, and stand in honest relationship with others who are doing the same. A sovereign person isn't isolated. They're the opposite of a cog.
 
+Barbara Marx Hubbard had a name for the person we're reaching for: the universal human. She meant someone whose sense of self has widened from the separate self to the whole they're part of, and who finds their fullest expression in giving their own part to it. That's the sovereign we mean. Not a smaller self dissolved into the group, but a self wide enough to hold its connections.
+
+Otto Scharmer describes the same widening at the scale of whole systems: a shift from ego-system awareness, where each part looks after itself, to eco-system awareness, where each part acts with the well-being of the whole in view. My own shorthand for it, ego to eco, comes straight from him. It's also what the fishermen at the lake were missing.
+
 > *For me, being sovereign means being the author of my own life. Life is chaotic and unpredictable; what I make of it is mine to answer for. Nobody else can take that from me, and nobody else should have to carry it for me.*
 
 Three levels of it run through the book.
@@ -131,4 +135,4 @@ If we can learn to organise differently there, we're practising the society we w
 [^3]: Alexander, S. (2014), "Meditations on Moloch", published on the blog *Slate Star Codex*.
 [^4]: Ostrom, E. (1990), *Governing the Commons: The Evolution of Institutions for Collective Action*, Cambridge University Press.
 
-For crises read as a birth rather than an ending: Hubbard, B. M. (1998), *Conscious Evolution: Awakening the Power of Our Social Potential*, New World Library. For the feeling of acceleration and what it does to us: Rosa, H. (2019), *Resonance: A Sociology of Our Relationship to the World*, Polity. For a lively conversation about these ideas from the self-management world, the podcast *Islands of Resonance*, hosted by Dennis Wittrock and Tobias Klose. For a different, more individualist use of "sovereign" that this book does not share: Davidson, J. D. and Rees-Mogg, W. (1997), *The Sovereign Individual*, Simon and Schuster.
+For the feeling of acceleration and what it does to us: Rosa, H. (2019), *Resonance: A Sociology of Our Relationship to the World*, Polity. For a lively conversation about these ideas from the self-management world, the podcast *Islands of Resonance*, hosted by Dennis Wittrock and Tobias Klose. For the universal human, a self that has widened to include the whole: Hubbard, B. M. (1998), *Conscious Evolution: Awakening the Power of Our Social Potential*, New World Library. For the shift from ego-system to eco-system awareness: Scharmer, C. O. and Kaufer, K. (2013), *Leading from the Emerging Future: From Ego-System to Eco-System Economies*, Berrett-Koehler. For a different, more individualist use of "sovereign" that this book does not share: Davidson, J. D. and Rees-Mogg, W. (1997), *The Sovereign Individual*, Simon and Schuster.

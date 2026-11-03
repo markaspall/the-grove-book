@@ -92,6 +92,8 @@ They've usually worked for one. Some have been one, and didn't like who they bec
 
 For them, the shift is subtle but freeing. They're the source of the organisation; they took the risk of starting it. They hold its purpose at the beginning. But their vision is treated as a set of hypotheses to test against the world, not a plan everyone has to follow. And from the first day, the organisation is built to let others take up seats, share the root, and carry parts of the whole as their own.
 
+There's a picture here we owe to Barbara Marx Hubbard, who saw the world's crises as a birth rather than an ending. If an organisation is something being born, the founder is closer to a midwife than an owner: essential at the start, present through the hardest part, and not the one who decides what the new life becomes.
+
 We should be plain about the beginning, though. A founder alone decides alone, because there's nobody else to ask. The same is true while others have joined but nobody else holds a seat, and that's exactly where the boss grows back by default. What pushes against it is the design: branches that can post their own open seats, a root that can be shared, and work that goes to branches rather than to people, so there's always somewhere for someone else to step in. The rules start to bite the moment a second person takes a seat.
 
 The founder is the spark that lights it. They don't have to be the fire.
