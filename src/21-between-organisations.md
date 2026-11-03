@@ -52,7 +52,7 @@ An agreement can be read only by its two organisations. To each other, they appe
 
 From where you stand, the network shows the organisations you belong to and the services between them and others: who has whom do what, for which job, the fee, how they work together and when it's next looked back on. It doesn't show the work passing along an agreement, or letters, or money. Who works with whom is public by default, because seeing who your neighbours trust is part of how trust travels. But either side can keep an agreement to themselves, and then it's drawn only for people who belong to both. Branch names appear only for organisations you're part of.
 
-Two more lines hold throughout. Everything is organisation to organisation: a freelancer is a one-person organisation, and a need is answered by an organisation, never by a person directly. And the Steward, the organisation that runs the network's shared services, takes no fee on anything that passes between organisations.
+Two more lines hold throughout. Everything is organisation to organisation: a freelancer is a one-person organisation, and a need is answered by an organisation, never by a person directly. And the Steward, the organisation that looks after the network's shared code, takes no fee on anything that passes between organisations. When one organisation provides a service to another, what it earns is its own.
 
 ## People who belong to more than one
 
