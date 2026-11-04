@@ -1,0 +1,28 @@
+/* The Grove's look for the mdBook build: the same paper, ink and type as max-unleashed.com/grove */
+@import url("https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400..900;1,9..144,400..700&family=Nunito+Sans:wght@400;600;700;800&display=swap");
+.light, html:not(.js) {
+  --bg:#f4efe4; --fg:#2a2018; --sidebar-bg:#efe8d9; --sidebar-fg:#5f5648; --sidebar-non-existant:#857b6a;
+  --sidebar-active:#173328; --sidebar-spacer:#e2d9c6; --scrollbar:#d3c8b0; --icons:#5f5648; --icons-hover:#173328;
+  --links:#173328; --inline-code-color:#2a2018; --theme-popup-bg:#faf6ec; --theme-popup-border:#d3c8b0; --theme-hover:#efe8d9;
+  --quote-bg:#fffdf7; --quote-border:#d98a2b; --table-border-color:#e2d9c6; --table-header-bg:#efe8d9; --table-alternate-bg:#faf6ec;
+  --searchbar-border-color:#d3c8b0; --searchbar-bg:#fffdf7; --searchbar-fg:#2a2018; --searchresults-header-fg:#857b6a;
+  --searchresults-border-color:#e2d9c6; --search-mark-bg:#f2c98a;
+}
+html { font-family:"Nunito Sans",-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; }
+body { font-size:1.8rem; line-height:1.7; -webkit-font-smoothing:antialiased; }
+.content main { max-width:70ch; }
+.content p, .content li { line-height:1.7; }
+.content h1, .content h2, .content h3, .menu-title { font-family:"Fraunces",Georgia,serif; letter-spacing:-.01em; }
+.light .content h1, .light .content h2, .light .content h3, .light .menu-title { color:#173328; }
+.content h1 { font-size:2.6em; font-weight:800; line-height:1.08; margin-top:.6em; }
+.content h2 { font-size:1.6em; font-weight:700; line-height:1.2; margin-top:2em; }
+.content h1 + p em:only-child { color:#857b6a; font-size:.9em; }
+.content blockquote { border-left:4px solid var(--quote-border); border-radius:0 14px 14px 0; padding:.6em 1.4em; font-family:"Fraunces",Georgia,serif; font-size:1.06em; }
+.content hr { border:0; border-top:1px solid #d3c8b0; margin:2em 0; }
+.content a, .content a:visited { color:var(--links); text-decoration-color:#d98a2b; text-underline-offset:3px; }
+.content img { border-radius:14px; }
+.chapter li.part-title { font-size:.75em; font-weight:800; letter-spacing:.08em; text-transform:uppercase; color:#857b6a; margin-top:1.4em; }
+.chapter li a.active { color:#173328; font-weight:800; }
+.sidebar { font-size:1.45rem; }
+.light .menu-bar, .light .menu-bar:hover { background:#faf6ec; }
+.nav-chapters:hover { color:#173328; }

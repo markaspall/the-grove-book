@@ -6,6 +6,7 @@ language = "en"
 src = "src"
 
 [output.html]
+additional-css = ["theme/grove.css"]
 git-repository-url = "https://github.com/markaspall/the-grove-book"
 edit-url-template = "https://github.com/markaspall/the-grove-book/edit/main/{path}"
 default-theme = "light"
