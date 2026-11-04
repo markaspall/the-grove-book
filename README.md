@@ -1,6 +1,6 @@
 # The Grove
 
-*An operating system for organisations without a boss: the design, the rationale, and how we decided.*
+*The first network of organisations running on an operating system for organisations without a boss: the design, the reasons behind it, and how we decided.*
 
 This is a book being written in the open, while the thing it describes is still being built.
 
