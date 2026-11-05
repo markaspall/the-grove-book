@@ -8,7 +8,7 @@ This page is a reference to every named part of the system the book describes, s
 
 ## The shape
 
-**The Grove.** The first network of organisations running on the system this book describes, which has no name of its own. Hence "organisations on The Grove". (Chapters 5 and 23)
+**The Grove.** The first network of organisations running on the system this book describes, which has no name of its own. Hence "organisations on The Grove". (Chapters 5 and 24)
 
 **Organisation.** A living pattern of people and work re-forming around a purpose, with many boundaries, not one wall. (Chapter 4)
 
@@ -54,7 +54,7 @@ This page is a reference to every named part of the system the book describes, s
 
 **Made.** The change is enacted; several changes in one proposal are made together or not at all. (Chapter 10)
 
-**Review, or look back.** Four weeks after a change by default, everyone who took part is asked whether it landed and whether to keep, change or stop it. A recommended change becomes work for the forum, never a proposal raised by the system. (Chapters 10 and 22)
+**Review, or look back.** Four weeks after a change by default, everyone who took part is asked whether it landed and whether to keep, change or stop it. A recommended change becomes work for the forum, never a proposal raised by the system. (Chapters 10 and 23)
 
 **Consent.** Not everyone saying yes, but nobody naming a harm that has to be answered first. (Chapter 10)
 
@@ -84,9 +84,9 @@ This page is a reference to every named part of the system the book describes, s
 
 **The one door.** Every way work arrives comes in through one entrance and is routed the same way. (Chapter 12)
 
-**Triage.** Wise-Eye's first reading at the door: whether it's work, which accountability answers for it, what's at stake. (Chapters 12 and 19)
+**Triage.** Wise-Eye's first reading at the door: whether it's work, which accountability answers for it, what's at stake. (Chapters 12 and 20)
 
-**Connector.** A branch's link to one outside service: today a Gmail mailbox, a Google Drive, the organisation's social accounts or its books in Xero. Whoever holds the branch connects it; its key is sealed outside the system, and what arrives through it comes through the one door. Wise-Eye sends through it only once standing is earned, and never posts. (Chapters 12 and 19)
+**Connector.** A branch's link to one outside service: today a Gmail mailbox, a Google Drive, the organisation's social accounts or its books in Xero. Whoever holds the branch connects it; its key is sealed outside the system, and what arrives through it comes through the one door. Wise-Eye sends through it only once standing is earned, and never posts. (Chapters 12 and 20)
 
 **The membrane and the four weights.** The membrane is the boundary with the world, and work is weighed by how it crossed it: from outside (if it cost the sender at least an ask), held (the organisation's own committed work), going out, or made here. Only work from outside and held work make a branch want to grow. "Held" also, separately, means high-stakes work kept for a person. (Chapters 4, 12 and 17)
 
@@ -106,9 +106,9 @@ This page is a reference to every named part of the system the book describes, s
 
 **Your day.** Each person's home in the page: their heads-up, what's asked of them, and what's on a clock today and for three days. What's due shows here, never outside. (Chapters 12 and 14)
 
-**Heads-up.** A few plain lines Wise-Eye prepares each morning for each steward here in the last fortnight. It waits; nothing is pushed. (Chapters 18 and 19)
+**Heads-up.** A few plain lines Wise-Eye prepares each morning for each steward here in the last fortnight. It waits; nothing is pushed. (Chapters 18 and 20)
 
-**Boards.** Each branch's board of next moves, with what's next, waiting and someday, sealed to the seat and passed whole to the next holder. (Chapters 12 and 20)
+**Boards.** Each branch's board of next moves, with what's next, waiting and someday, sealed to the seat and passed whole to the next holder. (Chapters 12 and 21)
 
 ## Vision
 
@@ -136,7 +136,7 @@ This page is a reference to every named part of the system the book describes, s
 
 **Purpose lock.** Value locked to the purpose, which no vote can unlock. It can move between branches but is never sold, given away or written off. A sale with proceeds kept locked is not built yet. (Chapters 7 and 15)
 
-**Landings.** Anyone can say they depend on something the organisation holds. A proposal to dispose of it can't conclude without saying how each such person will land. (Chapters 15 and 21)
+**Landings.** Anyone can say they depend on something the organisation holds. A proposal to dispose of it can't conclude without saying how each such person will land. (Chapters 15 and 22)
 
 ## Seeing itself
 
@@ -154,38 +154,40 @@ This page is a reference to every named part of the system the book describes, s
 
 **The flame.** Each branch's reading of how it's doing, over itself and everything inside it; the root's is the organisation's. Four readings (landing, on purpose, flowing, warm), said in words, open to every member, never ranked. (Chapters 17 and 18)
 
+**A sense of itself.** Building towards, not built: a small learned model, beside the hand-written rules, that grows the organisation's instincts from what organisations actually do, so it can feel where it's strained, what it's missing and where something wants to move. It senses and never acts; the law acts. Open to every member, never to one seat. Wise-Eye is its voice. (Chapter 19)
+
 **The learning pulse.** Whether the organisation is learning: how fast tensions become changes, whether reviews conclude, whether playbooks are revised. (Chapter 17)
 
 **Echo.** A reading that the Field has agreed with itself in every view for three sensings running while nobody from outside has been heard for six months. (Not yet in a chapter; it belongs with the read, Chapter 17.)
 
 ## Memory and care
 
-**Branch documents.** Five per branch: intent, offer, where we are, people, decisions. Wise-Eye writes them as the work goes; they're open to every member unless in a locked domain. (Chapter 20)
+**Branch documents.** Five per branch: intent, offer, where we are, people, decisions. Wise-Eye writes them as the work goes; they're open to every member unless in a locked domain. (Chapter 21)
 
-**The Clearing.** The space for being together without an agenda, off the record. Nothing said there is kept or read. (Chapters 11 and 20)
+**The Clearing.** The space for being together without an agenda, off the record. Nothing said there is kept or read. (Chapters 11 and 21)
 
-**What's sealed.** What belongs to a seat or a person, encrypted so the system can't read it: a branch's board, each person's own notes, and their conversation with Wise-Eye, which they can have forgotten. (Chapter 20)
+**What's sealed.** What belongs to a seat or a person, encrypted so the system can't read it: a branch's board, each person's own notes, and their conversation with Wise-Eye, which they can have forgotten. (Chapter 21)
 
 ## AI
 
-**Wise-Eye.** The system's AI, built in: the companion beside each steward on each branch they hold. It reads for meaning, routes, drafts, makes sense of what's happening, learns from corrections, and prepares what needs a person's word. It has no seat and no tool for consenting or raising a concern. (Chapters 6 and 19)
+**Wise-Eye.** The system's AI, built in: the companion beside each steward on each branch they hold. It reads for meaning, routes, drafts, makes sense of what's happening, learns from corrections, and prepares what needs a person's word. It has no seat and no tool for consenting or raising a concern. (Chapters 6 and 20)
 
-**Playbooks.** Plain documents saying how a kind of work is done, each tool marked as Wise-Eye acting alone, with a person's yes, or never. Principles, never cases. (Chapters 12 and 19)
+**Playbooks.** Plain documents saying how a kind of work is done, each tool marked as Wise-Eye acting alone, with a person's yes, or never. Principles, never cases. (Chapters 12 and 20)
 
-**Earned standing.** Wise-Eye's right to act alone, one kind of work at a time: after five low-stakes drafts go out unedited, it offers, and a person decides. One solo call in ten is checked; a wrong one takes the standing away. (Chapter 19)
+**Earned standing.** Wise-Eye's right to act alone, one kind of work at a time: after five low-stakes drafts go out unedited, it offers, and a person decides. One solo call in ten is checked; a wrong one takes the standing away. (Chapter 20)
 
 ## Beyond one organisation
 
-**Network.** Organisations that recognise each other and share a steward for their code. On today's test bench all share one space we control; when The Grove goes live, each organisation is its own DAO in its own space. (Chapters 22 and 23)
+**Network.** Organisations that recognise each other and share a steward for their code. On today's test bench all share one space we control; when The Grove goes live, each organisation is its own DAO in its own space. (Chapters 23 and 24)
 
-**The Steward.** The organisation that looks after a network's code and ships releases, taking no fee on what passes between organisations. Distinct from a seat's steward. On the test bench a service we run; an organisation in its own right from the day The Grove goes live. (Chapters 22 and 23)
+**The Steward.** The organisation that looks after a network's code and ships releases, taking no fee on what passes between organisations. Distinct from a seat's steward. On the test bench a service we run; an organisation in its own right from the day The Grove goes live. (Chapters 23 and 24)
 
-**Kernel.** The smallest core of the code: the guardrails nobody inside an organisation can vote away. (Chapter 23)
+**Kernel.** The smallest core of the code: the guardrails nobody inside an organisation can vote away. (Chapter 24)
 
-**DNA.** What makes an organisation itself: purpose, branches, agreements, playbooks and decisions, written by its people and belonging to them. It's what runs on the operating system, the way programmes run on a computer. (Chapters 5 and 23)
+**DNA.** What makes an organisation itself: purpose, branches, agreements, playbooks and decisions, written by its people and belonging to them. It's what runs on the operating system, the way programmes run on a computer. (Chapters 5 and 24)
 
-**Agreement.** Two meanings. The organisation's agreement on how its people are here together, which members agree to on joining. And an agreement between organisations, for one to serve another's job, decided by a proposal on each side and looked back on every ninety days by default. (Chapters 9 and 22)
+**Agreement.** Two meanings. The organisation's agreement on how its people are here together, which members agree to on joining. And an agreement between organisations, for one to serve another's job, decided by a proposal on each side and looked back on every ninety days by default. (Chapters 9 and 23)
 
-**Service.** Something a branch offers other organisations, at its own price, by a proposal. (Chapter 22)
+**Service.** Something a branch offers other organisations, at its own price, by a proposal. (Chapter 23)
 
-**Need.** A branch's posting of what it's short of, for organisations to answer with a service. (Chapter 22)
+**Need.** A branch's posting of what it's short of, for organisations to answer with a service. (Chapter 23)

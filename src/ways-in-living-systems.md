@@ -47,7 +47,8 @@ How far a rehearsal on simulated people travels to real ones is unknown. Some of
 2. [Chapter 4, What if an organisation were alive?](04-what-if-an-organisation-were-alive.md). The whirlpool, the membrane, and what it takes to count as living.
 3. [Chapter 17, The read](17-the-read.md). How the organisation sees itself without ever seeing a person.
 4. [Chapter 18, Holding the whole without a centre](18-holding-the-whole.md). Beer, source theory, and the whole held without a centre.
-5. [Chapter 13, Vision as hypothesis](13-vision-as-hypothesis.md). Vision as bets, tested by small, aimed probes.
-6. [Chapter 21, Birth, division and death](21-birth-division-and-death.md). How organisations and their branches begin, divide and end.
-7. [Chapter 24, Rehearsing the future](24-rehearsing-the-future.md). Growing organisations by simulation before a change is lived.
-8. [Chapter 25, Back to society](25-back-to-society.md). A society whose needs are met by many small, living organisations, owned by no one.
+5. [Chapter 19, A sense of itself](19-a-sense-of-itself.md). What we're building towards: an organisation that can feel its own insides, open to everyone, acting only through people.
+6. [Chapter 13, Vision as hypothesis](13-vision-as-hypothesis.md). Vision as bets, tested by small, aimed probes.
+7. [Chapter 22, Birth, division and death](22-birth-division-and-death.md). How organisations and their branches begin, divide and end.
+8. [Chapter 25, Rehearsing the future](25-rehearsing-the-future.md). Growing organisations by simulation before a change is lived.
+9. [Chapter 26, Back to society](26-back-to-society.md). A society whose needs are met by many small, living organisations, owned by no one.

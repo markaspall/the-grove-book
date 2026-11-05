@@ -1,4 +1,4 @@
-# Chapter 25. Back to society
+# Chapter 26. Back to society
 
 *A working draft, November 2026. This book is being written while The Grove is being built; expect it to change. Checked against the build as it stood on 1 November 2026.*
 
@@ -62,7 +62,7 @@ In an organisation on The Grove, Wise-Eye takes much of the load that crowds the
 
 It can run the other way, and the sceptics of AI in governance are right to say so loudly. An AI that decides because it's quicker. An AI that agrees with everyone and helps the wrong things happen faster. An AI that does the noticing so well that people stop noticing for themselves, until the habits above wither from disuse.
 
-Our answer is structural, as it was in Chapter 19: build no way for the AI to have a say, make everything it does visible, and keep its standing losable. That answers the first two risks better than the third, which we'll only see in how people behave.
+Our answer is structural, as it was in Chapter 20: build no way for the AI to have a say, make everything it does visible, and keep its standing losable. That answers the first two risks better than the third, which we'll only see in how people behave.
 
 ## People hold the why
 
@@ -84,11 +84,11 @@ Here is the picture we're reaching for. It isn't a forecast. It's a direction we
 
 Put sovereign people at the centre: whole, free to join and leave, belonging to several organisations at once, held while they're there. Around them, sovereign organisations, each governing itself and each meeting one need. Around those, a sovereign society: its needs met from within, by many organisations working together, and owned by no one.
 
-The needs fall into two kinds of work. There's the hard work of getting things done: food, water and power, homes and land, health, safety, money and law. And there's the soft work of holding the people who do it: care, learning, belonging, voice, resolving conflict, celebration. In this picture the two lean on each other, and organisations serve each other across the divide. A care practice holds the safety crew after a fire. Learning feeds the people growing food and building homes. Water and power keep the halls lit where people meet. Money and law lean on the mediators when a dispute comes. Local voice carries a safety warning faster than any notice board. Each line is an agreement between two organisations, each decided by its own forum, as Chapter 22 described.
+The needs fall into two kinds of work. There's the hard work of getting things done: food, water and power, homes and land, health, safety, money and law. And there's the soft work of holding the people who do it: care, learning, belonging, voice, resolving conflict, celebration. In this picture the two lean on each other, and organisations serve each other across the divide. A care practice holds the safety crew after a fire. Learning feeds the people growing food and building homes. Water and power keep the halls lit where people meet. Money and law lean on the mediators when a dispute comes. Local voice carries a safety warning faster than any notice board. Each line is an agreement between two organisations, each decided by its own forum, as Chapter 23 described.
 
 The starter packs already sketch a near version: a community on its own land, a power co-operative, a neighbourhood café, a client practice for law and accounts, a practice that holds other organisations' difficult conversations. None of them is large. That's the point.
 
-And organisations on The Grove grow the way living things do. A branch that has outgrown itself divides; a new organisation can be born from an old one carrying the whole pattern with it, as Chapter 21 described. Groves seed groves. A bakery seeds a kitchen, the kitchen a school, the school a clinic nobody rules. The long ambition is that much of what large institutions do today could be done by networks of small, self-owned organisations, each holding the full pattern, with no throne for anyone to seize.
+And organisations on The Grove grow the way living things do. A branch that has outgrown itself divides; a new organisation can be born from an old one carrying the whole pattern with it, as Chapter 22 described. Groves seed groves. A bakery seeds a kitchen, the kitchen a school, the school a clinic nobody rules. The long ambition is that much of what large institutions do today could be done by networks of small, self-owned organisations, each holding the full pattern, with no throne for anyone to seize.
 
 None of this needs a revolution. Nobody has to tear the tower down. People build around it, and over time the tower matters less. We aren't protesting. We're outgrowing.
 
@@ -106,7 +106,7 @@ The answer would be many organisations pledging to act, to pay a living wage or 
 
 The book has tried to say what's open where it's open. Gathered in one place, it's a long list, and we'd rather it were read than skimmed.
 
-Most of the numbers are guesses: the lengths of the decision clocks, the fourteen days before a tension climbs, how much evidence Wise-Eye needs before it earns standing. Trust is designed to fade unless it's renewed; in the system as it runs today it doesn't fade yet, and the right rate is a genuine open question. There's no emergency path; the fire alarm is designed and not built. The Steward that looks after the shared code as an organisation in its own right is decided for the day The Grove goes live, and isn't built yet; the network of organisations beyond that comes later. The everyday signature, the human hand a bank or landlord wants on a page, isn't designed at all.
+Most of the numbers are guesses: the lengths of the decision clocks, the fourteen days before a tension climbs, how much evidence Wise-Eye needs before it earns standing. Trust is designed to fade unless it's renewed; in the system as it runs today it doesn't fade yet, and the right rate is a genuine open question. There's no emergency path; the fire alarm is designed and not built. The organisation's learned sense of itself is building towards, and whether it can sense an organisation's health from shape alone, we don't know. The Steward that looks after the shared code as an organisation in its own right is decided for the day The Grove goes live, and isn't built yet; the network of organisations beyond that comes later. The everyday signature, the human hand a bank or landlord wants on a page, isn't designed at all.
 
 And beneath all of these sits the largest. None of it has yet been lived by real organisations at scale.
 

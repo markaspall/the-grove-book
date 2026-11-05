@@ -82,7 +82,7 @@ So every steward has a companion beside them. We call it Wise-Eye. It reads what
 
 What it never does is decide. It can draft a proposal; it can't consent to one. It can offer advice on a proposal; it can't raise a concern, and it can't block anything. It's a facilitator, not a fixer: it asks more than it tells, and offers guidance mostly when asked. The spark stays human. The load moves to the co-pilot.
 
-We'll look at Wise-Eye properly in Chapter 19. It's introduced here because it changes what it means to hold a seat. Holding a part of the organisation no longer means carrying all its admin alone. It means being free to do the part only a person can do.
+We'll look at Wise-Eye properly in Chapter 20. It's introduced here because it changes what it means to hold a seat. Holding a part of the organisation no longer means carrying all its admin alone. It means being free to do the part only a person can do.
 
 ## Founders who don't want to be bosses
 

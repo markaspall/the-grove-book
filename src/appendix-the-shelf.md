@@ -16,7 +16,7 @@ Some of the books behind this book are in the notes to each chapter. Others shap
 - **Carney, B. M. and Getz, I. (2009), *Freedom, Inc.*, Crown Business.** More organisations that took command away and found their people stepped up.
 - **Hsieh, T. (2010), *Delivering Happiness*, Business Plus.** The company behind the best-known Holacracy story, in its founder's words, before the story got hard.
 - **Mackey, J. and Sisodia, R. (2013), *Conscious Capitalism*, Harvard Business Review Press,** and **Kofman, F. (2006), *Conscious Business*, Sounds True.** Business as something that can serve more than its owners.
-- **Dethmer, J., Chapman, D. and Klemp, K. W. (2014), *The 15 Commitments of Conscious Leadership*, Conscious Leadership Group.** Leading from responsibility rather than blame. It sits behind the Clearing, the space kept off the record, in Chapter 20.
+- **Dethmer, J., Chapman, D. and Klemp, K. W. (2014), *The 15 Commitments of Conscious Leadership*, Conscious Leadership Group.** Leading from responsibility rather than blame. It sits behind the Clearing, the space kept off the record, in Chapter 21.
 
 ## Systems, dialogue and the learning organisation
 
@@ -25,7 +25,7 @@ Some of the books behind this book are in the notes to each chapter. Others shap
 - **Jaworski, J. (1996), *Synchronicity: The Inner Path of Leadership*, Berrett-Koehler.** Leadership as creating the conditions for what wants to happen.
 - **Bohm, D. (1996), *On Dialogue*, Routledge,** and **Isaacs, W. (1999), *Dialogue and the Art of Thinking Together*, Currency.** A group thinking together before anyone decides. Chapters 9 and 10.
 - **Capra, F. (1996), *The Web of Life*, Anchor Books,** and **(2002), *The Hidden Connections*, HarperCollins.** Life, and organisations, as networks rather than machines. Chapter 4.
-- **de Geus, A. (1997), *The Living Company*, Harvard Business School Press.** Why a few companies live for centuries. Chapters 4 and 21.
+- **de Geus, A. (1997), *The Living Company*, Harvard Business School Press.** Why a few companies live for centuries. Chapters 4 and 22.
 
 ## Nature, self-organisation and software
 
@@ -35,7 +35,7 @@ Some of the books behind this book are in the notes to each chapter. Others shap
 
 ## Economy, money and the commons
 
-- **Raworth, K. (2017), *Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist*, Random House Business.** An economy that meets everyone's needs within the planet's limits, with a social floor beneath and an ecological ceiling above. It sits behind the floor in Chapter 15 and the society picture in Chapter 25.
+- **Raworth, K. (2017), *Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist*, Random House Business.** An economy that meets everyone's needs within the planet's limits, with a social floor beneath and an ecological ceiling above. It sits behind the floor in Chapter 15 and the society picture in Chapter 26.
 - **Ostrom, E. (1990), *Governing the Commons*, Cambridge University Press.** People governing shared resources well without a ruler or an owner. Chapters 1 and 15.
 
 ## Integral and developmental
@@ -50,12 +50,12 @@ Some of the books behind this book are in the notes to each chapter. Others shap
 ## What people could become
 
 - **Hillman, J. (1996), *The Soul's Code: In Search of Character and Calling*, Random House.** The idea that each person carries a calling. It sits behind seats chosen rather than assigned, in Chapter 6, and behind members saying, in their own words, which open seat they'd like, in Chapter 9.
-- **Eisenstein, C. (2007), *The Ascent of Humanity*, Panenthea Press.** A long argument that our crises grow from a story of separation, and that a story of connection is possible. Chapters 1 and 25.
-- **Macy, J. and Brown, M. Y. (2014), *Coming Back to Life: The Updated Guide to the Work That Reconnects*, New Society Publishers.** Turning grief for the world into the energy to act, together. The tone of Chapter 25 owes it something.
+- **Eisenstein, C. (2007), *The Ascent of Humanity*, Panenthea Press.** A long argument that our crises grow from a story of separation, and that a story of connection is possible. Chapters 1 and 26.
+- **Macy, J. and Brown, M. Y. (2014), *Coming Back to Life: The Updated Guide to the Work That Reconnects*, New Society Publishers.** Turning grief for the world into the energy to act, together. The tone of Chapter 26 owes it something.
 - **Vaughan-Lee, L. (ed.) (2013), *Spiritual Ecology: The Cry of the Earth*, The Golden Sufi Center.** Essays on the inner side of the ecological crisis: that how we see the world shapes how we treat it.
-- **Hubbard, B. M. (1998), *Conscious Evolution: Awakening the Power of Our Social Potential*, New World Library.** The social potential movement: the question of human potential asked of people together. Chapters 1 and 25.
-- **Gladwell, M. (2005), *Blink: The Power of Thinking Without Thinking*, Little, Brown.** How much of what we know, we know before we can explain it. A small piece of the case in Chapter 25 that thinking isn't our only intelligence.
-- **Maslow, A. H. (1971), *The Farther Reaches of Human Nature*, Viking.** What people reach for once their needs are met. Chapter 25.
+- **Hubbard, B. M. (1998), *Conscious Evolution: Awakening the Power of Our Social Potential*, New World Library.** The social potential movement: the question of human potential asked of people together. Chapters 1 and 26.
+- **Gladwell, M. (2005), *Blink: The Power of Thinking Without Thinking*, Little, Brown.** How much of what we know, we know before we can explain it. A small piece of the case in Chapter 26 that thinking isn't our only intelligence.
+- **Maslow, A. H. (1971), *The Farther Reaches of Human Nature*, Viking.** What people reach for once their needs are met. Chapter 26.
 - **Csikszentmihalyi, M. (1990), *Flow*, Harper and Row.** What it feels like when work and self line up.
 - **Covey, S. R. (1989), *The 7 Habits of Highly Effective People*, Free Press.** Responsibility taken, not given, long before it reached organisations.
 - **Dilts, R. (1996), *Visionary Leadership Skills*, Meta Publications,** and **(2003), *From Coach to Awakener*, Meta Publications;** **Bandler, R. and Grinder, J. (1979), *Frogs into Princes*, Real People Press;** **Robbins, A. (1986), *Unlimited Power*, Simon and Schuster.** Neuro-linguistic programming and its descendants: a practical grasp of what makes people tick, and what keeps them stuck.
@@ -66,19 +66,19 @@ Some of the books behind this book are in the notes to each chapter. Others shap
 
 - **Ries, E. (2011), *The Lean Startup*, Crown Business,** and **Osterwalder, A. and Pigneur, Y. (2010), *Business Model Generation*, Wiley.** A venture as a set of guesses to test, not a plan to execute. Chapter 13.
 
-- **Christensen, C. M. (1997), *The Innovator's Dilemma*, Harvard Business School Press.** Why well-run incumbents miss the new thing growing underneath them, and can't follow it without undoing what makes them who they are. The business case for building around the tower. Chapter 25.
+- **Christensen, C. M. (1997), *The Innovator's Dilemma*, Harvard Business School Press.** Why well-run incumbents miss the new thing growing underneath them, and can't follow it without undoing what makes them who they are. The business case for building around the tower. Chapter 26.
 
 ## Consciousness and spirit
 
 - **Walsch, N. D. (1995), *Conversations with God*, Book 1.** One of the books that set the search going, long before any of this had a shape.
 - **Tolle, E. (1997), *The Power of Now*, Namaste Publishing; (2005), *A New Earth*, Dutton.** Presence, and the ego seen for what it is.
-- **Eisenstein, C. (2011), *Sacred Economics*, Evolver Editions.** An economy of gift and connection. Chapters 15 and 25.
+- **Eisenstein, C. (2011), *Sacred Economics*, Evolver Editions.** An economy of gift and connection. Chapters 15 and 26.
 - **Hoffman, D. (2019), *The Case Against Reality*, W. W. Norton.** That what we perceive is an interface, not the world itself: a humbling thought for anyone who believes their map.
 
 ## AI and the future
 
-- **Bostrom, N. (2014), *Superintelligence: Paths, Dangers, Strategies*, Oxford University Press.** The serious case for caution about capable AI. Part of why, in Chapter 19, Wise-Eye's limits are held in structure rather than in instructions.
-- **Harari, Y. N. (2018), *21 Lessons for the 21st Century*, Jonathan Cape.** What work, meaning and freedom become as algorithms take more of each. Chapter 25 answers some of its questions differently.
+- **Bostrom, N. (2014), *Superintelligence: Paths, Dangers, Strategies*, Oxford University Press.** The serious case for caution about capable AI. Part of why, in Chapter 20, Wise-Eye's limits are held in structure rather than in instructions.
+- **Harari, Y. N. (2018), *21 Lessons for the 21st Century*, Jonathan Cape.** What work, meaning and freedom become as algorithms take more of each. Chapter 26 answers some of its questions differently.
 - **Davidson, J. D. and Rees-Mogg, W. (1997), *The Sovereign Individual*, Simon and Schuster.** A very different use of the word *sovereign*, built on the individual rather than the relationship. Chapter 1 explains why this book doesn't share it.
 
 If a book shaped how you think about any of this, and you think it belongs here, tell us.

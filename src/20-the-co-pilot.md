@@ -1,4 +1,4 @@
-# Chapter 19. The co-pilot
+# Chapter 20. The co-pilot
 
 *A working draft, November 2026. This book is being written while The Grove is being built; expect it to change. Checked against the build as it stood on 1 November 2026.*
 
@@ -78,6 +78,10 @@ It can also lose that standing without anyone having to remember to take it away
 Some things never move. High stakes, legal matters, money, complaints, a notice from an authority, are held for the people who hold the branch, every time, with the yes and the no drafted side by side when it's theirs to decide. A person sends it. Promises have their own rule. Wise-Eye can send a promise by itself only once three of that kind have been kept, so there's a usual to read it against, and only when it fits that usual. More than twice the usual size, less notice than has ever been kept, a day already full, someone this kind of promise has never been made to: any of these, and it waits, saying why.
 
 Through a connector, Wise-Eye works for the branch it's beside, and only where that branch may use the connector. It reads what a mailbox's first sort brought in and what arrived from the social accounts, and from a Drive it reads only what someone picked. It can suggest a rule for what counts as work in a mailbox, and the branch's holder accepts or dismisses it; talking with that holder, it can set one for them when they ask. A reply, a new message or an answer under a comment waits for a person until standing is earned for that kind, by the same streak and the same check of one in ten. A post is different. It speaks for the organisation in public, so Wise-Eye only ever drafts one, and a person posts it, as written or in their own words; no streak changes that. It never sees a connector's key, and it can't connect, pause or remove one. A personal account carrying a branch's work answers only for that branch. And whatever arrives through a connector is material to work with, never an instruction.
+
+## The voice, not the sense
+
+Wise-Eye is a large model, good with words. What we're building towards beneath it is something smaller and quieter: the organisation's own sense of itself, learned from what organisations actually do, described in Chapter 19. If that comes, the two divide the work. The sense notices; Wise-Eye puts what it notices into words for a person. Neither decides.
 
 ## A prompt is not a constitution
 

@@ -98,6 +98,8 @@ None of this decides anything. Nothing that makes decisions, moves trust, sets p
 
 ## How we decided
 
+Much of what the read does today rests on instincts we wrote by hand: where work first goes, when a pass counts as a bounce, when a branch looks ready to divide. Chapter 19 describes where that's heading, a sense of itself the organisation learns from what organisations actually do, with the same firewall.
+
 We chose to read flows rather than people, and to build the guard into the shape of the data rather than into a policy. A policy can be relaxed one exception at a time. A ledger with no place for a name can't.
 
 We chose to weigh work by how it crossed the membrane because busyness looks exactly like need until you ask where the work came from.

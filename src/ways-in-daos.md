@@ -49,5 +49,5 @@ Today The Grove is a test bench: simulated organisations in one shared space tha
 4. [Chapter 15, Money and value](15-money-and-value.md). Two currencies kept apart, a shared commons, and a floor.
 5. [Chapter 9, Belonging without a seat](09-belonging-without-a-seat.md). The invitation as a vouch, and what each level of proof unlocks.
 6. [Chapter 16, Into the legal world](16-into-the-legal-world.md). How an organisation becomes a legal entity without making its signer the boss.
-7. [Chapter 23, DNA, the network, and why not open source](23-dna-the-network-and-open-source.md). Sealed code, leaving together, new networks, and the Steward.
+7. [Chapter 24, DNA, the network, and why not open source](24-dna-the-network-and-open-source.md). Sealed code, leaving together, new networks, and the Steward.
 8. [Chapter 1, A society of sovereigns](01-a-society-of-sovereigns.md). What sovereign means here, for people, for organisations and for a society.
