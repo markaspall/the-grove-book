@@ -90,6 +90,8 @@ The starter packs already sketch a near version: a community on its own land, a 
 
 And organisations on The Grove grow the way living things do. A branch that has outgrown itself divides; a new organisation can be born from an old one carrying the whole pattern with it, as Chapter 23 described. Groves seed groves. A bakery seeds a kitchen, the kitchen a school, the school a clinic nobody rules. The long ambition is that much of what large institutions do today could be done by networks of small, self-owned organisations, each holding the full pattern, with no throne for anyone to seize.
 
+A network like that could also do something no society has been able to do: tell us how it's doing. If each organisation can sense itself, as Chapter 20 describes, the network of them can be read the same way, without collecting anyone's records, and the read back from society that Chapter 2 hoped for begins to exist. We're building towards the first step of that, not the last.
+
 None of this needs a revolution. Nobody has to tear the tower down. People build around it, and over time the tower matters less. We aren't protesting. We're outgrowing.
 
 And here is the hinge, because without it the picture would be a manifesto. We're not there yet, and no early organisation changes a government. Nothing in this design makes it impossible to capture, and we won't claim otherwise. But every large, unanswerable institution was once small, and chose its shape. The ones being founded now can choose differently.

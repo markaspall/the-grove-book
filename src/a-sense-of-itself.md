@@ -11,6 +11,7 @@
 - What a learned sense of itself might feel, from strain and drift to work with no good home
 - Why it senses and never acts, never pulls towards the average, and goes quiet where an organisation invents
 - How organisations could learn together without handing over their records, and what we don't yet know
+- How you could ask the organisation how it is, and how a network of them might read back something of society
 
 ---
 
@@ -90,6 +91,14 @@ Every part of the stance is a design decision, and each has a reason.
 None of this is collective intelligence on its own. A model that senses and reports into a void is just another dashboard. The intelligence, if it comes, lives in the loop: the organisation reflects back how it is, people respond where they stand, and the next reflection carries what they did. Nobody can hold the whole of an organisation in their head. But anyone can ask it how it is.
 
 Stafford Beer, whose viable system model runs through Chapter 19, built that model on the human nervous system.[^5] What he couldn't do in the 1970s was give an organisation's sense of itself to everyone in it at once. That's the part we're reaching for.
+
+## Talking to it, and a level up
+
+Because Wise-Eye is its voice, the sense of itself isn't only something to look at. It's something to ask. How are we doing? Where are we strained? What are we missing? Any member could put those questions to the whole and get an answer in plain words, with the reading behind it, and with "we don't know" where the model hasn't been.
+
+The same pattern could repeat a level up. Each organisation on The Grove is a part of a network, and the network learns from changes to the model sent back, never from records handed over. Read in the same way, the network could reflect back its own state: needs that no organisation is meeting, organisations whose work complements each other's, strain rising across many at once, a shift in the work the world is sending. Chapter 2 called society an intelligence with no one home, acting on us unseen. A network of organisations that each sense themselves could give us the first read back from a piece of it.
+
+This is the furthest out of anything in this chapter. Nothing about it is designed beyond the idea, and the same stance would hold: it senses and never acts, it shows shape and never people, and it's open to everyone.
 
 ## How we decided
 
