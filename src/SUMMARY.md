@@ -2,6 +2,13 @@
 
 [Before we begin](00-before-we-begin.md)
 
+# Ways in
+
+- [If you're into agentic AI](ways-in-agentic-ai.md)
+- [If you're into self-management](ways-in-self-management.md)
+- [If you're into DAOs and Web3](ways-in-daos.md)
+- [If you're into living systems](ways-in-living-systems.md)
+
 # Part one. The world we're in
 
 - [1. A society of sovereigns](01-a-society-of-sovereigns.md)

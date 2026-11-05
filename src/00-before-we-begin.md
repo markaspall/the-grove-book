@@ -10,6 +10,7 @@
 - How "is", "building towards" and "we don't know" mark what's built and what isn't
 - The road from here: closing the gaps, the test bench, the sandpit, going live with the Steward, early adopters, and scale
 - Who the book is written for, and why every chapter starts with a doubt
+- Four ways in, for readers coming from agentic AI, self-management, DAOs or living systems
 - How the six parts run, and the shape each chapter follows
 - Why "I", "we" and "us" all appear, and who each of them is
 
@@ -99,6 +100,15 @@ The book runs in six parts.
 **Part six** comes back to where we started: how we test all this before people live it, and what might become possible if it works.
 
 Every chapter follows a similar shape. It starts with a doubt, looks at what the current way costs, offers something that loosens the doubt, shows what changes, explains how we decided, and ends with one thought you could take to a colleague. Footnotes point to the people whose work we've leaned on, and to further reading for anyone who wants to go deeper. You can skip them entirely and lose nothing of the argument. They're there for the curious and the doubtful.
+
+## Ways in
+
+Not everyone arrives from the same place, and the book doesn't have to be read in order. If you come with a particular interest, these short pages say what The Grove looks like from where you stand, and which chapters to read first:
+
+- [If you're into agentic AI](ways-in-agentic-ai.md): an operating system that is itself agentic, with an AI that earns its standing and never gets a vote.
+- [If you're into self-management](ways-in-self-management.md): Holacracy, sociocracy and Teal ideas, with the structure held by the system instead of by tired people.
+- [If you're into DAOs and Web3](ways-in-daos.md): every organisation a DAO from day one, with no tokens or gas, and a say that money can't buy.
+- [If you're into living systems](ways-in-living-systems.md): an organisation that senses, steadies, repairs and learns, and holds the whole without a centre.
 
 ## Two kinds of language
 

@@ -24,6 +24,7 @@ It walks through the whole design, one piece at a time, from the society we hope
 ## What's written so far
 
 - [Before we begin](src/00-before-we-begin.md)
+- Ways in: [agentic AI](src/ways-in-agentic-ai.md), [self-management](src/ways-in-self-management.md), [DAOs and Web3](src/ways-in-daos.md), [living systems](src/ways-in-living-systems.md)
 - [1. A society of sovereigns](src/01-a-society-of-sovereigns.md)
 - [2. The legacy we're living](src/02-the-legacy-were-living.md)
 - [3. Nature has no bosses](src/03-nature-has-no-bosses.md)
