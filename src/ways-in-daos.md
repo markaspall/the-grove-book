@@ -43,11 +43,11 @@ Today The Grove is a test bench: simulated organisations in one shared space tha
 
 ## Where to start
 
-1. [Chapter 5, Why an operating system](05-why-an-operating-system.md). Every organisation a DAO, why token voting failed, and the six reasons for the Internet Computer.
-2. [Chapter 10, Making decisions](10-making-decisions.md). Consent, advice, clocks and timelocks in place of a token vote.
-3. [Chapter 11, Trust](11-trust.md). Trust as governance weight, given by peers, with no way to buy a say.
-4. [Chapter 15, Money and value](15-money-and-value.md). Two currencies kept apart, a shared commons, and a floor.
-5. [Chapter 9, Belonging without a seat](09-belonging-without-a-seat.md). The invitation as a vouch, and what each level of proof unlocks.
-6. [Chapter 16, Into the legal world](16-into-the-legal-world.md). How an organisation becomes a legal entity without making its signer the boss.
-7. [Chapter 24, DNA, the network, and why not open source](24-dna-the-network-and-open-source.md). Sealed code, leaving together, new networks, and the Steward.
-8. [Chapter 1, A society of sovereigns](01-a-society-of-sovereigns.md). What sovereign means here, for people, for organisations and for a society.
+1. [Chapter 6, Why an operating system](why-an-operating-system.md). Every organisation a DAO, why token voting failed, and the six reasons for the Internet Computer.
+2. [Chapter 11, Making decisions](making-decisions.md). Consent, advice, clocks and timelocks in place of a token vote.
+3. [Chapter 12, Trust](trust.md). Trust as governance weight, given by peers, with no way to buy a say.
+4. [Chapter 16, Money and value](money-and-value.md). Two currencies kept apart, a shared commons, and a floor.
+5. [Chapter 10, Belonging without a seat](belonging-without-a-seat.md). The invitation as a vouch, and what each level of proof unlocks.
+6. [Chapter 17, Into the legal world](into-the-legal-world.md). How an organisation becomes a legal entity without making its signer the boss.
+7. [Chapter 25, DNA, the network, and why not open source](dna-the-network-and-open-source.md). Sealed code, leaving together, new networks, and the Steward.
+8. [Chapter 1, A society of sovereigns](a-society-of-sovereigns.md). What sovereign means here, for people, for organisations and for a society.

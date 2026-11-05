@@ -47,11 +47,11 @@ Consent goes with seats, and members without a seat can sense, advise and move w
 
 ## Where to start
 
-1. [Chapter 2, The legacy we're living](02-the-legacy-were-living.md). What matrix, flat, agile, sociocracy, Holacracy and Teal each learned, the wall they hit, and why we started from a clean sheet.
-2. [Chapter 8, The branch](08-the-branch.md). The building block, seats and crews, and the rule that stops one person deciding alone.
-3. [Chapter 10, Making decisions](10-making-decisions.md). Consent, advice and clocks, with no expert veto or override.
-4. [Chapter 11, Trust](11-trust.md). Trust as governance weight, given by peers, never bought.
-5. [Chapter 13, Vision as hypothesis](13-vision-as-hypothesis.md). Why imagined tensions let the loudest win, and how a founder's vision becomes bets.
-6. [Chapter 12, Work that finds its way](12-work-that-finds-its-way.md). Why work belongs to a branch, and how structure grows from it.
-7. [Chapter 9, Belonging without a seat](09-belonging-without-a-seat.md). What members without a seat can do, and where that sits beside sociocracy and co-operatives.
-8. [Chapter 18, Holding the whole without a centre](18-holding-the-whole.md). Where source theory and the viable system model say a centre is needed, and how the whole is held without one.
+1. [Chapter 3, The legacy we're living](the-legacy-were-living.md). What matrix, flat, agile, sociocracy, Holacracy and Teal each learned, the wall they hit, and why we started from a clean sheet.
+2. [Chapter 9, The branch](the-branch.md). The building block, seats and crews, and the rule that stops one person deciding alone.
+3. [Chapter 11, Making decisions](making-decisions.md). Consent, advice and clocks, with no expert veto or override.
+4. [Chapter 12, Trust](trust.md). Trust as governance weight, given by peers, never bought.
+5. [Chapter 14, Vision as hypothesis](vision-as-hypothesis.md). Why imagined tensions let the loudest win, and how a founder's vision becomes bets.
+6. [Chapter 13, Work that finds its way](work-that-finds-its-way.md). Why work belongs to a branch, and how structure grows from it.
+7. [Chapter 10, Belonging without a seat](belonging-without-a-seat.md). What members without a seat can do, and where that sits beside sociocracy and co-operatives.
+8. [Chapter 19, Holding the whole without a centre](holding-the-whole.md). Where source theory and the viable system model say a centre is needed, and how the whole is held without one.

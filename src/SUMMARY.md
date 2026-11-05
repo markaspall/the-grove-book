@@ -1,6 +1,6 @@
 # Summary
 
-[Before we begin](00-before-we-begin.md)
+[Before we begin](before-we-begin.md)
 
 # Ways in
 
@@ -11,48 +11,49 @@
 
 # Part one. The world we're in
 
-- [1. A society of sovereigns](01-a-society-of-sovereigns.md)
-- [2. The legacy we're living](02-the-legacy-were-living.md)
-- [3. Nature has no bosses](03-nature-has-no-bosses.md)
+- [1. A society of sovereigns](a-society-of-sovereigns.md)
+- [2. The mirror we don't look into](the-mirror-we-dont-look-into.md)
+- [3. The legacy we're living](the-legacy-were-living.md)
+- [4. Nature has no bosses](nature-has-no-bosses.md)
 
 # Part two. A different kind of organisation
 
-- [4. What if an organisation were alive?](04-what-if-an-organisation-were-alive.md)
-- [5. Why an operating system](05-why-an-operating-system.md)
-- [6. The spark](06-the-spark.md)
-- [Interlude. One Tuesday](06b-one-tuesday.md)
+- [5. What if an organisation were alive?](what-if-an-organisation-were-alive.md)
+- [6. Why an operating system](why-an-operating-system.md)
+- [7. The spark](the-spark.md)
+- [Interlude. One Tuesday](one-tuesday.md)
 
 # Part three. Inside the organism
 
-- [7. Purpose: what closes, what explores](07-purpose.md)
-- [8. The branch: cells, not jobs](08-the-branch.md)
-- [9. Belonging without a seat](09-belonging-without-a-seat.md)
-- [10. Making decisions](10-making-decisions.md)
-- [11. Trust](11-trust.md)
-- [12. Work that finds its way](12-work-that-finds-its-way.md)
-- [13. Vision as hypothesis](13-vision-as-hypothesis.md)
-- [14. Promises](14-promises.md)
-- [15. Money and value](15-money-and-value.md)
-- [16. Into the legal world](16-into-the-legal-world.md)
+- [8. Purpose: what closes, what explores](purpose.md)
+- [9. The branch: cells, not jobs](the-branch.md)
+- [10. Belonging without a seat](belonging-without-a-seat.md)
+- [11. Making decisions](making-decisions.md)
+- [12. Trust](trust.md)
+- [13. Work that finds its way](work-that-finds-its-way.md)
+- [14. Vision as hypothesis](vision-as-hypothesis.md)
+- [15. Promises](promises.md)
+- [16. Money and value](money-and-value.md)
+- [17. Into the legal world](into-the-legal-world.md)
 
 # Part four. The organisation that knows itself
 
-- [17. The read](17-the-read.md)
-- [18. Holding the whole without a centre](18-holding-the-whole.md)
-- [19. A sense of itself](19-a-sense-of-itself.md)
-- [20. The co-pilot](20-the-co-pilot.md)
-- [21. Memory](21-memory.md)
+- [18. The read](the-read.md)
+- [19. Holding the whole without a centre](holding-the-whole.md)
+- [20. A sense of itself](a-sense-of-itself.md)
+- [21. The co-pilot](the-co-pilot.md)
+- [22. Memory](memory.md)
 
 # Part five. Beyond one organisation
 
-- [22. Birth, division and death](22-birth-division-and-death.md)
-- [23. Between organisations](23-between-organisations.md)
-- [24. DNA, the network, and why not open source](24-dna-the-network-and-open-source.md)
+- [23. Birth, division and death](birth-division-and-death.md)
+- [24. Between organisations](between-organisations.md)
+- [25. DNA, the network, and why not open source](dna-the-network-and-open-source.md)
 
 # Part six. Return
 
-- [25. Rehearsing the future](25-rehearsing-the-future.md)
-- [26. Back to society](26-back-to-society.md)
+- [26. Rehearsing the future](rehearsing-the-future.md)
+- [27. Back to society](back-to-society.md)
 
 ---
 
