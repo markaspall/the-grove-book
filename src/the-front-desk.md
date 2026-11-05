@@ -25,7 +25,9 @@ That's the doubt, and both halves have happened. Most of us have typed into a ch
 
 In a small organisation, the front door is whoever picks up. That's usually the person who also does the work, so the phone rings in the middle of it, or doesn't get answered at all. Messages arrive on half a dozen channels, and each lives in its own inbox. A customer who emailed last week, messages today and calls tomorrow has to explain themselves three times, to three people who can't see each other's notes.
 
-Larger organisations buy their way out with scripts, menus and chatbots. Those protect the organisation's time, often at the customer's expense, and they rarely know the work. The bot can tell you the opening hours. It can't tell you whether your order will be ready on Saturday, because it can't see the order.
+Larger organisations buy their way out with menus and machines, and most of us know how that goes. Press one for this, two for that. Listen carefully, as our options have changed. Four menus deep, the option you need isn't there, so you press the one that's nearest and end up in the wrong queue. Or the machine asks you to say what you're calling about, and you say it, clearly, three times, and it hears something else. "Sorry, I didn't catch that." You find yourself shouting "agent" at a recording, or pressing zero over and over in the hope it leads to a human. There are websites whose whole purpose is to tell people which buttons to press to reach a person at a given company. When you do get through, you're asked for the account number you've already typed in, and you start again.
+
+None of it is an accident. Those menus and scripts protect the organisation's time, often at the customer's expense, and they rarely know the work. The bot can tell you the opening hours. It can't tell you whether your order will be ready on Saturday, because it can't see the order.
 
 The cost falls in two places. Customers feel processed rather than helped. And the people doing the work carry the switchboard on top of it, which is exactly the kind of load Chapter 7 argued crowds out the part of the work only a person can do.
 
@@ -36,6 +38,8 @@ An organisation on The Grove has a front desk: the organisation answering at its
 Today it answers in chat on the organisation's own website, the Canopy from Chapter 13, and on WhatsApp, text message and direct messages on the social platforms, all through the organisation's own messaging account. Adding a way in never adds rules: who's calling, what may be seen, what may be promised and how it all threads together belong to the desk, not to the channel.
 
 We're building towards voice: speaking with the desk on the website, calling the organisation's phone number, or calling on WhatsApp, all on one path. And later, video, which we think of as a call with a screen, not a face. The screen shows what's being said, and for a known customer their own orders and where they stand. We chose no face on purpose. A face would turn a collective into one person, which is the opposite of what an organisation on The Grove is.
+
+And there's no menu. Nobody presses one for this and two for that. The caller says what they want in their own words, and the desk works out what they mean, the same way the one door reads work for what it asks rather than which words it uses. When voice comes, it's meant to listen the same way, in ordinary speech, with a person always one request away and never a recording to shout at.
 
 ## Three things, and only three
 
