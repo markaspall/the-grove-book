@@ -9,6 +9,7 @@
 
 **In this opening**
 
+- A short video tour of the page people use, in a simulated organisation
 - Why the book is written in public while the system is still being built
 - How "is", "building towards" and "we don't know" mark what's built and what isn't
 - The road from here: closing the gaps, the test bench, the sandpit, going live with the Steward, early adopters, and scale
@@ -18,6 +19,15 @@
 - Why "I", "we" and "us" all appear, and who each of them is
 
 ---
+
+## See it first
+
+<video controls preload="metadata" playsinline poster="media/tour-poster.jpg" style="width:100%;height:auto;border-radius:14px;background:#1b1f1a" aria-label="A tour of The Grove">
+  <source src="media/tour.mp4" type="video/mp4">
+  <a href="media/tour.mp4">Watch the tour</a>
+</video>
+
+*A tour of the page people use, about ten minutes long, seen from inside Still Water, a simulated organisation on the test bench. Its people, its work and its decisions were all grown and run by AI people. The rest of the book explains what you're looking at.*
 
 This book is being written while the thing it describes is still being built.
 
