@@ -1,5 +1,8 @@
 # If you're into agentic AI
 
+<!-- card: An operating system that is itself agentic, with an AI that earns its standing and never gets a vote. -->
+<!-- description: Everyone's asking how to bring AI agents into organisations and keep people in control. This is one worked answer: an AI built into the system, beside every seat, earning standing one kind of work at a time, with no vote and no veto. -->
+
 *A way in. A working draft, November 2026; expect it to change.*
 
 ---

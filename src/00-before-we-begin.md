@@ -1,5 +1,8 @@
 # Before we begin
 
+<!-- card: Written in public, while it's being built. -->
+<!-- description: A book on The Grove, the first network of organisations running on an operating system for organisations without a boss: the design, the reasons behind it, and how we decided. -->
+
 *A working draft, November 2026. This book is being written while The Grove is being built; expect it to change. Checked against the build as it stood on 1 November 2026.*
 
 ---

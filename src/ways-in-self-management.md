@@ -1,5 +1,8 @@
 # If you're into self-management
 
+<!-- card: Holacracy, sociocracy and Teal ideas, with the structure held by the system instead of by tired people. -->
+<!-- description: Self-management works, and it wears people out. What if the structure were held by the system itself? Branches, forums, consent on a clock, trust given by peers, and structure that grows from the work. -->
+
 *A way in. A working draft, November 2026; expect it to change.*
 
 ---

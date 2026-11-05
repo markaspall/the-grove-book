@@ -1,5 +1,8 @@
 # If you're into living systems
 
+<!-- card: An organisation that senses, steadies, repairs and learns, and holds the whole without a centre. -->
+<!-- description: What would an organisation look like if we took the living picture seriously, and built it? A pattern that keeps re-forming, sensing itself without watching anyone, holding the whole without a centre. -->
+
 *A way in. A working draft, November 2026; expect it to change.*
 
 ---

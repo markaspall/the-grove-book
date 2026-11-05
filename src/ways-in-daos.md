@@ -1,5 +1,8 @@
 # If you're into DAOs and Web3
 
+<!-- card: Every organisation a DAO from day one. No tokens, no gas, and a say that money can't buy. -->
+<!-- description: The DAO idea was right. The governance wasn't. Here every organisation is a DAO from its first day, with no tokens, wallets or gas, and decisions weighted by trust that peers give, never by what anyone holds. -->
+
 *A way in. A working draft, November 2026; expect it to change.*
 
 ---
