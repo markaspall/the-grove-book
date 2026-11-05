@@ -1,4 +1,4 @@
-# Chapter 18. The read
+# Chapter 19. The read
 
 *A working draft, November 2026. This book is being written while The Grove is being built; expect it to change. Checked against the build as it stood on 1 November 2026.*
 
@@ -98,7 +98,7 @@ None of this decides anything. Nothing that makes decisions, moves trust, sets p
 
 ## How we decided
 
-Much of what the read does today rests on instincts we wrote by hand: where work first goes, when a pass counts as a bounce, when a branch looks ready to divide. Chapter 20 describes where that's heading, a sense of itself the organisation learns from what organisations actually do, with the same firewall.
+Much of what the read does today rests on instincts we wrote by hand: where work first goes, when a pass counts as a bounce, when a branch looks ready to divide. Chapter 21 describes where that's heading, a sense of itself the organisation learns from what organisations actually do, with the same firewall.
 
 We chose to read flows rather than people, and to build the guard into the shape of the data rather than into a policy. A policy can be relaxed one exception at a time. A ledger with no place for a name can't.
 

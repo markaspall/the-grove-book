@@ -68,7 +68,7 @@ But a body can have a sense of itself that every part shares in. And an organisa
 
 ## The mirror that talks back
 
-Until recently, a reading of an organisation was something you had to know how to look at: a chart, a report, a dashboard someone had to interpret. AI changes that. A model can take what the reading shows, put it into plain words, and answer questions about it. Nobody has to be an analyst to ask how things are. Anyone in the organisation can ask, and the organisation can talk back. Chapter 20 describes the sense of itself we're building towards, and Chapter 21 the voice that puts it into words.
+Until recently, a reading of an organisation was something you had to know how to look at: a chart, a report, a dashboard someone had to interpret. AI changes that. A model can take what the reading shows, put it into plain words, and answer questions about it. Nobody has to be an analyst to ask how things are. Anyone in the organisation can ask, and the organisation can talk back. Chapter 21 describes the sense of itself we're building towards, and Chapter 22 the voice that puts it into words.
 
 The same move works a level up. Organisations on The Grove are holons too, parts of a network of organisations. If each one can sense itself, the network can be read in the same way, without anyone's records being collected: where needs go unmet, where the work the world sends is shifting, where strain is gathering across many organisations at once. That would be the beginning of a read back from society itself, or at least from the part of it organised this way. For the first time, the layer above us wouldn't only act on us. We could ask it how it's doing, and what our small actions are adding up to.
 
@@ -80,11 +80,11 @@ None of this is built. It's the direction the whole design points in.
 
 ## How we decided
 
-This chapter is the reason for much of what follows. We chose to read the work, the promises, the trust and the tensions, rather than to measure people, because the reading is how an organisation can see the pattern its people make together. Chapter 18 describes that read, and Chapter 20 the learned sense of itself we're building towards.
+This chapter is the reason for much of what follows. We chose to read the work, the promises, the trust and the tensions, rather than to measure people, because the reading is how an organisation can see the pattern its people make together. Chapter 19 describes that read, and Chapter 21 the learned sense of itself we're building towards.
 
 We chose to make the reading open to everyone, rather than a view for whoever sits at the top, because a mirror only one person can look into is a management tool, not a sense of self.
 
-And we chose to start with the organisation rather than with society. Society is too large for any of us to see, and too large for its loop to close in a way people can feel. An organisation isn't. If enough organisations learn to see themselves and respond, the layer above them might begin to change too. Chapter 27 picks that up.
+And we chose to start with the organisation rather than with society. Society is too large for any of us to see, and too large for its loop to close in a way people can feel. An organisation isn't. If enough organisations learn to see themselves and respond, the layer above them might begin to change too. Chapter 28 picks that up.
 
 ## What you might take from this
 

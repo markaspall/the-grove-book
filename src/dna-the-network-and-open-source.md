@@ -1,4 +1,4 @@
-# Chapter 25. DNA, the network, and why not open source
+# Chapter 26. DNA, the network, and why not open source
 
 *A working draft, November 2026. This book is being written while The Grove is being built; expect it to change. Checked against the build as it stood on 1 November 2026.*
 

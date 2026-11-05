@@ -1,4 +1,4 @@
-# Chapter 21. The co-pilot
+# Chapter 22. The co-pilot
 
 *A working draft, November 2026. This book is being written while The Grove is being built; expect it to change. Checked against the build as it stood on 1 November 2026.*
 
@@ -81,7 +81,7 @@ Through a connector, Wise-Eye works for the branch it's beside, and only where t
 
 ## The voice, not the sense
 
-Wise-Eye is a large model, good with words. What we're building towards beneath it is something smaller and quieter: the organisation's own sense of itself, learned from what organisations actually do, described in Chapter 20. If that comes, the two divide the work. The sense notices; Wise-Eye puts what it notices into words for a person. Neither decides.
+Wise-Eye is a large model, good with words. What we're building towards beneath it is something smaller and quieter: the organisation's own sense of itself, learned from what organisations actually do, described in Chapter 21. If that comes, the two divide the work. The sense notices; Wise-Eye puts what it notices into words for a person. Neither decides.
 
 ## A prompt is not a constitution
 

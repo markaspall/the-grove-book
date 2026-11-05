@@ -1,4 +1,4 @@
-# Chapter 20. A sense of itself
+# Chapter 21. A sense of itself
 
 *A working draft, November 2026. This book is being written while The Grove is being built; expect it to change. Checked against the build as it stood on 1 November 2026.*
 
@@ -23,7 +23,7 @@ This chapter is about something we're building towards and haven't built. None o
 
 ## What hand-written instincts cost
 
-Chapter 18 described how an organisation on The Grove reads its own state. Underneath that read sit two kinds of rule.
+Chapter 19 described how an organisation on The Grove reads its own state. Underneath that read sit two kinds of rule.
 
 The first is the organisation's law: who holds which seat, how consent works, who controls which domain, the guardrails, how a proposal becomes structure. The law is code, deterministic and readable, and it should stay that way. Self-management depends on everyone being able to see why something happened.
 
@@ -37,7 +37,7 @@ An organisation run as a vehicle has dashboards and pilots. An organisation that
 
 > *An organisation isn't a vehicle with pilots sitting in separate cabins. It's closer to a living thing, and a living thing knows how it is from the inside. That's what I want for the organisations on The Grove: not more dials, but a sense of themselves that everyone in them can feel and answer to. Collective intelligence isn't in any one person, or in a machine. It's in the loop between them.*
 
-What we're building towards, and calling for now the organisation's nervous system, is a small learned model that grows those instincts from what organisations actually do, so the organisation can feel its own state. Wise-Eye, the large model from Chapter 21, stays the voice. The nervous system senses. Wise-Eye puts it into words.
+What we're building towards, and calling for now the organisation's nervous system, is a small learned model that grows those instincts from what organisations actually do, so the organisation can feel its own state. Wise-Eye, the large model from Chapter 22, stays the voice. The nervous system senses. Wise-Eye puts it into words.
 
 ## How it's meant to work
 
@@ -70,19 +70,19 @@ These are possibilities, framed as the organisation reflecting back to itself, n
 
 Every part of the stance is a design decision, and each has a reason.
 
-**It senses; the law acts.** Nothing it says changes the organisation except through the same rules as anything else: a person raises a proposal, a forum consents. A model's view must never become an unaccountable power. This is the same firewall Chapter 18 described, carried forward.
+**It senses; the law acts.** Nothing it says changes the organisation except through the same rules as anything else: a person raises a proposal, a forum consents. A model's view must never become an unaccountable power. This is the same firewall Chapter 19 described, carried forward.
 
 **Never the average.** A model trained to copy what's typical pulls every organisation towards the typical, and that's a quiet boss. So it's trained towards outcomes, and learns most from organisations that did unusually well under the same constraints. The Grove exists so organisations can become themselves, not each other.
 
 **Where it hasn't been, it goes quiet.** When an organisation goes somewhere the model hasn't seen, it says it doesn't know and defers to the people. That's exactly where self-managing organisations invent, and the last thing they need there is a machine's guess dressed as knowledge.
 
-**Consequence, not verdict.** For a proposal it shows what would follow, never a score that sways consent. That fits Chapter 11, where there's no override, and Chapter 26, where simulation is for rehearsing, not foretelling.
+**Consequence, not verdict.** For a proposal it shows what would follow, never a score that sways consent. That fits Chapter 11, where there's no override, and Chapter 27, where simulation is for rehearsing, not foretelling.
 
 **Shape, never a judgement of a person.** It can name what's already public, who holds which seats, where the budget sits, and point at gaps in how things are checked, like money resting on one person's word. It never says what someone intends. It never moves anyone's reputation. A suspicion goes to people, through the trust and conflict process in Chapter 12, with the person present.
 
 **Open to everyone.** Any member can ask about the whole. No seat holds a privileged view. Deborah Gordon's harvester ants, from Chapter 4, are a fair picture of why: the colony's intelligence lives in its trails, not in any ant, and the trails are there for every ant to follow.[^3] Each branch also gets its own neighbourhood, read close, so the people nearest a part can see it best. But nobody gets a view the others can't have.
 
-**Learning together, without collecting anyone's data.** One shared base model, with each organisation's own records sitting beside it as memory. Organisations keep their records. When the network learns, it learns from changes to the model sent back, not from records handed over, a method known as federated learning.[^4] That fits the design in Chapter 25, where each organisation is its own DAO and carries everything it needs.
+**Learning together, without collecting anyone's data.** One shared base model, with each organisation's own records sitting beside it as memory. Organisations keep their records. When the network learns, it learns from changes to the model sent back, not from records handed over, a method known as federated learning.[^4] That fits the design in Chapter 26, where each organisation is its own DAO and carries everything it needs.
 
 **Memory every night, learning every month, and only after a check.** The organisation's own day goes into its memory nightly. The shared model is retrained from time to time, runs in the shadow of the old one, and replaces it only when it does better on organisations it hasn't seen.
 
@@ -90,7 +90,7 @@ Every part of the stance is a design decision, and each has a reason.
 
 None of this is collective intelligence on its own. A model that senses and reports into a void is just another dashboard. The intelligence, if it comes, lives in the loop: the organisation reflects back how it is, people respond where they stand, and the next reflection carries what they did. Nobody can hold the whole of an organisation in their head. But anyone can ask it how it is.
 
-Stafford Beer, whose viable system model runs through Chapter 19, built that model on the human nervous system.[^5] What he couldn't do in the 1970s was give an organisation's sense of itself to everyone in it at once. That's the part we're reaching for.
+Stafford Beer, whose viable system model runs through Chapter 20, built that model on the human nervous system.[^5] What he couldn't do in the 1970s was give an organisation's sense of itself to everyone in it at once. That's the part we're reaching for.
 
 ## Talking to it, and a level up
 

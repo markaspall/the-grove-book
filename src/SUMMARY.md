@@ -33,27 +33,28 @@
 - [13. Work that finds its way](work-that-finds-its-way.md)
 - [14. Vision as hypothesis](vision-as-hypothesis.md)
 - [15. Promises](promises.md)
-- [16. Money and value](money-and-value.md)
-- [17. Into the legal world](into-the-legal-world.md)
+- [16. The front desk](the-front-desk.md)
+- [17. Money and value](money-and-value.md)
+- [18. Into the legal world](into-the-legal-world.md)
 
 # Part four. The organisation that knows itself
 
-- [18. The read](the-read.md)
-- [19. Holding the whole without a centre](holding-the-whole.md)
-- [20. A sense of itself](a-sense-of-itself.md)
-- [21. The co-pilot](the-co-pilot.md)
-- [22. Memory](memory.md)
+- [19. The read](the-read.md)
+- [20. Holding the whole without a centre](holding-the-whole.md)
+- [21. A sense of itself](a-sense-of-itself.md)
+- [22. The co-pilot](the-co-pilot.md)
+- [23. Memory](memory.md)
 
 # Part five. Beyond one organisation
 
-- [23. Birth, division and death](birth-division-and-death.md)
-- [24. Between organisations](between-organisations.md)
-- [25. DNA, the network, and why not open source](dna-the-network-and-open-source.md)
+- [24. Birth, division and death](birth-division-and-death.md)
+- [25. Between organisations](between-organisations.md)
+- [26. DNA, the network, and why not open source](dna-the-network-and-open-source.md)
 
 # Part six. Return
 
-- [26. Rehearsing the future](rehearsing-the-future.md)
-- [27. Back to society](back-to-society.md)
+- [27. Rehearsing the future](rehearsing-the-future.md)
+- [28. Back to society](back-to-society.md)
 
 ---
 

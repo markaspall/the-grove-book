@@ -45,14 +45,15 @@ The numbers that govern standing, five approvals, one in ten checked, are first 
 
 ## Where to start
 
-1. [Chapter 21, The co-pilot](the-co-pilot.md). The heart of it: where the agent sits, what it carries, how its standing grows and shrinks, and why it can't decide.
+1. [Chapter 22, The co-pilot](the-co-pilot.md). The heart of it: where the agent sits, what it carries, how its standing grows and shrinks, and why it can't decide.
 2. [Chapter 13, Work that finds its way](work-that-finds-its-way.md). The one door, routing by meaning, connectors, and why nobody, human or agent, gives work to anyone else.
-3. [Chapter 6, Why an operating system](why-an-operating-system.md). Why rules in structure beat rules in words, and why the system runs where nobody can switch it off.
-4. [Interlude, One Tuesday](one-tuesday.md). A day in a small workshop, with an agent's draft waiting for a person.
-5. [Chapter 20, A sense of itself](a-sense-of-itself.md). Where it's heading: a small learned sense beneath the voice, which senses and never acts.
-6. [Chapter 22, Memory](memory.md). What the organisation keeps, what's sealed, and what an agent should never hold.
-7. [Chapter 26, Rehearsing the future](rehearsing-the-future.md). Organisations grown by simulation, with AI playing the people, before anyone lives the change.
-8. [Chapter 27, Back to society](back-to-society.md). What happens to people when AI carries the how, and why that may call them to hold the why.
+3. [Chapter 16, The front desk](the-front-desk.md). An AI that speaks for the organisation to the outside world, verifies who it's talking to, sees only a filtered view, and finishes only what the branch already does well.
+4. [Chapter 6, Why an operating system](why-an-operating-system.md). Why rules in structure beat rules in words, and why the system runs where nobody can switch it off.
+5. [Interlude, One Tuesday](one-tuesday.md). A day in a small workshop, with an agent's draft waiting for a person.
+6. [Chapter 21, A sense of itself](a-sense-of-itself.md). Where it's heading: a small learned sense beneath the voice, which senses and never acts.
+7. [Chapter 23, Memory](memory.md). What the organisation keeps, what's sealed, and what an agent should never hold.
+8. [Chapter 27, Rehearsing the future](rehearsing-the-future.md). Organisations grown by simulation, with AI playing the people, before anyone lives the change.
+9. [Chapter 28, Back to society](back-to-society.md). What happens to people when AI carries the how, and why that may call them to hold the why.
 
 ---
 

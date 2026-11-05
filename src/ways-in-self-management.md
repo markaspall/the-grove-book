@@ -54,4 +54,4 @@ Consent goes with seats, and members without a seat can sense, advise and move w
 5. [Chapter 14, Vision as hypothesis](vision-as-hypothesis.md). Why imagined tensions let the loudest win, and how a founder's vision becomes bets.
 6. [Chapter 13, Work that finds its way](work-that-finds-its-way.md). Why work belongs to a branch, and how structure grows from it.
 7. [Chapter 10, Belonging without a seat](belonging-without-a-seat.md). What members without a seat can do, and where that sits beside sociocracy and co-operatives.
-8. [Chapter 19, Holding the whole without a centre](holding-the-whole.md). Where source theory and the viable system model say a centre is needed, and how the whole is held without one.
+8. [Chapter 20, Holding the whole without a centre](holding-the-whole.md). Where source theory and the viable system model say a centre is needed, and how the whole is held without one.

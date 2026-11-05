@@ -46,10 +46,10 @@ How far a rehearsal on simulated people travels to real ones is unknown. Some of
 1. [Chapter 2, The mirror we don't look into](the-mirror-we-dont-look-into.md). What all our small actions add up to, an intelligence with no one home, and why we can't see it from where we stand.
 2. [Chapter 4, Nature has no bosses](nature-has-no-bosses.md). How colonies and flocks coordinate with nobody in charge, and what we borrowed.
 3. [Chapter 5, What if an organisation were alive?](what-if-an-organisation-were-alive.md). The whirlpool, the membrane, and what it takes to count as living.
-4. [Chapter 18, The read](the-read.md). How the organisation sees itself without ever seeing a person.
-5. [Chapter 19, Holding the whole without a centre](holding-the-whole.md). Beer, source theory, and the whole held without a centre.
-6. [Chapter 20, A sense of itself](a-sense-of-itself.md). What we're building towards: an organisation that can feel its own insides, open to everyone, acting only through people.
+4. [Chapter 19, The read](the-read.md). How the organisation sees itself without ever seeing a person.
+5. [Chapter 20, Holding the whole without a centre](holding-the-whole.md). Beer, source theory, and the whole held without a centre.
+6. [Chapter 21, A sense of itself](a-sense-of-itself.md). What we're building towards: an organisation that can feel its own insides, open to everyone, acting only through people.
 7. [Chapter 14, Vision as hypothesis](vision-as-hypothesis.md). Vision as bets, tested by small, aimed probes.
-8. [Chapter 23, Birth, division and death](birth-division-and-death.md). How organisations and their branches begin, divide and end.
-9. [Chapter 26, Rehearsing the future](rehearsing-the-future.md). Growing organisations by simulation before a change is lived.
-10. [Chapter 27, Back to society](back-to-society.md). A society whose needs are met by many small, living organisations, owned by no one.
+8. [Chapter 24, Birth, division and death](birth-division-and-death.md). How organisations and their branches begin, divide and end.
+9. [Chapter 27, Rehearsing the future](rehearsing-the-future.md). Growing organisations by simulation before a change is lived.
+10. [Chapter 28, Back to society](back-to-society.md). A society whose needs are met by many small, living organisations, owned by no one.

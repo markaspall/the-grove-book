@@ -1,4 +1,4 @@
-# Chapter 17. Into the legal world
+# Chapter 18. Into the legal world
 
 *A working draft, November 2026. This book is being written while The Grove is being built; expect it to change. Checked against the build as it stood on 1 November 2026.*
 
@@ -71,7 +71,7 @@ What we haven't designed is the everyday signature. A landlord, a supplier or a 
 
 ## Where things stand
 
-What's built is narrow. Money stays in the organisation's own bank, as Chapter 16 described, and the books sit beside it; nothing in the system holds or moves money. There's a register of the things an organisation holds, written to mirror what a legal body's books would hold. And there's a socket in the core of the system where a real legal wrapper will plug in, able to form a body and bind an asset under the lock, with a stand-in for testing. No real organisation has been wrapped through it. The proposals to take on and wind up a legal body are designed, not built.
+What's built is narrow. Money stays in the organisation's own bank, as Chapter 17 described, and the books sit beside it; nothing in the system holds or moves money. There's a register of the things an organisation holds, written to mirror what a legal body's books would hold. And there's a socket in the core of the system where a real legal wrapper will plug in, able to form a body and bind an asset under the lock, with a stand-in for testing. No real organisation has been wrapped through it. The proposals to take on and wind up a legal body are designed, not built.
 
 One early organisation chose a Marshall Islands DAO company, and a pathway towards it rather than a leap: an agreement between the members now, and forming the company at the first of several triggers, such as a first contract or bank account, outside money, or a date. Until the organisation runs on the live system, an operating agreement can't name it, so the plan is for the members' decisions to be recorded in writing and switched over by amendment later. And members living in different countries still carry their own countries' reporting duties, whatever the company's home.
 

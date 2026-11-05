@@ -104,7 +104,7 @@ The book runs in six parts.
 
 **Part two** asks what an organisation would look like if we took nature seriously, why that needs an operating system, and where people fit.
 
-**Part three** goes inside, piece by piece: purpose, the building blocks of an organisation, how decisions get made, how trust is earned, how work finds its way, how vision gets tested, how promises are kept, how money moves, and how the organisation takes a legal form so it can act in the world.
+**Part three** goes inside, piece by piece: purpose, the building blocks of an organisation, how decisions get made, how trust is earned, how work finds its way, how vision gets tested, how promises are kept, how the organisation meets people at its front door, how money moves, and how the organisation takes a legal form so it can act in the world.
 
 **Part four** is about an organisation that can see itself: how it reads its own state, how it holds the whole without a centre, the sense of itself we're building towards, the role of AI, and what it remembers.
 

@@ -1,4 +1,4 @@
-# Chapter 26. Rehearsing the future
+# Chapter 27. Rehearsing the future
 
 *A working draft, November 2026. This book is being written while The Grove is being built; expect it to change. Checked against the build as it stood on 1 November 2026.*
 
@@ -82,7 +82,7 @@ Some of the system's shape came straight from watching simulated organisations g
 
 A promise made to a customer landed on a branch where nobody held it and its date drove nothing, so a promise is now carried by a named person, on a clock, and rises when it slips. An organisation under pressure was offered a split, then offered back together, then split again, so a job that has just moved now settles for eight weeks before anything offers to move it again. Budget allocations passed as quiet grabs because they carried only an amount, so a budget proposal now carries its evidence: the branch's pressure to grow, its load of work and what the money is for. And Wise-Eye, once trusted, confirmed orders on its own that a person would have paused over, so it may now send a promise by itself only when it sits within what's usual for that kind of work; anything outside waits for a person, with the reason shown.
 
-The same runs are where the organisation's learned sense of itself, in Chapter 20, is first being taught, and the same caution holds: rehearse, don't foretell. An instinct learned only from simulated people is a model of a model, which is why it's checked against people who choose for themselves before anything is trusted.
+The same runs are where the organisation's learned sense of itself, in Chapter 21, is first being taught, and the same caution holds: rehearse, don't foretell. An instinct learned only from simulated people is a model of a model, which is why it's checked against people who choose for themselves before anything is trusted.
 
 ## What a simulation can't tell you
 
@@ -125,4 +125,4 @@ A rehearsal isn't a forecast: it finds the friction before your people have to.
 [^3]: Pfiffner, M. (2022), *The Neurology of Business: Implementing the Viable System Model*, Springer.
 [^4]: Box, G. E. P. (1976), "Science and Statistics", *Journal of the American Statistical Association*, 71. Box argues there that all models are wrong and the scientist's job is to find which wrongness matters; the familiar phrasing "all models are wrong, but some are useful" comes from his later writing.
 
-On Stafford Beer's viable system model, which Pfiffner builds on, see Chapter 19. For simulation as a way of asking "what structure produces this?" rather than "what will happen?", Epstein's later essays, collected as *Generative Social Science* (Princeton University Press, 2006), are a clear and readable place to start.
+On Stafford Beer's viable system model, which Pfiffner builds on, see Chapter 20. For simulation as a way of asking "what structure produces this?" rather than "what will happen?", Epstein's later essays, collected as *Generative Social Science* (Princeton University Press, 2006), are a clear and readable place to start.

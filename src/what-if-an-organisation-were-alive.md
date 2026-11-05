@@ -105,7 +105,7 @@ Calling an organisation alive is easy. Earning the word is harder. Biologists li
 
 **A boundary.** The membrane is real in the system. Work is weighed by how it crossed, people join by invitation and leave freely, and a seat is the clear edge of who decides.
 
-**Taking in and circulating.** Work arrives at the edge and is routed to the part that answers for it. Money comes in and goes to a shared commons, and from there to the parts that need it, by proposal, as Chapter 16 describes. The part that earns doesn't keep the food for itself.
+**Taking in and circulating.** Work arrives at the edge and is routed to the part that answers for it. Money comes in and goes to a shared commons, and from there to the parts that need it, by proposal, as Chapter 17 describes. The part that earns doesn't keep the food for itself.
 
 **Sensing.** The read, described above, and the Field, where people sense together, are its senses: one reads what the work does, the other hears what people notice.
 
@@ -119,9 +119,9 @@ Calling an organisation alive is easy. Earning the word is harder. Biologists li
 
 **Defending itself.** The few guardrails act like an immune system. Money can't buy a say. Nobody can seat themselves. Personal details of outsiders are refused where the whole organisation would read them. A newcomer brought in to swing things can be questioned and put on hold.
 
-**Growing, reproducing and dying.** Branches are born, divide and end by folding into their parent, with nothing dropped. Organisations giving rise to new organisations is designed and not yet built, and closing a whole organisation isn't designed at all, as Chapter 23 says plainly.
+**Growing, reproducing and dying.** Branches are born, divide and end by folding into their parent, with nothing dropped. Organisations giving rise to new organisations is designed and not yet built, and closing a whole organisation isn't designed at all, as Chapter 24 says plainly.
 
-**Remembering.** What it knows lives in its branch documents and its record, written as the work happens, as Chapter 22 describes.
+**Remembering.** What it knows lives in its branch documents and its record, written as the work happens, as Chapter 23 describes.
 
 One honest caveat. A careful critic of our early wording pointed out that something can organise itself without being alive: a living thing also nourishes, repairs and renews itself, and in an organisation much of that is done by people. That's true, and it's the design. The system carries the signals, the routes and the clocks. Wise-Eye, the AI beside every steward, carries much of the load: reading what arrives, routing it, keeping track of what's at risk. People do the sensing, the repairing, the caring and the deciding. Put together, it's an organism powered by people and AI at once. That's as close to alive as we dare claim. Whether it deserves the word in a biologist's strict sense, we're happy to leave open. In the ways that matter for the people inside it, it behaves like something alive, and it can't do that without them.
 
