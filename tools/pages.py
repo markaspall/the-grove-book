@@ -35,11 +35,14 @@ def pages():
 def auto_description(text):
     text = re.sub(r"<!--.*?-->", "", text, flags=re.S)
     parts = [p.strip() for p in re.split(r"\n\s*\n", text)]
-    rules = 0
+    rules, got = 0, ""
     for p in parts:
         if p == "---": rules += 1; continue
         if rules >= 2 and p and not p.startswith(("#", "-", ">", "*", "|", "<")):
             p = re.sub(r"\[\^\d+\]|[*_`]", "", p)
             p = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", p)
-            return p if len(p) <= 200 else p[:197].rsplit(" ", 1)[0] + "…"
-    return TAGLINE
+            got = (got + " " + p).strip()
+            if len(got) >= 140: break
+        elif got: break
+    if not got: return TAGLINE
+    return got if len(got) <= 240 else got[:237].rsplit(" ", 1)[0] + "…"
