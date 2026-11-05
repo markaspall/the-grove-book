@@ -26,7 +26,7 @@ jobs:
       - name: Build
         run: ./mdbook build
       - name: Share tags
-        run: python3 tools/social.py
+        run: python3 tools/social.py && python3 tools/redirects.py
       - uses: actions/upload-pages-artifact@v3
         with:
           path: book
