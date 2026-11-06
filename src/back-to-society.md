@@ -1,4 +1,4 @@
-# Chapter 28. Back to society
+# Chapter 29. Back to society
 
 *A working draft, November 2026. This book is being written while The Grove is being built; expect it to change. Checked against the build as it stood on 1 November 2026.*
 
@@ -91,6 +91,8 @@ The starter packs already sketch a near version: a community on its own land, a 
 And organisations on The Grove grow the way living things do. A branch that has outgrown itself divides; a new organisation can be born from an old one carrying the whole pattern with it, as Chapter 24 described. Groves seed groves. A bakery seeds a kitchen, the kitchen a school, the school a clinic nobody rules. The long ambition is that much of what large institutions do today could be done by networks of small, self-owned organisations, each holding the full pattern, with no throne for anyone to seize.
 
 A network like that could also do something no society has been able to do: tell us how it's doing. If each organisation can sense itself, as Chapter 21 describes, the network of them can be read the same way, without collecting anyone's records, and the read back from society that Chapter 2 hoped for begins to exist. We're building towards the first step of that, not the last.
+
+How a network might actually get there, starting with no capital and no land, keeping what it builds from being sold, and needing a little less outside money each year, is sketched as a strawman in Chapter 27.
 
 None of this needs a revolution. Nobody has to tear the tower down. People build around it, and over time the tower matters less. We aren't protesting. We're outgrowing.
 

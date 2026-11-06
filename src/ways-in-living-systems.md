@@ -51,5 +51,5 @@ How far a rehearsal on simulated people travels to real ones is unknown. Some of
 6. [Chapter 21, A sense of itself](a-sense-of-itself.md). What we're building towards: an organisation that can feel its own insides, open to everyone, acting only through people.
 7. [Chapter 14, Vision as hypothesis](vision-as-hypothesis.md). Vision as bets, tested by small, aimed probes.
 8. [Chapter 24, Birth, division and death](birth-division-and-death.md). How organisations and their branches begin, divide and end.
-9. [Chapter 27, Rehearsing the future](rehearsing-the-future.md). Growing organisations by simulation before a change is lived.
-10. [Chapter 28, Back to society](back-to-society.md). A society whose needs are met by many small, living organisations, owned by no one.
+9. [Chapter 28, Rehearsing the future](rehearsing-the-future.md). Growing organisations by simulation before a change is lived.
+10. [Chapter 29, Back to society](back-to-society.md). A society whose needs are met by many small, living organisations, owned by no one.

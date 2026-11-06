@@ -52,8 +52,9 @@ It walks through the whole design, one piece at a time, from the society we hope
 - [24. Birth, division and death](src/birth-division-and-death.md)
 - [25. Between organisations](src/between-organisations.md)
 - [26. DNA, the network, and why not open source](src/dna-the-network-and-open-source.md)
-- [27. Rehearsing the future](src/rehearsing-the-future.md)
-- [28. Back to society](src/back-to-society.md)
+- [27. Growing a sustainable network](src/growing-a-sustainable-network.md)
+- [28. Rehearsing the future](src/rehearsing-the-future.md)
+- [29. Back to society](src/back-to-society.md)
 - [The parts and what they do](src/appendix-the-parts-and-what-they-do.md)
 - [The shelf behind this book](src/appendix-the-shelf.md)
 

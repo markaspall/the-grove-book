@@ -108,7 +108,7 @@ The book runs in six parts.
 
 **Part four** is about an organisation that can see itself: how it reads its own state, how it holds the whole without a centre, the sense of itself we're building towards, the role of AI, and what it remembers.
 
-**Part five** goes beyond one organisation: how they're born, divide and end; how they work together; and how the system itself is kept out of anyone's grip.
+**Part five** goes beyond one organisation: how they're born, divide and end; how they work together; how the system itself is kept out of anyone's grip; and a strawman for how a network might grow towards needing less of the outside world.
 
 **Part six** comes back to where we started: how we test all this before people live it, and what might become possible if it works.
 

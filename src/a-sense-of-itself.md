@@ -76,7 +76,7 @@ Every part of the stance is a design decision, and each has a reason.
 
 **Where it hasn't been, it goes quiet.** When an organisation goes somewhere the model hasn't seen, it says it doesn't know and defers to the people. That's exactly where self-managing organisations invent, and the last thing they need there is a machine's guess dressed as knowledge.
 
-**Consequence, not verdict.** For a proposal it shows what would follow, never a score that sways consent. That fits Chapter 11, where there's no override, and Chapter 27, where simulation is for rehearsing, not foretelling.
+**Consequence, not verdict.** For a proposal it shows what would follow, never a score that sways consent. That fits Chapter 11, where there's no override, and Chapter 28, where simulation is for rehearsing, not foretelling.
 
 **Shape, never a judgement of a person.** It can name what's already public, who holds which seats, where the budget sits, and point at gaps in how things are checked, like money resting on one person's word. It never says what someone intends. It never moves anyone's reputation. A suspicion goes to people, through the trust and conflict process in Chapter 12, with the person present.
 

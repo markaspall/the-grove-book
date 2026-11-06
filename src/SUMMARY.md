@@ -50,11 +50,12 @@
 - [24. Birth, division and death](birth-division-and-death.md)
 - [25. Between organisations](between-organisations.md)
 - [26. DNA, the network, and why not open source](dna-the-network-and-open-source.md)
+- [27. Growing a sustainable network](growing-a-sustainable-network.md)
 
 # Part six. Return
 
-- [27. Rehearsing the future](rehearsing-the-future.md)
-- [28. Back to society](back-to-society.md)
+- [28. Rehearsing the future](rehearsing-the-future.md)
+- [29. Back to society](back-to-society.md)
 
 ---
 
