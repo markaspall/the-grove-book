@@ -58,17 +58,21 @@ The more needs the network meets within, the fewer levers the outside world hold
 
 ## Starting with nothing
 
-At birth, someone holds the capital, the title, the keys and the direction. That's the founding paradox: the thing meant to be ownerless starts out owned.
+At birth, someone holds the title, the keys and the signatures. That's the founding paradox: the thing meant to be ownerless starts out owned, or at least held in a few people's names.
 
-Inside an organisation on The Grove, part of this is already handled. The founder holds no last word, and the guardrails in Chapter 6 bite the moment a second person takes a seat. What the system can't reach is what sits outside it: the loan signed in one person's name, the land registered to them, the bank mandate with their signature on it. Those need a handover of their own.
+The person who starts it isn't necessarily the one with the money. More often a founder brings the energy: the idea, the first gathering, the will to keep going. The money can come from many places, outside and in. A bank or an ethical lender. Many small loans from supporters who believe in it, which is how many housing projects in Germany's Mietshäuser Syndikat, which comes up again below, are funded.[^1] Community shares, where in the UK a co-operative or community benefit society can raise money from many people while each member still has one vote. And members lending their own savings to the place they live in.
 
-So the strawman is soft first, hard late. The real value of a young community is the people in it and what they know, not its buildings. The first thing to grow is knowledge: a school, online, teaching what the community is learning to do. Knowledge costs almost nothing to copy, which makes it the first place costs fall towards zero, and the first source of outside income. Hard assets come later, once there's a collective able to hold them, and the founder's personal hold on them passes to the organisation as its capacity to hold them grows.
+Whoever lends, the same rule holds as everywhere on The Grove: money can fund the work but never buys a say. A loan is repaid, with interest if that's agreed. It never comes with a vote.
 
-What's open is what triggers the handover. A milestone tied to the organisation's capacity seems right. Leaving it to the founder's own choice seems like founder's syndrome with extra steps.
+Inside an organisation on The Grove, part of this is already handled. The founder holds no last word, and the guardrails in Chapter 6 bite the moment a second person takes a seat. What the system can't reach is what sits outside it: a loan signed in one person's name, land registered to a few early members, a bank mandate with one signature on it. Those need a handover of their own.
+
+So the strawman is soft first, hard late. The real value of a young community is the people in it and what they know, not its buildings. The first thing to grow is knowledge: a school, online, teaching what the community is learning to do. Knowledge costs almost nothing to copy, which makes it the first place costs fall towards zero, and the first source of outside income. Hard assets come later, once there's a collective able to hold them, and whatever is held in one or a few people's names passes to the organisation as its capacity to hold it grows.
+
+What's open is what triggers the handover. A milestone tied to the organisation's capacity seems right. Leaving it to the choice of whoever holds them seems like founder's syndrome with extra steps.
 
 ## Land and buildings
 
-Land and housing need capital the community doesn't have. The strawman: borrow, and let the outside world pay the loan. Build housing, rooms and space for courses, and let some of it to people outside the network. Outside rent services the debt. Members' own rent, where there is any, builds equity in their own commons rather than a landlord's. Schools and courses work the same way: the outside world pays to learn, and that money flows into the build.
+Land and housing need more money than a young community has. The strawman: borrow, from whoever will lend on fair terms, and let the outside world pay the loan. Build housing, rooms and space for courses, and let some of it to people outside the network. Outside rent services the debt. Members' own rent, where there is any, builds equity in their own commons rather than a landlord's. Schools and courses work the same way: the outside world pays to learn, and that money flows into the build.
 
 The open question is how much of each site faces outward. Too little and the debt never clears. Too much and you've built a hotel with a community attached.
 
@@ -76,11 +80,11 @@ The open question is how much of each site faces outward. Too little and the deb
 
 Once the first loan is paid, outside rent becomes surplus. The strawman is a revolving fund that lends to the next site, which repays from its own outside rent, which funds the site after that. The fund isn't the network. It's an organisation like any other, with its own purpose, lending into the commons, its own legal form and its own members.
 
-There's a working precedent. The Mietshäuser Syndikat in Germany has used a version of this since the early 1990s: established housing projects pay a solidarity contribution that helps new ones start.[^1] Whether the fund charges interest, how it chooses between sites, and whether sites can choose their fund are all open.
+There's a working precedent. The Mietshäuser Syndikat in Germany has used a version of this since the early 1990s: established housing projects pay a solidarity contribution that helps new ones start.[^2] Whether the fund charges interest, how it chooses between sites, and whether sites can choose their fund are all open.
 
 ## Keeping it in the commons
 
-A site that has paid off its debt holds a valuable asset. One generation can vote to sell it, split the proceeds and walk away. Many kibbutzim faced exactly that pressure.[^2]
+A site that has paid off its debt holds a valuable asset. One generation can vote to sell it, split the proceeds and walk away. Many kibbutzim faced exactly that pressure.[^3]
 
 The strawman borrows the Syndikat's answer: a lock-share. Each site is its own organisation with its own legal form, owned by its residents. The fund that lent to it holds one further share, with a single power: a veto on selling the asset or turning it into private property. Day to day, the residents decide everything. The lock only bites at the moment someone tries to cash out.
 
@@ -96,7 +100,7 @@ So the strawman keeps the network's balance sheet thin. It holds agreements and 
 
 Outside money is the outside world's lever. How would organisations in the network trade with each other without it?
 
-The cleanest form we know is mutual credit. When one organisation supplies another, the supplier's balance goes up and the buyer's goes down by the same amount. The balances always sum to zero, nobody issues them, and there's nothing to buy or speculate on. It isn't a token in the crypto sense, and it fits The Grove's rule that nobody needs to hold one. Switzerland's WIR has run this way between businesses since 1934, and Sardex in Sardinia is a newer example.[^3] Outside money would be used only where something crosses the membrane. Credit limits, and how an organisation that leaves settles its balance, are open.
+The cleanest form we know is mutual credit. When one organisation supplies another, the supplier's balance goes up and the buyer's goes down by the same amount. The balances always sum to zero, nobody issues them, and there's nothing to buy or speculate on. It isn't a token in the crypto sense, and it fits The Grove's rule that nobody needs to hold one. Switzerland's WIR has run this way between businesses since 1934, and Sardex in Sardinia is a newer example.[^4] Outside money would be used only where something crosses the membrane. Credit limits, and how an organisation that leaves settles its balance, are open.
 
 ## The state doesn't stop at the membrane
 
@@ -111,7 +115,7 @@ If pricing everything creates tax, share instead. But a community still needs to
 Something becomes a trade when there's a quid pro quo: I give you this because you give me that, at an agreed value, with a balance someone can call in. Take those away and what's left is a record. So the strawman is a commons log with six rules:
 
 - **Record flows, not balances.** "Six hours to the kitchen." "Used the workshop on Tuesday." Nobody owes anybody.
-- **Contribute to the whole, never to each other.** Twin Oaks in Virginia has worked like this since 1967: members give labour hours to the community, and the community provides housing, food and care. No member pays another.[^4]
+- **Contribute to the whole, never to each other.** Twin Oaks in Virginia has worked like this since 1967: members give labour hours to the community, and the community provides housing, food and care. No member pays another.[^5]
 - **Access comes from membership, not points.** The moment using something needs enough credits, the credits are money.
 - **Nothing can be passed on or cashed in.** You can't give records away, sell them or cash them out. They're recognition, not currency.
 - **Many kinds, not one unit.** Care, building, teaching and land work stay separate. Collapse them into one number and you've reinvented a price.
@@ -121,7 +125,7 @@ The split that falls out is clean. Mutual credit between organisations, where pr
 
 Here the idea runs into two of our own rules, and we'd rather say so than smooth it over. The first: no points, counts or streaks about people. A log of how many hours each person gave is exactly that, however kindly it's meant. The second: trust and money are kept apart, as Chapter 17 described, and a log of contribution could easily start to weigh in decisions. One way through, which we haven't tested: each person sees their own record; the organisation sees only what flows to each branch and to the whole, never a ranking of people; nothing in the log ever touches trust; and a conversation about balance starts from a person, never from a reading. Whether that's enough to keep a log of hours from becoming a scoreboard is a real question.
 
-And there's the tax authority again. Tax authorities judge substance, not ledger design. If the pattern is "work thirty hours, get a home and food", they may still call it employment with benefits in kind. The real defence is the community's legal form. In the UK, a mutual trading with its own members is generally not taxed on the surplus from that trading, and housing co-operatives owned wholly by their tenants sit outside much of ordinary landlord law.[^5] The US has a specific status for income-sharing communities, which Twin Oaks uses. This may be the hardest problem in the chapter.
+And there's the tax authority again. Tax authorities judge substance, not ledger design. If the pattern is "work thirty hours, get a home and food", they may still call it employment with benefits in kind. The real defence is the community's legal form. In the UK, a mutual trading with its own members is generally not taxed on the surplus from that trading, and housing co-operatives owned wholly by their tenants sit outside much of ordinary landlord law.[^6] The US has a specific status for income-sharing communities, which Twin Oaks uses. This may be the hardest problem in the chapter.
 
 ## When the outward business eats the organism
 
@@ -163,7 +167,7 @@ Pulled together, the strawman runs in six steps.
 
 ## How we're thinking about it
 
-We started from the failures, not the dream. Each part of the strawman answers a known way these attempts end: the founder's personal hold on assets, the generation that sells, the single body that can be sued or seized, the tax bill on a life that was priced, the side business that swallows the community. Where someone has already solved a piece, the Syndikat, WIR, Twin Oaks, we've borrowed rather than invented.
+We started from the failures, not the dream. Each part of the strawman answers a known way these attempts end: assets held in a few people's names, the generation that sells, the single body that can be sued or seized, the tax bill on a life that was priced, the side business that swallows the community. Where someone has already solved a piece, the Syndikat, WIR, Twin Oaks, we've borrowed rather than invented.
 
 We kept the network thin and the organisations thick because that's how The Grove already works. The organisation is where people decide and where assets sit. The network holds agreements and the shared code, as Chapter 26 described, and a network that held more would become the centre we've designed out everywhere else.
 
@@ -171,7 +175,7 @@ And we've written it down before building any of it because the mistakes here ar
 
 ## What we don't know
 
-What triggers a founder's handover of the assets held in their name. Where the lock-share should sit, and how a site that genuinely needs to sell can do so. What a healthy outward share looks like over a site's life. Whether a commons log can stay a record without becoming a scoreboard, and whether it survives a determined tax authority in each country. How several funds coordinate without becoming a centre. What happens to people who leave after years of contributing, and to people who grow old inside: what they take with them, and who cares for them. And what, if anything, the network itself should hold.
+What triggers the handover of assets held in one or a few people's names. Where the lock-share should sit, and how a site that genuinely needs to sell can do so. What a healthy outward share looks like over a site's life. Whether a commons log can stay a record without becoming a scoreboard, and whether it survives a determined tax authority in each country. How several funds coordinate without becoming a centre. What happens to people who leave after years of contributing, and to people who grow old inside: what they take with them, and who cares for them. And what, if anything, the network itself should hold.
 
 ## What you might take from this
 
@@ -183,8 +187,9 @@ Meet the essentials within. Lock the commons. Price as little as you can.
 
 ## Notes and further reading
 
-[^1]: Mietshäuser Syndikat, founded in Freiburg in the early 1990s. Each house project is a company owned jointly by the residents' association and the Syndikat; the Syndikat's share carries a veto on sale. Solidarity contributions from established projects help fund new ones.
-[^2]: The kibbutz movement in Israel. Many kibbutzim were badly hurt by the debt crisis of the mid-1980s, and most have since moved away from full income-sharing towards differential pay and private ownership of homes.
-[^3]: WIR Bank, Switzerland, founded 1934: mutual credit between businesses, still operating. Sardex, Sardinia, founded in 2009 on a similar model. WIR transactions remain subject to Swiss VAT and income tax.
-[^4]: Twin Oaks Community, Virginia, founded 1967: an income-sharing community where members meet a labour quota and the community provides for their needs. It holds US 501(d) status, which exists for religious or apostolic communal associations.
-[^5]: The mutual trading principle, recognised by HMRC: surplus from a mutual's trading with its own members is generally not taxable profit. Tenancies granted by fully mutual housing co-operatives are excluded from the assured tenancy regime under the Housing Act 1988. How either applies to a particular community is a question for a tax or legal adviser.
+[^1]: Mietshäuser Syndikat projects are usually funded partly by many small direct loans (Direktkredite) from supporters, alongside bank loans. In the UK, community shares are withdrawable shares in co-operatives and community benefit societies, with one member, one vote.
+[^2]: Mietshäuser Syndikat, founded in Freiburg in the early 1990s. Each house project is a company owned jointly by the residents' association and the Syndikat; the Syndikat's share carries a veto on sale. Solidarity contributions from established projects help fund new ones.
+[^3]: The kibbutz movement in Israel. Many kibbutzim were badly hurt by the debt crisis of the mid-1980s, and most have since moved away from full income-sharing towards differential pay and private ownership of homes.
+[^4]: WIR Bank, Switzerland, founded 1934: mutual credit between businesses, still operating. Sardex, Sardinia, founded in 2009 on a similar model. WIR transactions remain subject to Swiss VAT and income tax.
+[^5]: Twin Oaks Community, Virginia, founded 1967: an income-sharing community where members meet a labour quota and the community provides for their needs. It holds US 501(d) status, which exists for religious or apostolic communal associations.
+[^6]: The mutual trading principle, recognised by HMRC: surplus from a mutual's trading with its own members is generally not taxable profit. Tenancies granted by fully mutual housing co-operatives are excluded from the assured tenancy regime under the Housing Act 1988. How either applies to a particular community is a question for a tax or legal adviser.
