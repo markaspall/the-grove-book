@@ -12,7 +12,7 @@ This page is a reference to every named part of the system the book describes, s
 
 **Organisation.** A living pattern of people and work re-forming around a purpose, with many boundaries, not one wall. (Chapter 5)
 
-**Root.** The first branch, held by the founder at the start, holding the purpose and anything that hasn't found a home. In decisions it's one seat among its children; in structure it's where homeless work rests and unanswered tensions end. (Chapters 7 and 20)
+**Root.** The first branch: stewardship of the whole, holding the purpose and anything that hasn't found a home. Held at first by whoever planted the organisation, because someone has to, and passed on when they step down; it's never left with nobody in it. It needn't be a founder's place. In decisions it's one seat among its children; in structure it's where homeless work rests and unanswered tensions end. (Chapters 7 and 20)
 
 **Branch.** A part of the organisation shaped around a piece of work, never a person. It holds a purpose, accountabilities, domains and practices, and can hold smaller branches. (Chapter 9)
 
