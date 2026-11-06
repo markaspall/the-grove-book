@@ -114,7 +114,7 @@ If pricing everything creates tax, share instead. But a community still needs to
 
 Something becomes a trade when there's a quid pro quo: I give you this because you give me that, at an agreed value, with a balance someone can call in. Take those away and what's left is a record. So the strawman is a commons log with six rules:
 
-- **Record flows, not balances.** "Six hours to the kitchen." "Used the workshop on Tuesday." Nobody owes anybody.
+- **Record what flows, not debts between people.** "Six hours to the kitchen." "Used the workshop on Tuesday." Nobody owes anybody else.
 - **Contribute to the whole, never to each other.** Twin Oaks in Virginia has worked like this since 1967: members give labour hours to the community, and the community provides housing, food and care. No member pays another.[^5]
 - **Access comes from membership, not points.** The moment using something needs enough credits, the credits are money.
 - **Nothing can be passed on or cashed in.** You can't give records away, sell them or cash them out. They're recognition, not currency.
@@ -123,7 +123,11 @@ Something becomes a trade when there's a quid pro quo: I give you this because y
 
 The split that falls out is clean. Mutual credit between organisations, where prices help. The commons log for life within one, where they don't.
 
-Here the idea runs into two of our own rules, and we'd rather say so than smooth it over. The first: no points, counts or streaks about people. A log of how many hours each person gave is exactly that, however kindly it's meant. The second: trust and money are kept apart, as Chapter 17 described, and a log of contribution could easily start to weigh in decisions. One way through, which we haven't tested: each person sees their own record; the organisation sees only what flows to each branch and to the whole, never a ranking of people; nothing in the log ever touches trust; and a conversation about balance starts from a person, never from a reading. Whether that's enough to keep a log of hours from becoming a scoreboard is a real question.
+There's a harder part. A commons only works if contribution is fair. The work gets done on branches, and branches need people's hours, but that tells you nothing about whether each person is giving their share in return for what they receive. Without a way to see that, a few people end up carrying everyone, others quietly take more than they give, and resentment does the rest. It's a downward spiral, and it has ended more communities than money has. So there would have to be a balance for each person: their hours set against the share they agreed to give.
+
+That runs straight into one of our own rules: no points, counts or streaks about people. We'd rather say so than smooth it over. The way we'd hold the two together is the way The Grove already treats promises. Each member makes a promise to the commons, a share of hours in return for a home, food and care, and the record is of that promise being kept, firm on the promise and gentle on the person. Each person sees their own balance. Nobody is ranked, nothing is published as a league table, and nobody is compared with anyone else. When someone falls short for a sustained stretch, or gives far beyond their share until they're running dry, that starts a conversation with the people they share a home and work with, the way an at-risk promise does. And the balance never touches trust, the weight a person carries in decisions, which Chapter 17 keeps apart from money for the same reason.
+
+Whether that's enough to keep a balance of hours from becoming a scoreboard, we don't know. It's the line we'd watch most closely.
 
 And there's the tax authority again. Tax authorities judge substance, not ledger design. If the pattern is "work thirty hours, get a home and food", they may still call it employment with benefits in kind. The real defence is the community's legal form. In the UK, a mutual trading with its own members is generally not taxed on the surplus from that trading, and housing co-operatives owned wholly by their tenants sit outside much of ordinary landlord law.[^6] The US has a specific status for income-sharing communities, which Twin Oaks uses. This may be the hardest problem in the chapter.
 
