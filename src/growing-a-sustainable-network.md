@@ -10,6 +10,7 @@
 **In this chapter**
 
 - Why attempts to build outside the money system tend to be owned, sold or closed
+- Why the picture isn't a commune doing without, but a world better than ours: beauty, cities, technology
 - What "sustainable" could mean for a network of organisations: three loops to close, and a test of what it could lose without collapsing
 - How a first site might be funded with nothing, how surplus could seed the next, and how assets might stay in the commons
 - Why the state's reach doesn't stop at the network's membrane, and why that argues for sharing rather than pricing
@@ -26,6 +27,16 @@ That's the doubt, and history gives it plenty of support. Communes have been bou
 Chapter 29 pictures a society whose needs are met by many small organisations, owned by no one. Suppose a network of organisations on The Grove took that on as a shared purpose. Not a commune that drops out, but a growing web of self-managed organisations that together provide for people's needs, and that become steadily less dependent on the world outside.
 
 How would it start, with no capital and no land? How would it keep what it builds from being sold? How far could it move away from outside money, and where would it stop?
+
+## Not a step back
+
+When people hear this kind of thing, many picture a commune: a few dozen people in basic housing, growing vegetables and doing without. That isn't the picture.
+
+The picture is beauty. Homes and buildings worth living in. Neighbourhoods, towns, and in time cities. The best of what technology can do, put to work for the people who live with it rather than for whoever owns it. Needing less outside money isn't the same as having less. A great deal of what makes ordinary life expensive today is rent paid to owners, interest paid to lenders and margins taken somewhere far away. Take those out, and the same effort goes much further.
+
+So the aim isn't a smaller life, or a purer one. It's a better one: a world better than ours, not a compromise with it.
+
+> *I don't see people doing without. I see beauty: places people are proud of, cities even, full of craft and technology, built by people who own what they build together. Not a retreat from the world we have, but something better than it.*
 
 What such a society would contain is for the people in it to work out. This chapter is about the frame: the mechanics that might let it begin and keep growing without being captured.
 
@@ -164,7 +175,7 @@ What triggers a founder's handover of the assets held in their name. Where the l
 
 ## What you might take from this
 
-The money part is rarely what breaks these attempts. It's ownership at the start, a sale at the end, the tax on a life that was priced, and people who burn out in between. A network that grows soft things before hard ones, locks its assets against being cashed out, keeps its centre thin, shares where it can and prices only where it must might need a little less of the outside world every year. None of that is proven. It's a place to start arguing.
+The money part is rarely what breaks these attempts. It's ownership at the start, a sale at the end, the tax on a life that was priced, and people who burn out in between. A network that grows soft things before hard ones, locks its assets against being cashed out, keeps its centre thin, shares where it can and prices only where it must might need a little less of the outside world every year. None of that is proven. It's a place to start arguing. And what it's for isn't less. It's more: a world worth living in, owned by the people who live in it.
 
 Meet the essentials within. Lock the commons. Price as little as you can.
 
