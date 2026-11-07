@@ -25,6 +25,7 @@ It walks through the whole design, one piece at a time, from the society we hope
 
 - [Before we begin](src/before-we-begin.md)
 - Ways in: [agentic AI](src/ways-in-agentic-ai.md), [self-management](src/ways-in-self-management.md), [DAOs and Web3](src/ways-in-daos.md), [living systems](src/ways-in-living-systems.md)
+- [Measured against the P2P Foundation](src/measured-against-the-p2p-foundation.md)
 - [1. A society of sovereigns](src/a-society-of-sovereigns.md)
 - [2. The mirror we don't look into](src/the-mirror-we-dont-look-into.md)
 - [3. The legacy we're living](src/the-legacy-were-living.md)

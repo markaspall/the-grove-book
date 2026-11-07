@@ -19,6 +19,8 @@ def pages():
         num = re.match(r"^(\d+)\. (.+)$", title)
         if num:
             eyebrow, heading = "Chapter " + num.group(1), num.group(2)
+        elif part == "Measured against":
+            eyebrow, heading = "Measured against", title
         elif slug.startswith("ways-in"):
             eyebrow, heading = "A way in", title
         elif title.startswith("Interlude. "):

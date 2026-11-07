@@ -9,6 +9,10 @@
 - [If you're into DAOs and Web3](ways-in-daos.md)
 - [If you're into living systems](ways-in-living-systems.md)
 
+# Measured against
+
+- [Measured against the P2P Foundation](measured-against-the-p2p-foundation.md)
+
 # Part one. The world we're in
 
 - [1. A society of sovereigns](a-society-of-sovereigns.md)

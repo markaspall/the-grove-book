@@ -123,6 +123,10 @@ Not everyone arrives from the same place, and the book doesn't have to be read i
 - [If you're into DAOs and Web3](ways-in-daos.md): every organisation a DAO from day one, with no tokens or gas, and a say that money can't buy.
 - [If you're into living systems](ways-in-living-systems.md): an organisation that senses, steadies, repairs and learns, and holds the whole without a centre.
 
+## Measured against others
+
+We also hold the design up against the work of networks whose ideas we respect, and set out where we think it lines up, where it takes a different road, and where we might be wrong. The first is [Measured against the P2P Foundation](measured-against-the-p2p-foundation.md). More will follow.
+
 ## Two kinds of language
 
 People who think about organisations for a living have their own vocabulary: words like holarchy, stigmergy, consent, viable systems. They're useful words. They name things that otherwise take a paragraph to describe. But they can also make a book feel like a closed room.
