@@ -26,6 +26,7 @@ Some of the books behind this book are in the notes to each chapter. Others shap
 - **Bohm, D. (1996), *On Dialogue*, Routledge,** and **Isaacs, W. (1999), *Dialogue and the Art of Thinking Together*, Currency.** A group thinking together before anyone decides. Chapters 10 and 11.
 - **Capra, F. (1996), *The Web of Life*, Anchor Books,** and **(2002), *The Hidden Connections*, HarperCollins.** Life, and organisations, as networks rather than machines. Chapter 5.
 - **de Geus, A. (1997), *The Living Company*, Harvard Business School Press.** Why a few companies live for centuries. Chapters 5 and 24.
+- **Beer, S. (1972), *Brain of the Firm*, Allen Lane,** and **(1979), *The Heart of Enterprise*, John Wiley.** The viable system model: what any organisation needs inside it to stay alive, worked out from how living systems do it, and an alarm that lets pain reach the top without climbing every layer. Chapter 20 leans on it, and parts from it where it needs a centre.
 
 ## Nature, self-organisation and software
 
