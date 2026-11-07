@@ -72,7 +72,7 @@ The Consortium certifies nothing, so this isn't a compliance check. It's our own
 
 **How we think it lines up.** Closely on the cut: there's no platform owner taking one. Less closely on the platform itself. Each organisation owns its records and its members run it, but the operating system they run is looked after by the Steward, and its code is sealed.
 
-**Where we might be wrong.** Owning your records while someone else holds the code may be a kind of half-ownership, the very thing this movement warns about. The Steward will be an organisation like any other, governed by its own members, but those members aren't the organisations that depend on it. A margin is a risk, and a paid guard can grow fond of being paid. And for now, one person holds the keys.
+**Where we might be wrong.** Every organisation carries its own copy of the code, freely, and can take it with it, but it can't read or change that code until it forms a network of its own. Until then, it runs rules it can't inspect, and that may feel like a kind of half-ownership, the very thing this movement warns about. The Steward will be an organisation like any other, governed by its own members, but those members aren't the organisations that depend on it. A margin is a risk, and a paid guard can grow fond of being paid.
 
 ## 2. Co-determined work
 
@@ -172,7 +172,7 @@ We chose this because the usual ways cost too much: an assistant in every tool a
 
 | The idea | How we think it lines up |
 |---|---|
-| Ownership | Closely on the cut: the Steward takes nothing from what passes between organisations. Organisations own their records; the code is the Steward's, and sealed. |
+| Ownership | Closely on the cut: the Steward takes nothing from what passes between organisations. Organisations own their records and carry their own copy of the code, free but sealed until they form a network of their own. |
 | Co-determined work | Strongly over an organisation's own shape and playbooks. Partly over the software: an organisation can raise a tension and, from go-live, refuse a release, not write the code. |
 | Decent pay and income security | In shape: pay set by those who share it, and a floor. Nothing guarantees a living, and nothing is portable. |
 | Transparency and data portability | Open books inside; outside, as open as each organisation chooses. Portable for organisations, not yet for people. |
@@ -184,7 +184,7 @@ We chose this because the usual ways cost too much: an assistant in every tool a
 
 None of this is a platform co-op, and we don't claim it is. These are the choices we're least sure of. We'd rather you pushed on our reasoning than took our word for it.
 
-1. **Records owned, code sealed.** We sealed the code to protect its guardrails from capture. Organisations own what they make, but not the system they make it in, and that may be the half-ownership this movement has spent a decade arguing against.
+1. **Records owned, code sealed.** We sealed the code to protect its guardrails from capture. Organisations own what they make and carry the system with them for free, but they can't read or change it until they form a network of their own. Running rules you can't inspect may be the half-ownership this movement has spent a decade arguing against.
 2. **Seats, not one member, one vote.** We chose decisions by consent among those seated, weighted by the trust their peers give them, so that the people closest to the work decide. A co-op's members may want an equal vote, and our way may leave them with too little of one.
 3. **Pay left to each organisation.** We kept the operating system out of setting pay so that it could never become the owner by another name. The floor starts at nothing, and nothing here makes anyone's living secure.
 4. **Portability for organisations, not people.** An organisation can leave with everything. A person leaving takes nothing with them, and we don't know what they ought to.
