@@ -50,7 +50,7 @@ That's where these older systems also teach us what to avoid. PageRank produces 
 
 ## Trust as governance weight
 
-In an organisation on The Grove, trust has a narrow, specific meaning. It's governance weight: how much say someone carries in decisions in a particular forum, on a particular kind of matter. A forum is where a branch of the organisation makes its decisions, as Chapter 9 described. A kind of matter is a category: finance, say, or care.
+In an organisation on The Grove, trust has a narrow, specific meaning. It's governance weight: how much say someone carries in decisions in a particular forum, on a particular kind of matter. A forum is where decisions are made, as Chapter 9 described: a branch is governed in the forum of its parent's and its siblings' stewards, where its own steward takes part as a person. A kind of matter is a category: finance, say, or care.
 
 So nobody has trust in general. They have trust in this forum, on this kind of thing.
 
