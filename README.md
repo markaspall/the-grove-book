@@ -25,10 +25,6 @@ It walks through the whole design, one piece at a time, from the society we hope
 
 - [Before we begin](src/before-we-begin.md)
 - Ways in: [agentic AI](src/ways-in-agentic-ai.md), [self-management](src/ways-in-self-management.md), [DAOs and Web3](src/ways-in-daos.md), [living systems](src/ways-in-living-systems.md)
-- [Measured against the P2P Foundation](src/measured-against-the-p2p-foundation.md)
-- [Measured against Enspiral](src/measured-against-enspiral.md)
-- [Measured against Sensorica](src/measured-against-sensorica.md)
-- [Measured against the Platform Cooperativism Consortium](src/measured-against-the-platform-cooperativism-consortium.md)
 - [1. A society of sovereigns](src/a-society-of-sovereigns.md)
 - [2. The mirror we don't look into](src/the-mirror-we-dont-look-into.md)
 - [3. The legacy we're living](src/the-legacy-were-living.md)
@@ -59,6 +55,10 @@ It walks through the whole design, one piece at a time, from the society we hope
 - [27. Growing a sustainable network](src/growing-a-sustainable-network.md)
 - [28. Rehearsing the future](src/rehearsing-the-future.md)
 - [29. Back to society](src/back-to-society.md)
+- [Measured against the P2P Foundation](src/measured-against-the-p2p-foundation.md)
+- [Measured against Enspiral](src/measured-against-enspiral.md)
+- [Measured against Sensorica](src/measured-against-sensorica.md)
+- [Measured against the Platform Cooperativism Consortium](src/measured-against-the-platform-cooperativism-consortium.md)
 - [The parts and what they do](src/appendix-the-parts-and-what-they-do.md)
 - [The shelf behind this book](src/appendix-the-shelf.md)
 

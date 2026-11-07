@@ -125,7 +125,7 @@ Not everyone arrives from the same place, and the book doesn't have to be read i
 
 ## Measured against others
 
-We also hold the design up against the work of networks whose ideas we respect, and set out where we think it lines up, where it takes a different road, and where we might be wrong. So far: [the P2P Foundation](measured-against-the-p2p-foundation.md), [Enspiral](measured-against-enspiral.md), [Sensorica](measured-against-sensorica.md) and [the Platform Cooperativism Consortium](measured-against-the-platform-cooperativism-consortium.md). More will follow.
+We also hold the design up against the work of networks whose ideas we respect, and set out where we think it lines up, where it takes a different road, and where we might be wrong. These pages sit at the back of the book. So far: [the P2P Foundation](measured-against-the-p2p-foundation.md), [Enspiral](measured-against-enspiral.md), [Sensorica](measured-against-sensorica.md) and [the Platform Cooperativism Consortium](measured-against-the-platform-cooperativism-consortium.md). More will follow.
 
 ## Two kinds of language
 

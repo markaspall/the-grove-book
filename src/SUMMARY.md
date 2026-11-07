@@ -9,13 +9,6 @@
 - [If you're into DAOs and Web3](ways-in-daos.md)
 - [If you're into living systems](ways-in-living-systems.md)
 
-# Measured against
-
-- [Measured against the P2P Foundation](measured-against-the-p2p-foundation.md)
-- [Measured against Enspiral](measured-against-enspiral.md)
-- [Measured against Sensorica](measured-against-sensorica.md)
-- [Measured against the Platform Cooperativism Consortium](measured-against-the-platform-cooperativism-consortium.md)
-
 # Part one. The world we're in
 
 - [1. A society of sovereigns](a-society-of-sovereigns.md)
@@ -63,6 +56,13 @@
 
 - [28. Rehearsing the future](rehearsing-the-future.md)
 - [29. Back to society](back-to-society.md)
+
+# Measured against
+
+- [Measured against the P2P Foundation](measured-against-the-p2p-foundation.md)
+- [Measured against Enspiral](measured-against-enspiral.md)
+- [Measured against Sensorica](measured-against-sensorica.md)
+- [Measured against the Platform Cooperativism Consortium](measured-against-the-platform-cooperativism-consortium.md)
 
 ---
 
