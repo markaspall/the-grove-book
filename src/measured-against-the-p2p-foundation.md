@@ -32,7 +32,7 @@ Three things, and it helps to keep them apart.
 
 **The Grove** is the first such network. Today it's a test bench: simulated organisations, run by AI people, in one shared space we control, while the operating system is finished and tested. At go-live, each organisation becomes its own independent DAO, running its own copy, and the Steward becomes an organisation in its own right.
 
-One more word used below. Inside an organisation, decisions are made in **forums**. A branch is governed in one forum: the people who hold the seats of its parent and its sibling branches, with whoever holds the branch's own seat taking part as a person. Forums are made of people, not branches: someone holding several seats can sit in several forums, and counts once in any one of them. The root has no parent, so it's governed in the forum around the root itself. A forum with fewer than two distinct people passes its decisions on towards the root.
+One more word used below. Inside an organisation, decisions are made in **forums**. A branch is governed in one forum: the stewards of its parent and of its sibling branches, with the branch's own steward taking part as a person. The root has no parent, so it's governed by its own stewards and the stewards of the branches grown directly from it. Forums are made of people, not branches: someone holding several seats can sit in several forums, and counts once in any one of them. A forum with fewer than two distinct people passes its decisions on towards the root.
 
 We keep to the rule the rest of the book follows: *is* only for what's built, *building towards* for what's decided but not built, and *we don't know* for what's open.
 
