@@ -11,7 +11,7 @@
 - Why an organisation's DNA is its own data, and the code only the ground it grows in
 - How every organisation is designed to carry the operating system sealed, choose every change and leave with it
 - Why we said no to open source for now, and what that answer still leaves open
-- Why the guardrails are hard to remove from inside: tied to the mast, by choice, with leaving always real
+- Why the guardrails are hard to remove from inside: roped together, by choice, with leaving always real
 
 ---
 
@@ -85,7 +85,7 @@ There's one more reason, and it may be the deepest. People are elastic. An organ
 
 So we chose to make the guardrails hard to remove from inside. Not impossible: any organisation can leave, and organisations that have shown real commitment can form a network of their own, open the code, and change whatever they like. What they can't do is strip the guardrails out of The Grove while staying in it, or take The Grove down with them on the way out. Deviating is a choice, made in the open, with a cost. That's the whole of it.
 
-This is closer to Ulysses asking to be tied to the mast than to anyone being told what to do. Binding yourself, knowing what pressure will do to you, is a sovereign act, the kind Chapter 1 describes. An organisation that joins The Grove chooses to be held. That's also why leaving has to stay real: if it ever became too hard in practice, the mast would become a cage.
+This is closer to climbers roping up than to anyone being told what to do. Each chooses to tie in, knowing that on a hard day anyone can slip, and that the rope is what holds them when they do. Nobody ties anyone else in, and nobody stands above the rest holding the end. Binding yourself together, knowing what pressure can do, is a sovereign act, the kind Chapter 1 describes. And the rope is anchored as it goes, so one climber's fall doesn't pull the others off the face. That's also why leaving has to stay real: anyone can untie at a belay. If that ever became too hard in practice, the rope would become a leash.
 
 And it cuts both ways. If we're wrong, and an organisation or a group of them can do this better without the guardrails, they're free to go and show it. We'd want to learn from them.
 
