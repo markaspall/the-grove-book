@@ -39,7 +39,7 @@ The idea was right. The governance wasn't.
 
 ## What's still open
 
-Today The Grove is a test bench: simulated organisations in one shared space that we control. Independence, sealed copies of the system and the Steward organisation that looks after the code are decided for go-live and not yet built. The identity checks have no provider. And whether a new network that loosens a guardrail must ship under a different name is still to be settled.
+The Grove is still being built and tested, with simulated organisations. Independence, sealed copies of the system and the Steward organisation that looks after the code are decided for go-live and not yet built. The identity checks have no provider. And whether a new network that loosens a guardrail must ship under a different name is still to be settled.
 
 ## Where to start
 
