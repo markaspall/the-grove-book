@@ -36,7 +36,7 @@ This page is a reference to every named part of the system the book describes, s
 
 **DAO.** A decentralised autonomous organisation: one whose rules are carried out by code its people agreed. Every organisation on The Grove is one from its first day. Nobody holds tokens, pays fees to act or handles cryptocurrency; the only touch of the blockchain is signing in with Internet Identity. (Chapter 6)
 
-**Legal wrapper.** An optional legal form for the organisation itself, so that it can be a legal entity the law can see: a DAO company owned by its members, pointing at where the organisation decides, with a purpose lock beside it. The organisation decides; the wrapper only carries its decisions into the legal world. Not built yet. (Chapter 18)
+**Legal wrapper.** An optional legal form for the organisation itself, so that it can be a legal entity the law can see: a DAO company owned by the organisation, which its members govern, pointing at where the organisation decides, with a purpose lock beside it. The organisation decides; the wrapper only carries its decisions into the legal world. Not built yet. (Chapter 18)
 
 ## Deciding
 
