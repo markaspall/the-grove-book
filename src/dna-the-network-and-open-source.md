@@ -6,11 +6,12 @@
 
 **In this chapter**
 
-- Where things stand today: one shared space, and we hold the keys
+- Where the code stands today, and what's still to be built before The Grove goes live
 - What closed software and open source each cost an organisation trying to work without a boss
 - Why an organisation's DNA is its own data, and the code only the ground it grows in
 - How every organisation is designed to carry the system sealed, choose every change and leave with it
 - Why we said no to open source for now, and what that answer still leaves open
+- Why the guardrails are hard to remove from inside: tied to the mast, by choice, with leaving always real
 
 ---
 
@@ -79,6 +80,16 @@ Closed and rented was never on the table. It's the landlord we were trying not t
 Open source, now, was the strongest alternative, and we took its case seriously. Its best arguments are these. Guardrails nobody can read are guardrails you're asked to believe, and Chapter 6 made the point that a promise in words is weaker than one in structure. Openness invites contribution and catches flaws faster. And a project that keeps its code close while talking about freedom looks like every company that later changed its licence.
 
 We said no for now, for three reasons. The first is capture by money. An open kernel can be taken by anyone well funded, stripped of what makes it hard to boss people with, and offered under a similar name to organisations that can't tell the difference, while the Steward maintaining the real thing can't pay for its own work. The second is the safety of organisations' rules. The guardrails hold because no one inside an organisation can change them; a copy of the system that quietly drops one is a risk to every organisation that might run it without knowing. The third is the steward problem. Someone has to maintain the code, answer what organisations feel is missing and keep it secure, and Eghbal's tired maintainers are the warning. Open source doesn't remove that job. It only removes the way of paying for it.
+
+There's one more reason, and it may be the deepest. People are elastic. An organisation can mean every word of its commitment to working without a boss and still drift back to the old shape the first time it's tired, frightened or short of money. Holacracy, sociocracy and Teal organisations have all met this wall, and so have decades of change programmes that held while someone was watching and quietly gave way when they stopped. What the heart wants and what a stressed group does are often two different things.
+
+So we chose to make the guardrails hard to remove from inside. Not impossible: any organisation can leave, and organisations that have shown real commitment can form a network of their own, open the code, and change whatever they like. What they can't do is strip the guardrails out of The Grove while staying in it, or take The Grove down with them on the way out. Deviating is a choice, made in the open, with a cost. That's the whole of it.
+
+This is closer to Ulysses asking to be tied to the mast than to anyone being told what to do. Binding yourself, knowing what pressure will do to you, is a sovereign act, the kind Chapter 1 describes. An organisation that joins The Grove chooses to be held. That's also why leaving has to stay real: if it ever became too hard in practice, the mast would become a cage.
+
+And it cuts both ways. If we're wrong, and an organisation or a group of them can do this better without the guardrails, they're free to go and show it. We'd want to learn from them.
+
+> *I'm not trying to be anyone's parent, and I'm prepared to be wrong. If you think you can do better, form your own network and go ahead. I'd honestly like to see it. What I'm asking for is that this has a fair chance first. We've spent decades talking about changing how we work, and millions on change that didn't hold, while most people go on working to live rather than living, wearing a mask from nine to five. People I know who reached the very top tell me it's uglier up there than most of us would believe. I don't think I'm anyone's saviour. But I think some of us have to give this a real shot, and give it the conditions it needs to survive our own worst days.*
 
 We also tried, for a while, a middle answer: source available only to a legitimate fork, released on request. It failed on the obvious test. If the Steward itself went bad, the organisations would be asking it for the way out. That was the moment we saw that the design had a hold in it as well as a hole, and that the only fix was for every organisation to carry the way out from the start.
 
