@@ -12,6 +12,9 @@
 # Measured against
 
 - [Measured against the P2P Foundation](measured-against-the-p2p-foundation.md)
+- [Measured against Enspiral](measured-against-enspiral.md)
+- [Measured against Sensorica](measured-against-sensorica.md)
+- [Measured against the Platform Cooperativism Consortium](measured-against-the-platform-cooperativism-consortium.md)
 
 # Part one. The world we're in
 
