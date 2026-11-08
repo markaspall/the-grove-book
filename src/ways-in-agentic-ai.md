@@ -52,8 +52,8 @@ The numbers that govern standing, five approvals, one in ten checked, are first 
 5. [Interlude, One Tuesday](one-tuesday.md). A day in a small workshop, with an agent's draft waiting for a person.
 6. [Chapter 21, A sense of itself](a-sense-of-itself.md). Where it's heading: a small learned sense beneath the voice, which senses and never acts.
 7. [Chapter 23, Memory](memory.md). What the organisation keeps, what's sealed, and what an agent should never hold.
-8. [Chapter 28, Rehearsing the future](rehearsing-the-future.md). Organisations grown by simulation, with AI playing the people, before anyone lives the change.
-9. [Chapter 29, Back to society](back-to-society.md). What happens to people when AI carries the how, and why that may call them to hold the why.
+8. [Chapter 29, Rehearsing the future](rehearsing-the-future.md). Organisations grown by simulation, with AI playing the people, before anyone lives the change.
+9. [Chapter 30, Back to society](back-to-society.md). What happens to people when AI carries the how, and why that may call them to hold the why.
 
 ---
 

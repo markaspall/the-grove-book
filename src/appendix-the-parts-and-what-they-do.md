@@ -8,7 +8,7 @@ This page is a reference to every named part of the system the book describes, s
 
 ## The shape
 
-**The Grove.** The first network of organisations running on the system this book describes, which has no name of its own. Hence "organisations on The Grove". (Chapters 6 and 26)
+**The Grove.** The first network of organisations running on the system this book describes, which has no name of its own. Hence "organisations on The Grove". (Chapters 6 and 27)
 
 **Organisation.** A living pattern of people and work re-forming around a purpose, with many boundaries, not one wall. (Chapter 5)
 
@@ -54,7 +54,7 @@ This page is a reference to every named part of the system the book describes, s
 
 **Made.** The change is enacted; several changes in one proposal are made together or not at all. (Chapter 11)
 
-**Review, or look back.** Four weeks after a change by default, everyone who took part is asked whether it landed and whether to keep, change or stop it. A recommended change becomes work for the forum, never a proposal raised by the system. (Chapters 11 and 25)
+**Review, or look back.** Four weeks after a change by default, everyone who took part is asked whether it landed and whether to keep, change or stop it. A recommended change becomes work for the forum, never a proposal raised by the system. (Chapters 11 and 26)
 
 **Consent.** Not everyone saying yes, but nobody naming a harm that has to be answered first. (Chapter 11)
 
@@ -182,16 +182,16 @@ This page is a reference to every named part of the system the book describes, s
 
 ## Beyond one organisation
 
-**Network.** Organisations that recognise each other and share a steward for their code. When The Grove goes live, each organisation is its own DAO in its own space; as the code stands, they don't yet have one each. (Chapters 25 and 26)
+**Network.** Organisations that recognise each other and share a steward for their code. When The Grove goes live, each organisation is its own DAO in its own space; as the code stands, they don't yet have one each. (Chapters 26 and 27)
 
-**The Steward.** The organisation that looks after a network's code and ships releases, taking no fee on what passes between organisations. Distinct from a seat's steward. An organisation in its own right from the day The Grove goes live. (Chapters 25 and 26)
+**The Steward.** The organisation that looks after a network's code and ships releases, taking no fee on what passes between organisations. Distinct from a seat's steward. An organisation in its own right from the day The Grove goes live. (Chapters 26 and 27)
 
-**Kernel.** The smallest core of the code: the guardrails nobody inside an organisation can vote away. (Chapter 26)
+**Kernel.** The smallest core of the code: the guardrails nobody inside an organisation can vote away. (Chapter 27)
 
-**DNA.** What makes an organisation itself: purpose, branches, agreements, playbooks and decisions, written by its people and belonging to them. It's what runs on the operating system, the way programmes run on a computer. (Chapters 6 and 26)
+**DNA.** What makes an organisation itself: purpose, branches, agreements, playbooks and decisions, written by its people and belonging to them. It's what runs on the operating system, the way programmes run on a computer. (Chapters 6 and 27)
 
-**Agreement.** Two meanings. The organisation's agreement on how its people are here together, which members agree to on joining. And an agreement between organisations, for one to serve another's job, decided by a proposal on each side and looked back on every ninety days by default. (Chapters 10 and 25)
+**Agreement.** Two meanings. The organisation's agreement on how its people are here together, which members agree to on joining. And an agreement between organisations, for one to serve another's job, decided by a proposal on each side and looked back on every ninety days by default. (Chapters 10 and 26)
 
-**Service.** Something a branch offers other organisations, at its own price, by a proposal. (Chapter 25)
+**Service.** Something a branch offers other organisations, at its own price, by a proposal. (Chapter 26)
 
-**Need.** A branch's posting of what it's short of, for organisations to answer with a service. (Chapter 25)
+**Need.** A branch's posting of what it's short of, for organisations to answer with a service. (Chapter 26)

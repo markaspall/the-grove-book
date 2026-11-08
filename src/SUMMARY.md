@@ -48,14 +48,15 @@
 # Part five. Beyond one organisation
 
 - [24. Birth, division and death](birth-division-and-death.md)
-- [25. Between organisations](between-organisations.md)
-- [26. DNA, the network, and why not open source](dna-the-network-and-open-source.md)
-- [27. Growing a sustainable network](growing-a-sustainable-network.md)
+- [25. Dividing and joining](dividing-and-joining.md)
+- [26. Between organisations](between-organisations.md)
+- [27. DNA, the network, and why not open source](dna-the-network-and-open-source.md)
+- [28. Growing a sustainable network](growing-a-sustainable-network.md)
 
 # Part six. Return
 
-- [28. Rehearsing the future](rehearsing-the-future.md)
-- [29. Back to society](back-to-society.md)
+- [29. Rehearsing the future](rehearsing-the-future.md)
+- [30. Back to society](back-to-society.md)
 
 # Measured against
 

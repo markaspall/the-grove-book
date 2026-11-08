@@ -158,7 +158,7 @@ Sensorica has lived with its model for fifteen years and we've lived with ours o
 
 And if we've misread Sensorica's ideas anywhere on this page, please tell us. We'd rather be corrected than be generous to ourselves.
 
-If you'd like to go further, these chapters say more: [Chapter 9, The branch: cells, not jobs](the-branch.md), on branches and seats; [Chapter 10, Belonging without a seat](belonging-without-a-seat.md), on members, guests and joining; [Chapter 12, Trust](trust.md), on trust, reputation and why there's no global score; [Chapter 17, Money and value](money-and-value.md), on the commons, the floor and pay; [Chapter 25, Between organisations](between-organisations.md), on services and agreements; [Chapter 26, DNA, the network, and why not open source](dna-the-network-and-open-source.md), on the sealed code and the Steward; and [Chapter 27, Growing a sustainable network](growing-a-sustainable-network.md), the strawman for physical sites.
+If you'd like to go further, these chapters say more: [Chapter 9, The branch: cells, not jobs](the-branch.md), on branches and seats; [Chapter 10, Belonging without a seat](belonging-without-a-seat.md), on members, guests and joining; [Chapter 12, Trust](trust.md), on trust, reputation and why there's no global score; [Chapter 17, Money and value](money-and-value.md), on the commons, the floor and pay; [Chapter 26, Between organisations](between-organisations.md), on services and agreements; [Chapter 27, DNA, the network, and why not open source](dna-the-network-and-open-source.md), on the sealed code and the Steward; and [Chapter 28, Growing a sustainable network](growing-a-sustainable-network.md), the strawman for physical sites.
 
 ---
 

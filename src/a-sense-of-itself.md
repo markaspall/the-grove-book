@@ -76,13 +76,13 @@ Every part of the stance is a design decision, and each has a reason.
 
 **Where it hasn't been, it goes quiet.** When an organisation goes somewhere the model hasn't seen, it says it doesn't know and defers to the people. That's exactly where self-managing organisations invent, and the last thing they need there is a machine's guess dressed as knowledge.
 
-**Consequence, not verdict.** For a proposal it shows what would follow, never a score that sways consent. That fits Chapter 11, where there's no override, and Chapter 28, where simulation is for rehearsing, not foretelling.
+**Consequence, not verdict.** For a proposal it shows what would follow, never a score that sways consent. That fits Chapter 11, where there's no override, and Chapter 29, where simulation is for rehearsing, not foretelling.
 
 **Shape, never a judgement of a person.** It can name what's already public, who holds which seats, where the budget sits, and point at gaps in how things are checked, like money resting on one person's word. It never says what someone intends. It never moves anyone's reputation. A suspicion goes to people, through the trust and conflict process in Chapter 12, with the person present.
 
 **Open to everyone.** Any member can ask about the whole. No seat holds a privileged view. Deborah Gordon's harvester ants, from Chapter 4, are a fair picture of why: the colony's intelligence lives in its trails, not in any ant, and the trails are there for every ant to follow.[^3] Each branch also gets its own neighbourhood, read close, so the people nearest a part can see it best. But nobody gets a view the others can't have.
 
-**Learning together, without collecting anyone's data.** One shared base model, with each organisation's own records sitting beside it as memory. Organisations keep their records. When the network learns, it learns from changes to the model sent back, not from records handed over, a method known as federated learning.[^4] That fits the design in Chapter 26, where each organisation is its own DAO and carries everything it needs.
+**Learning together, without collecting anyone's data.** One shared base model, with each organisation's own records sitting beside it as memory. Organisations keep their records. When the network learns, it learns from changes to the model sent back, not from records handed over, a method known as federated learning.[^4] That fits the design in Chapter 27, where each organisation is its own DAO and carries everything it needs.
 
 **Memory every night, learning every month, and only after a check.** The organisation's own day goes into its memory nightly. The shared model is retrained from time to time, runs in the shadow of the old one, and replaces it only when it does better on organisations it hasn't seen.
 

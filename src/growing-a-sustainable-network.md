@@ -1,4 +1,4 @@
-# Chapter 27. Growing a sustainable network
+# Chapter 28. Growing a sustainable network
 
 <!-- card: How a network of organisations might start with nothing, grow without being captured, and need a little less of the outside world each year. -->
 <!-- description: Every attempt to build a society outside the money system seems to end the same way: the founders own it, the next generation sells it, or the tax office closes it. A strawman for how a network of organisations might start with nothing and grow without being captured. -->
@@ -24,7 +24,7 @@ That's the doubt, and history gives it plenty of support. Communes have been bou
 
 ## The question
 
-Chapter 29 pictures a society whose needs are met by many small organisations, owned by no one. Suppose a network of organisations on The Grove took that on as a shared purpose. Not a commune that drops out, but a growing web of self-managed organisations that together provide for people's needs, and that become steadily less dependent on the world outside.
+Chapter 30 pictures a society whose needs are met by many small organisations, owned by no one. Suppose a network of organisations on The Grove took that on as a shared purpose. Not a commune that drops out, but a growing web of self-managed organisations that together provide for people's needs, and that become steadily less dependent on the world outside.
 
 How would it start, with no capital and no land? How would it keep what it builds from being sold? How far could it move away from outside money, and where would it stop?
 
@@ -173,7 +173,7 @@ Pulled together, the strawman runs in six steps.
 
 We started from the failures, not the dream. Each part of the strawman answers a known way these attempts end: assets held in a few people's names, the generation that sells, the single body that can be sued or seized, the tax bill on a life that was priced, the side business that swallows the community. Where someone has already solved a piece, the Syndikat, WIR, Twin Oaks, we've borrowed rather than invented.
 
-We kept the network thin and the organisations thick because that's how The Grove already works. The organisation is where people decide and where assets sit. The network holds agreements and the shared code, as Chapter 26 described, and a network that held more would become the centre we've designed out everywhere else.
+We kept the network thin and the organisations thick because that's how The Grove already works. The organisation is where people decide and where assets sit. The network holds agreements and the shared code, as Chapter 27 described, and a network that held more would become the centre we've designed out everywhere else.
 
 And we've written it down before building any of it because the mistakes here are expensive and slow. A badly designed proposal can be reworked in a week. A site sold by the wrong generation is gone.
 

@@ -49,5 +49,5 @@ The Grove is still being built and tested, with simulated organisations. Indepen
 4. [Chapter 17, Money and value](money-and-value.md). Two currencies kept apart, a shared commons, and a floor.
 5. [Chapter 10, Belonging without a seat](belonging-without-a-seat.md). The invitation as a vouch, and what each level of proof unlocks.
 6. [Chapter 18, Into the legal world](into-the-legal-world.md). How an organisation becomes a legal entity without making its signer the boss.
-7. [Chapter 26, DNA, the network, and why not open source](dna-the-network-and-open-source.md). Sealed code, leaving together, new networks, and the Steward.
+7. [Chapter 27, DNA, the network, and why not open source](dna-the-network-and-open-source.md). Sealed code, leaving together, new networks, and the Steward.
 8. [Chapter 1, A society of sovereigns](a-society-of-sovereigns.md). What sovereign means here, for people, for organisations and for a society.

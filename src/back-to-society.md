@@ -1,4 +1,4 @@
-# Chapter 29. Back to society
+# Chapter 30. Back to society
 
 *A working draft, November 2026. This book is being written while The Grove is being built; expect it to change. Checked against the build as it stood on 1 November 2026.*
 
@@ -84,7 +84,7 @@ Here is the picture we're reaching for. It isn't a forecast. It's a direction we
 
 Put sovereign people at the centre: whole, free to join and leave, belonging to several organisations at once, held while they're there. Around them, sovereign organisations, each governing itself and each meeting one need. Around those, a sovereign society: its needs met from within, by many organisations working together, and owned by no one.
 
-The needs fall into two kinds of work. There's the hard work of getting things done: food, water and power, homes and land, health, safety, money and law. And there's the soft work of holding the people who do it: care, learning, belonging, voice, resolving conflict, celebration. In this picture the two lean on each other, and organisations serve each other across the divide. A care practice holds the safety crew after a fire. Learning feeds the people growing food and building homes. Water and power keep the halls lit where people meet. Money and law lean on the mediators when a dispute comes. Local voice carries a safety warning faster than any notice board. Each line is an agreement between two organisations, each decided by its own forum, as Chapter 25 described.
+The needs fall into two kinds of work. There's the hard work of getting things done: food, water and power, homes and land, health, safety, money and law. And there's the soft work of holding the people who do it: care, learning, belonging, voice, resolving conflict, celebration. In this picture the two lean on each other, and organisations serve each other across the divide. A care practice holds the safety crew after a fire. Learning feeds the people growing food and building homes. Water and power keep the halls lit where people meet. Money and law lean on the mediators when a dispute comes. Local voice carries a safety warning faster than any notice board. Each line is an agreement between two organisations, each decided by its own forum, as Chapter 26 described.
 
 The starter packs already sketch a near version: a community on its own land, a power co-operative, a neighbourhood café, a client practice for law and accounts, a practice that holds other organisations' difficult conversations. None of them is large. That's the point.
 
@@ -92,7 +92,7 @@ And organisations on The Grove grow the way living things do. A branch that has 
 
 A network like that could also do something no society has been able to do: tell us how it's doing. If each organisation can sense itself, as Chapter 21 describes, the network of them can be read the same way, without collecting anyone's records, and the read back from society that Chapter 2 hoped for begins to exist. We're building towards the first step of that, not the last.
 
-How a network might actually get there, starting with no capital and no land, keeping what it builds from being sold, and needing a little less outside money each year, is sketched as a strawman in Chapter 27.
+How a network might actually get there, starting with no capital and no land, keeping what it builds from being sold, and needing a little less outside money each year, is sketched as a strawman in Chapter 28.
 
 None of this needs a revolution. Nobody has to tear the tower down. People build around it, and over time the tower matters less. We aren't protesting. We're outgrowing.
 

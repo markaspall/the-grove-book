@@ -10,7 +10,7 @@
 - How an organisation begins, and why a starter pack describes but creates nothing
 - How branches are born, split and folded, with nothing dropped when one ends
 - How people leave or step down, and how locks protect value and those who depend on it
-- What we've designed but not built for whole organisations that divide, merge or close
+- Where whole organisations dividing, joining and closing begins, in the next chapter
 
 ---
 
@@ -20,7 +20,7 @@ The sceptic holds it without needing to defend it. Growth is success. Splitting 
 
 It's a fair belief, and it has history behind it. Endings in most organisations really are painful, and the people who carry the pain are rarely the ones who decided. If every ending is a loss, avoiding them looks like kindness.
 
-This chapter opens the last part of the book, which looks beyond a single organisation. It starts with the edges of one: how an organisation on The Grove begins, how its parts divide and end, how a person leaves, and what we've designed, but not yet built, for whole organisations that split, join or close.
+This chapter opens the last part of the book, which looks beyond a single organisation. It starts with the edges of one: how an organisation on The Grove begins, how its parts divide and end, how a person leaves, and where whole organisations dividing, joining and closing begins, which the next chapter takes up.
 
 ## What avoiding endings costs
 
@@ -80,17 +80,7 @@ That's the difference from a layoff. The ending is decided in the open, by the p
 
 ## Beyond one organisation
 
-Here we have to be plain about what's built and what isn't.
-
-Everything above, inside one organisation, is built. What happens when a whole organisation divides, spins a part off, joins another, or closes is designed, and only partly written.
-
-What we've designed is this. A branch can be twinned: a sibling that tries a different approach, with a hypothesis, a measure it sets itself and a review date, and when one approach wins, the other folds into it, so nothing it learned is lost. A branch that has become a venture of its own can be spun off into an organisation, and the parent carries on. An organisation pulling in two directions can divide into two, and neither half is the original. Organisations can merge in three depths: allying while staying separate, federating under a shared root while each runs itself, or joining fully into one.
-
-Division and merging are both cooperative. Nobody can force a split, and nobody can force a join. A division is raised as a proposal, advised by everyone affected and reshaped to meet their concerns. A division is about work, not about two teams dividing spoils: it says these streams of work have grown apart, and what the organisation holds follows the work that needs it, guided by who depends on what. People aren't assigned to a side. They choose, and they can hold seats on both. Purpose locks travel with what they lock. The landings hold. If a division can't be agreed, it lapses, and the people stay responsible for what follows. Only as a last resort, where the forum is evenly split and lapsing would itself do harm, would a jury drawn at random rule on whether an objection is legitimate. Never on who's right.
-
-The core of The Grove does hold an earlier version of the arithmetic for splitting and federating whole organisations, tested to show that no value leaks and every lock holds. Nothing in the running system calls it, and it carries an older idea we've since dropped. Organisations can't yet divide, spin off or merge.
-
-And closing an organisation isn't built at all. We've said it's a different act from leaving. We haven't yet designed how it's done.
+Everything above, inside one organisation, is built. Whole organisations changing shape is designed and not yet built, and it has to be before The Grove goes live: one organisation becoming two, a part budding off to become its own, two organisations joining, and an organisation closing in good order. Chapter 25 tells how, in the words of living cells, and the one rule under all of it: nothing separates or joins until everything it touches has somewhere to land.
 
 ## How we decided
 
@@ -102,7 +92,7 @@ The fold was built later than the rest. Simulated organisations showed the readi
 
 We decided never to suggest merging two branches because the same people hold both. And we decided to treat a division as a passage people grieve through, not only a mechanism.
 
-What's still open is a lot. Whether a spin-off is decided by the forum around the branch's parent, or by the root every time, since it takes value out of the organisation. How long the holding stage lasts while a legal entity divides, which takes months where the software takes minutes. How closing works. And whether, once real organisations use the fold, it will feel like a fair ending or a tidy one.
+What's still open here is whether, once real organisations use the fold, it will feel like a fair ending or a tidy one.
 
 ## What you might take from this
 

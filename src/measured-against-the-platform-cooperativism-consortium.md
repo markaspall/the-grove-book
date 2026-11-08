@@ -193,7 +193,7 @@ None of this is a platform co-op, and we don't claim it is. These are the choice
 
 And if we've misread the Platform Cooperativism Consortium's ideas anywhere on this page, please tell us. We'd rather be corrected than be generous to ourselves.
 
-If you'd like to go further, these chapters say more: [Chapter 6, Why an operating system](why-an-operating-system.md), on the guardrails and the Internet Computer; [Chapter 11, Making decisions](making-decisions.md), on proposals, advice and consent; [Chapter 12, Trust](trust.md), on trust, reputation and why neither can be bought; [Chapter 16, The front desk](the-front-desk.md), on the AI at the organisation's door; [Chapter 17, Money and value](money-and-value.md), on the commons, the floor and pay; [Chapter 22, The co-pilot](the-co-pilot.md), on Wise-Eye and how its standing is earned and lost; [Chapter 23, Memory](memory.md), on what's sealed and what's off the record; and [Chapter 26, DNA, the network, and why not open source](dna-the-network-and-open-source.md), on the sealed code and the Steward.
+If you'd like to go further, these chapters say more: [Chapter 6, Why an operating system](why-an-operating-system.md), on the guardrails and the Internet Computer; [Chapter 11, Making decisions](making-decisions.md), on proposals, advice and consent; [Chapter 12, Trust](trust.md), on trust, reputation and why neither can be bought; [Chapter 16, The front desk](the-front-desk.md), on the AI at the organisation's door; [Chapter 17, Money and value](money-and-value.md), on the commons, the floor and pay; [Chapter 22, The co-pilot](the-co-pilot.md), on Wise-Eye and how its standing is earned and lost; [Chapter 23, Memory](memory.md), on what's sealed and what's off the record; and [Chapter 27, DNA, the network, and why not open source](dna-the-network-and-open-source.md), on the sealed code and the Steward.
 
 ---
 
@@ -207,7 +207,7 @@ If you'd like to go further, these chapters say more: [Chapter 6, Why an operati
 [^6]: Scholz, T. (2024), *Own This! How Platform Cooperatives Help Workers Build a Democratic Internet*, Verso. Some listings give a December 2023 release.
 [^7]: Co-operative News, "Platform co-op movement to hold Solidarity AI conference in Bangkok" (18 March 2026), thenews.coop. The conference is at Chulalongkorn University, 12 to 15 November 2026.
 [^8]: Platform Cooperativism Consortium, "News from the Platform Cooperativism Consortium (2025)", platform.coop, on the Istanbul conference, the course AI Without Bosses and the turn towards cooperative AI.
-[^9]: Chapter 26 describes the Steward, how releases are adopted, and the sealed code.
+[^9]: Chapter 27 describes the Steward, how releases are adopted, and the sealed code.
 [^10]: The guardrails, in short: trust is given by peers, never by yourself and never bought; trust given on doesn't pass on again; trust and money are kept apart, with no way to turn one into the other; money carries no say; value tied to a purpose can't be taken out of it; the Clearing stays off the record; and decisions commit only with enough of the forum behind them and after any concern has been heard; and the floor comes first, an equal amount for every member present, which work never feeds.
 [^11]: Chapter 11, Making decisions, on the advice process and consent as the operating system uses them.
 [^12]: Chapter 22, The co-pilot, on Wise-Eye: whom it acts for, what it cannot do, how its standing is earned and lost, and what guards against speed and flattery.

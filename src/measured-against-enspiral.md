@@ -151,7 +151,7 @@ None of this is Enspiral in software, and we don't claim it is. These are the ch
 
 And if we've misread Enspiral's ideas anywhere on this page, please tell us. We'd rather be corrected than be generous to ourselves.
 
-If you'd like to go further, these chapters say more: [Chapter 1, A society of sovereigns](a-society-of-sovereigns.md), on what sovereign means here; [Chapter 10, Belonging without a seat](belonging-without-a-seat.md), on joining, leaving and what a member without a seat can do; [Chapter 11, Making decisions](making-decisions.md), on consent, advice and clocks; [Chapter 12, Trust](trust.md), on trust as governance weight and the Clearing; [Chapter 17, Money and value](money-and-value.md), on the floor and pay; [Chapter 25, Between organisations](between-organisations.md), on services and agreements; and [Chapter 26, DNA, the network, and why not open source](dna-the-network-and-open-source.md), on the sealed code and the Steward.
+If you'd like to go further, these chapters say more: [Chapter 1, A society of sovereigns](a-society-of-sovereigns.md), on what sovereign means here; [Chapter 10, Belonging without a seat](belonging-without-a-seat.md), on joining, leaving and what a member without a seat can do; [Chapter 11, Making decisions](making-decisions.md), on consent, advice and clocks; [Chapter 12, Trust](trust.md), on trust as governance weight and the Clearing; [Chapter 17, Money and value](money-and-value.md), on the floor and pay; [Chapter 26, Between organisations](between-organisations.md), on services and agreements; and [Chapter 27, DNA, the network, and why not open source](dna-the-network-and-open-source.md), on the sealed code and the Steward.
 
 ---
 

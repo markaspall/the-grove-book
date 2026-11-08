@@ -84,7 +84,7 @@ This chapter is the reason for much of what follows. We chose to read the work, 
 
 We chose to make the reading open to everyone, rather than a view for whoever sits at the top, because a mirror only one person can look into is a management tool, not a sense of self.
 
-And we chose to start with the organisation rather than with society. Society is too large for any of us to see, and too large for its loop to close in a way people can feel. An organisation isn't. If enough organisations learn to see themselves and respond, the layer above them might begin to change too. Chapter 29 picks that up.
+And we chose to start with the organisation rather than with society. Society is too large for any of us to see, and too large for its loop to close in a way people can feel. An organisation isn't. If enough organisations learn to see themselves and respond, the layer above them might begin to change too. Chapter 30 picks that up.
 
 ## What you might take from this
 
