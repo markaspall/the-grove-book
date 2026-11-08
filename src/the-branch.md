@@ -72,7 +72,7 @@ This is where the honest answer to the sceptic begins. Because a person can hold
 
 ## One rule instead of many
 
-Forums are made of people, not branches. A forum is the people who hold the seat of a branch and the seats of the branches grown directly from it: one kind, the same at every level. A branch's remit is decided in one forum only, the forum around its parent, where whoever holds its seat takes part as a person. The forum around a branch, its own people and the people of the branches inside it, sets those smaller branches' remits and how it arranges its own means. Someone holding several seats can sit in many forums, and a crew carries one seat's weight. The root has no parent, so its remit and purpose are decided in the forum around the root. Autonomy over the means, accountability for the ends.
+Forums are made of people, not branches. A branch is governed in one forum: the stewards of its parent and of its sibling branches, with the branch's own steward taking part as a person, and never the people of the branches below it. That's where its remit is decided. The root has no parent, so it's governed by its own stewards and the stewards of the branches grown directly from it, and that's where its remit and purpose are decided. Someone holding several seats can sit in many forums, and a crew carries one seat's weight. Autonomy over the means, accountability for the ends.
 
 That raises an obvious problem. What if one person holds a branch and all the branches inside it? Their "forum" would be a room with one person in it, approving their own decisions.
 

@@ -66,7 +66,7 @@ Any rework at any stage resets the proposal: it's checked again and advice is as
 
 ### Who decides
 
-The people who decide are the governors of the forum that holds the change, which is the forum around the branch's parent: the people holding the parent's seat and the seats of the branches grown from it. Whoever holds the changed branch's seat decides alongside the others, as a person, not from outside. If that forum has fewer than two people in it, the decision moves up until one has. A founder alone, or a founder whose members hold no seat, decides alone. Their voices are weighted by the trust their peers have placed in them for that kind of matter, which Chapter 12 explores. The organisation-wide pool of skill advises; the local forum decides.
+The people who decide are the governors of the forum that holds the change, which is the forum around the branch's parent: the stewards of the parent and of the branch's siblings, with the branch's own steward taking part as a person. Whoever holds the changed branch's seat decides alongside the others, as a person, not from outside. If that forum has fewer than two people in it, the decision moves up until one has. A founder alone, or a founder whose members hold no seat, decides alone. Their voices are weighted by the trust their peers have placed in them for that kind of matter, which Chapter 12 explores. The organisation-wide pool of skill advises; the local forum decides.
 
 Wise-Eye takes part all the way through, but never decides. It gives the checker a note on whether the change matches its words. It offers its own advice, clearly marked as its own. If you ask, it will rework your proposal to fit the advice you received. And at review, it summarises what happened alongside the evidence.
 
