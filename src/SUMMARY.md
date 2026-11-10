@@ -65,6 +65,10 @@
 - [Measured against Sensorica](measured-against-sensorica.md)
 - [Measured against the Platform Cooperativism Consortium](measured-against-the-platform-cooperativism-consortium.md)
 
+# Thinking in the open
+
+- [The operating system without a chain](the-operating-system-without-a-chain.md)
+
 ---
 
 [The parts and what they do](appendix-the-parts-and-what-they-do.md)
