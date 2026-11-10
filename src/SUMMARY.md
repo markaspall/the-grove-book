@@ -64,6 +64,7 @@
 - [Measured against Enspiral](measured-against-enspiral.md)
 - [Measured against Sensorica](measured-against-sensorica.md)
 - [Measured against the Platform Cooperativism Consortium](measured-against-the-platform-cooperativism-consortium.md)
+- [Measured against the research on self-managing organisations](measured-against-the-research-on-self-managing-organisations.md)
 
 # Thinking in the open
 
