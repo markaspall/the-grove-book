@@ -94,7 +94,7 @@ For them, the shift is subtle but freeing. They're the source of the organisatio
 
 There's a picture here we owe to Barbara Marx Hubbard, who saw the world's crises as a birth rather than an ending. If an organisation is something being born, the founder is closer to a midwife than an owner: essential at the start, present through the hardest part, and not the one who decides what the new life becomes.
 
-We should be plain about the beginning, though. A founder alone decides alone, because there's nobody else to ask. The same is true while others have joined but nobody else holds a seat, and that's exactly where the boss grows back by default. What pushes against it is the design: branches that can post their own open seats, a root that can be shared, and work that goes to branches rather than to people, so there's always somewhere for someone else to step in. The rules start to bite the moment a second person takes a seat.
+We should be plain about the beginning, though. A founder alone decides alone, because there's nobody else to ask. The same is true while others have joined as members but nobody else holds a seat. Nobody's work is being directed, because only people who hold seats carry work. But every decision still rests with one person, and that's exactly where a centre grows back by default. What pushes against it is the design: branches that can post their own open seats, a root that can be shared, and work that goes to branches rather than to people, so there's always somewhere for someone else to step in. The rules start to bite the moment a second person takes a seat.
 
 The founder is the spark that lights it. They don't have to be the fire.
 

@@ -74,7 +74,7 @@ Enspiral certifies nothing, so this isn't a compliance check. It's our own readi
 
 **How we think it lines up.** Closely on the principle: power beside responsibility, influence earned from peers, no one above. We differ in method. Enspiral leaves influence to culture; we make it visible and countable inside each forum.
 
-**Where we might be wrong.** Putting a number on influence, even a local one, may change how people treat each other in ways a culture of social capital doesn't. And our own chapter is plain that the boss can grow back by default: a founder whose members hold no seat decides alone, "a boss with good manners" (Chapter 10). Enspiral's answer has been a culture in which nobody is in charge. Our design shows the shape but doesn't stop it.
+**Where we might be wrong.** Putting a number on influence, even a local one, may change how people treat each other in ways a culture of social capital doesn't. And our own chapter is plain that a centre can grow back by default: a founder whose members hold no seat decides alone (Chapter 10). Enspiral's answer has been a culture in which nobody is in charge. Our design shows the shape but doesn't stop it.
 
 ## 3. Decisions in the open, by consent
 
@@ -131,7 +131,7 @@ Enspiral certifies nothing, so this isn't a compliance check. It's our own readi
 | The idea | How we think it lines up |
 |---|---|
 | A network, not a company | Closely in shape: organisations like ventures, a thin network nobody owns, a Steward that is itself an organisation from go-live. Thinner and cooler than a campfire. |
-| No bosses, leadership spread wide | Closely on the principle, different in method: trust given by peers, local to each forum, never bought. The boss can grow back where seats aren't offered. |
+| No bosses, leadership spread wide | Closely on the principle, different in method: trust given by peers, local to each forum, never bought. One person can keep every decision where seats aren't offered. |
 | Decisions by consent | Closely: consent and advice, on clocks, objections that name a harm. A concern still standing after ten days makes the proposal lapse, much as Enspiral's block stops one, and votes are weighted by trust. |
 | Collaborative funding | Partly: open books, a shared purse divided by proposal in the root's forum, an equal floor, an equal voice in the Field. Nothing like a bucket round. |
 | Care as infrastructure | Partly, by restraint: the Clearing off the record, nothing pushed, no meetings needed. No pods, no retreats. |

@@ -43,7 +43,7 @@ This book starts from the same ideas and asks a different question: what if the 
 
 ## What's still open
 
-Consent goes with seats, and members without a seat can sense, advise and move work but can't propose or consent. That line is drawn on purpose, and it's also where the boss could grow back, through whoever controls who gets a seat. None of this has yet run in a real organisation under real pressure; so far it's been tested on simulated ones.
+Consent goes with seats, and members without a seat can sense, advise and move work but can't propose or consent. That line is drawn on purpose, and it's also where a centre could grow back, through whoever controls who gets a seat. None of this has yet run in a real organisation under real pressure; so far it's been tested on simulated ones.
 
 ## Where to start
 

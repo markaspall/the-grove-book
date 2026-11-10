@@ -9,7 +9,7 @@
 - Why a member without a seat can't propose or consent, and why that line is drawn on purpose
 - How joining works as a welcome and a vouch, and why leaving needs nobody's permission
 - What a member without a seat can do: sense, advise, move work, see the whole
-- Why consent goes with seats, and where that lets the boss grow back
+- Why consent goes with seats, and where that lets a centre grow back
 - Where this sits beside sociocracy and co-operatives, and what's still open
 
 ---
@@ -82,15 +82,15 @@ It also keeps the organisation honest about who's carrying what. We moved work f
 
 The routing rule from Chapter 9 does the rest. A forum with fewer than two distinct people in it doesn't decide; its decisions go to the next forum up that has two or more, and end at the root if none has. A forum is made of the people who hold seats in it. Members without a seat don't change that count.
 
-## Where the boss grows back
+## Where a centre grows back
 
 That last sentence is where the cost lives, and it's better said plainly.
 
-A founder with five members, none of whom holds a seat, decides alone. Every decision routes to the root, and she's the only person there. The organisation even says so, once, where deciding lives: nobody else holds a seat yet, so what she decides is decided, and every decision is kept. Her members can sense, advise, usher and watch. They can't stop her. Structurally, that's a boss with good manners.
+A founder with five members, none of whom holds a seat, decides alone. Every decision routes to the root, and she's the only person there. The organisation even says so, once, where deciding lives: nobody else holds a seat yet, so what she decides is decided, and every decision is kept. Her members can sense, advise, usher and watch. They can't stop her. Nobody's work is being directed, because only people who hold seats carry work. But structurally, every decision is hers.
 
-Nothing in the rules forces her to share. The boss can grow back by default, simply because seats weren't offered. What pushes against it is the design around the rules. Branches post their own open seats, and every member sees them. The root can be shared from the first day: a group founding together names the others before planting, and they join the root's crew as they arrive. Work goes to branches rather than to people, so there's a place someone else could step into. On the foundations, the founder doesn't get to skip anyone: a change to the purpose or the agreement waits for each member's advice, or for its advice period to run out, before it's decided. And once anyone else is here at all, the agreement changes only by proposal, in the open.
+Nothing in the rules forces her to share. A centre can grow back by default, simply because seats weren't offered. What pushes against it is the design around the rules. Branches post their own open seats, and every member sees them. The root can be shared from the first day: a group founding together names the others before planting, and they join the root's crew as they arrive. Work goes to branches rather than to people, so there's a place someone else could step into. On the foundations, the founder doesn't get to skip anyone: a change to the purpose or the agreement waits for each member's advice, or for its advice period to run out, before it's decided. And once anyone else is here at all, the agreement changes only by proposal, in the open.
 
-None of that is a guarantee. A founder who wants to stay the boss can. What the design does is make the shape visible: anyone can see that one person decides everything, and a branch one person holds is shown beside its siblings with nothing to explain it away. Members also keep the oldest power there is. Albert Hirschman called it exit: when voice isn't enough, people leave, and their leaving tells the organisation something it needed to hear.[^3] Here exit costs no permission, and it's there every day.
+None of that is a guarantee. A founder who wants to keep every decision can. What the design does is make the shape visible: anyone can see that one person decides everything, and a branch one person holds is shown beside its siblings with nothing to explain it away. Members also keep the oldest power there is. Albert Hirschman called it exit: when voice isn't enough, people leave, and their leaving tells the organisation something it needed to hear.[^3] Here exit costs no permission, and it's there every day.
 
 ## Beside sociocracy and co-operatives
 
