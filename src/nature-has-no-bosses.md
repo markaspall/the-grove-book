@@ -1,6 +1,6 @@
 # Chapter 4. Nature has no bosses
 
-*A working draft, November 2026. This book is being written while The Grove is being built; expect it to change. Checked against the build as it stood on 1 November 2026.*
+*A working draft, November 2026. This book is being written while the operating system is being built; expect it to change. Checked against the build as it stood on 1 November 2026.*
 
 ---
 
@@ -111,7 +111,7 @@ Copying nature outright was never the answer. Nature is ruthless at the edges. P
 
 So we borrowed nature's principles and kept the things that make us human. From nature we took sensing at the edges, work that leaves a trail, structure that grows where the work needs it and withers where it doesn't, and decisions that move when enough of the right people agree. To that we added what nature doesn't offer: a floor an organisation can set so nobody is starved, the right to leave at any time, consent so that nobody is overridden, and a purpose people choose together. How we built it is the story of the chapters that follow.
 
-Two of those borrowings are closer than metaphor. Seeley's bees move when enough scouts gather at one site. In an organisation on The Grove, a decision moves when enough of the trust in the forum that hears it says yes, and nobody has a concern still standing. How much is enough depends on what's at stake: a fifth for a small change, two fifths for a middling one, two thirds for a big one. The other is the trail, where we part company with the termite on purpose. In the mound, the trace acts directly: the next termite simply builds on it. In The Grove the work leaves traces and the traces are read, but a reading only ever raises awareness. It never moves money or work by itself. Traces for sensing, consent for acting.
+Two of those borrowings are closer than metaphor. Seeley's bees move when enough scouts gather at one site. In an organisation on The Grove, a decision moves when enough of the trust in the forum that hears it says yes, and nobody has a concern still standing. How much is enough depends on what's at stake: a fifth for a small change, two fifths for a middling one, two thirds for a big one. The other is the trail, where we part company with the termite on purpose. In the mound, the trace acts directly: the next termite simply builds on it. Here the work leaves traces and the traces are read, but a reading only ever raises awareness. It never moves money or work by itself. Traces for sensing, consent for acting.
 
 We're still learning where the line sits. Some of what nature does well, like letting go of what no longer serves, is hard for people. We'll come back to that.
 

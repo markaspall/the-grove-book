@@ -1,6 +1,6 @@
 # Chapter 21. A sense of itself
 
-*A working draft, November 2026. This book is being written while The Grove is being built; expect it to change. Checked against the build as it stood on 1 November 2026.*
+*A working draft, November 2026. This book is being written while the operating system is being built; expect it to change. Checked against the build as it stood on 1 November 2026.*
 
 ---
 
@@ -72,7 +72,7 @@ Every part of the stance is a design decision, and each has a reason.
 
 **It senses; the law acts.** Nothing it says changes the organisation except through the same rules as anything else: a person raises a proposal, a forum consents. A model's view must never become an unaccountable power. This is the same firewall Chapter 19 described, carried forward.
 
-**Never the average.** A model trained to copy what's typical pulls every organisation towards the typical, and that's a quiet boss. So it's trained towards outcomes, and learns most from organisations that did unusually well under the same constraints. The Grove exists so organisations can become themselves, not each other.
+**Never the average.** A model trained to copy what's typical pulls every organisation towards the typical, and that's a quiet boss. So it's trained towards outcomes, and learns most from organisations that did unusually well under the same constraints. The operating system exists so organisations can become themselves, not each other.
 
 **Where it hasn't been, it goes quiet.** When an organisation goes somewhere the model hasn't seen, it says it doesn't know and defers to the people. That's exactly where self-managing organisations invent, and the last thing they need there is a machine's guess dressed as knowledge.
 

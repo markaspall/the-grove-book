@@ -3,7 +3,7 @@
 <!-- card: How a whole organisation becomes two, buds off a part, joins another or closes, the way living cells do: nothing separates until everything is attached. -->
 <!-- description: Mergers fail and splits are fought over because they're done to people, in one go, out of sight. Here organisations divide and join the way cells do: the whole pattern copied, sisters side by side, and nothing separates until everything has somewhere to land. -->
 
-*A working draft, November 2026. This book is being written while The Grove is being built; expect it to change. Checked against the build as it stood on 1 November 2026.*
+*A working draft, November 2026. This book is being written while the operating system is being built; expect it to change. Checked against the build as it stood on 1 November 2026.*
 
 ---
 
@@ -80,7 +80,7 @@ Budding is also the easiest way to walk off with value: set up the new organisat
 
 The smallest way of making more doesn't create a new organisation at all. A branch is copied inside the organisation, and the copy is meant to differ. It's a twin with a hypothesis: two ways of doing the same work, run side by side, judged by a measure the people proposing it set themselves, with a date to look back.
 
-Genes are copied the same way, and biologists have long watched what becomes of the copies.[^4] [^5] Most often one is lost. Sometimes one takes on a new job. Sometimes the two share out the old job between them. Twins on The Grove end in the same three ways. One is folded into the other, and what it learned goes with it. One becomes a branch with work of its own. Or the two divide the old work, a region each, say. A twin's people are its own, and its seats aren't doubled; a pair of the same people on both would undo the comparison.
+Genes are copied the same way, and biologists have long watched what becomes of the copies.[^4] [^5] Most often one is lost. Sometimes one takes on a new job. Sometimes the two share out the old job between them. Twins end in the same three ways. One is folded into the other, and what it learned goes with it. One becomes a branch with work of its own. Or the two divide the old work, a region each, say. A twin's people are its own, and its seats aren't doubled; a pair of the same people on both would undo the comparison.
 
 ## Joining
 
@@ -110,7 +110,7 @@ Some organisations finish. Their purpose is met, or the world no longer needs wh
 
 An organisation can close the same way. It's decided at the root, as a high-impact change with the waiting period, and, as with an export, everyone is asked and anyone can raise a concern. Every landing is set out first. Each member knows where they stand. Each customer and agreement is handed on or ended, and told. Each debt is paid and each promise kept or released. Each thing the organisation holds is sold, given or handed on. And anything locked to its purpose goes to another organisation whose purpose honours the lock, never sold off for whoever is left, much as a UK community interest company's remaining assets must go to another body with an asset lock.[^7] Then it winds down, the legal company is wound up, and the record is kept where its members can still reach it.
 
-This has to be built before go-live too, as Chapter 18 says: a company carries on until someone winds it up, so The Grove needs a step that does.
+This has to be built before go-live too, as Chapter 18 says: a company carries on until someone winds it up, so the operating system needs a step that does.
 
 ## One rule for all of them
 

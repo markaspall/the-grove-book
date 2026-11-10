@@ -1,6 +1,6 @@
 # Chapter 3. The legacy we're living
 
-*A working draft, November 2026. This book is being written while The Grove is being built; expect it to change. Checked against the build as it stood on 1 November 2026.*
+*A working draft, November 2026. This book is being written while the operating system is being built; expect it to change. Checked against the build as it stood on 1 November 2026.*
 
 ---
 
@@ -76,7 +76,7 @@ None of this is new. People have been trying to get beyond the tree for at least
 
 Each of these got something important right. Each also ran into the same wall. The structure had to be held by people: meetings to run, records to keep, rules to remember, facilitators to keep everyone honest. When people got tired, or busy, or a founder quietly kept the final say, the old tree grew back underneath. Many practitioners carry scars from this, along with real insight.
 
-Laloux's colours have an older root. From the 1950s the psychologist Clare W. Graves studied how people's values change as the conditions of their lives change. He found not a fixed ladder but ways of seeing that emerge in turn, each a response to problems the one before couldn't solve, and none of them final. Don Beck and Christopher Cowan carried his work into the world as Spiral Dynamics, and from there, by way of Ken Wilber's integral theory, it reached Laloux's colours.[^13] We hold it as lineage and as a lens: a way to understand why a person or an organisation sees the world as it does. Never as a scale to rank anyone on. Nothing in The Grove labels a person or an organisation by stage, and those who've worked longest with developmental models give the same warning: development is an arc, held lightly, never a league table.
+Laloux's colours have an older root. From the 1950s the psychologist Clare W. Graves studied how people's values change as the conditions of their lives change. He found not a fixed ladder but ways of seeing that emerge in turn, each a response to problems the one before couldn't solve, and none of them final. Don Beck and Christopher Cowan carried his work into the world as Spiral Dynamics, and from there, by way of Ken Wilber's integral theory, it reached Laloux's colours.[^13] We hold it as lineage and as a lens: a way to understand why a person or an organisation sees the world as it does. Never as a scale to rank anyone on. Nothing in the operating system labels a person or an organisation by stage, and those who've worked longest with developmental models give the same warning: development is an arc, held lightly, never a league table.
 
 ## The legacy in our heads
 
@@ -96,7 +96,7 @@ Before The Grove existed, I'd already lived most of this. I'd built the tree mys
 
 When I took the idea to the "we", the first question was what to keep. We didn't want to throw out everything hierarchy does. It does some things well: clarity about who holds what, someone who carries a promise, work that actually gets finished on a day. We wanted those, without the tree. So we kept accountability and dropped command. We kept structure and moved it out of people and into the system itself, where anyone can see it and raise a tension about it, and the people who hold seats where a change is decided can propose one.
 
-Accountability without command turned out to need a home of its own. In an early simulation, work reached exactly the right part of the organisation and then sat there. A small team shared it, nobody held any one piece, and it was everybody's, which meant nobody's. It was Freeman's hidden structure again, turning up inside an explicit one. So a promise in The Grove is held by a part of the organisation and carried by a named person, on a clock, and when it starts to slip it rises to the part above, where someone can step in. That's the tree's real job, done without the tree.
+Accountability without command turned out to need a home of its own. In an early simulation, work reached exactly the right part of the organisation and then sat there. A small team shared it, nobody held any one piece, and it was everybody's, which meant nobody's. It was Freeman's hidden structure again, turning up inside an explicit one. So a promise here is held by a part of the organisation and carried by a named person, on a clock, and when it starts to slip it rises to the part above, where someone can step in. That's the tree's real job, done without the tree.
 
 We also had to decide whether to build on one of the existing practices. Holacracy was the obvious candidate. It's clear, well documented, and openly licensed, and others have since taken its constitution and extended it for organisations with AI in them. We chose to start from a clean sheet instead, beginning with what Laloux described and what nature does, and only then reaching for practices that fitted. That meant more work and more mistakes. It also meant we weren't bound to a meeting format, a vocabulary or a set of rules designed for a world where everything had to be done by hand.
 

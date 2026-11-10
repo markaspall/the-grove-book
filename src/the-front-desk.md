@@ -3,7 +3,7 @@
 <!-- card: The organisation answering at its own front door, on every channel, with an AI that knows the work and keeps to its boundaries. -->
 <!-- description: Customers message, then email, then message again, and usually have to start over each time. An organisation on The Grove meets them at one front desk: it answers, takes the work in, and finishes it on the spot when the people who do the work have said it may. -->
 
-*A working draft, November 2026. This book is being written while The Grove is being built; expect it to change. Written from the build as it stood on 5 November 2026, before it reached the shared code; to be checked against the code once it does.*
+*A working draft, November 2026. This book is being written while the operating system is being built; expect it to change. Written from the build as it stood on 5 November 2026, before it reached the shared code; to be checked against the code once it does.*
 
 ---
 
@@ -63,7 +63,7 @@ The caller's identity comes from the system, never from the model. A model sayin
 
 ## One person, one history
 
-Picture a customer who messages on WhatsApp on Monday to order something for Saturday. On Wednesday they open the chat on the website to change the order. On Thursday they message on WhatsApp again: any news? To them that's one matter. On The Grove it is too.
+Picture a customer who messages on WhatsApp on Monday to order something for Saturday. On Wednesday they open the chat on the website to change the order. On Thursday they message on WhatsApp again: any news? To them that's one matter. Here it is too.
 
 The organisation keeps two small things about people outside it. A **caller**: the contacts they've proved, the name they gave, and their cases. And their **cases**: every piece of work they were a party to, whoever started it and on whichever channel, mail and website forms included. A thread that only mentions them inside, a note between branches, a proposal, isn't theirs. The test is whether they were a party to it, never whether their name appears. Cases are attached as the work happens, so when someone gets in touch, their whole history with the organisation is already there.
 
@@ -89,7 +89,7 @@ This is where the desk earns its place, and it adds no rules of its own. It uses
 
 A branch decides, accountability by accountability, whether the front desk may finish that kind of work. It's off by default. When it's on, a request is checked the same way as a reply Wise-Eye drafts: is this promise like the ones this branch has kept, in size, in notice, on a day that isn't already full? If it is, the desk confirms it on the spot, the promise lands on the branch, and the customer hears what was agreed and the day. If it isn't, it waits for a person, and the desk says plainly who will answer, by when, and how the customer will hear.
 
-A first promise to someone new always waits for a person, as it does anywhere on The Grove. So a known customer asking for something usual can have it settled while they're still there, and a new one is always taken in, answered and given a clear next step.
+A first promise to someone new always waits for a person, as it does anywhere in the operating system. So a known customer asking for something usual can have it settled while they're still there, and a new one is always taken in, answered and given a clear next step.
 
 When something needs a person and a holder of that branch is here, the desk can offer to hold for a few minutes. The approval shows on the branch marked "someone is waiting on the line". Nothing is pushed to anyone's phone. If a holder says yes in time, the desk confirms live; if not, it says what happens next.
 

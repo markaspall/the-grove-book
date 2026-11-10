@@ -1,6 +1,6 @@
 # Chapter 23. Memory
 
-*A working draft, November 2026. This book is being written while The Grove is being built; expect it to change. Checked against the build as it stood on 1 November 2026.*
+*A working draft, November 2026. This book is being written while the operating system is being built; expect it to change. Checked against the build as it stood on 1 November 2026.*
 
 ---
 
@@ -46,7 +46,7 @@ In an organisation on The Grove, memory is split by whose it is. What the organi
 
 Every branch has five standing documents. Its **intent**: why it exists, in the words of the people who started it. Its **offer**: what it offers, to whom, how a day of it runs, and what's still unknown. **Where we are**: what's decided, what's open or parked, and where it's heading next. **People**: who's involved and how, a name and a connection and nothing more personal than that. And **decisions**: a dated line for each thing that changed and why.
 
-Nobody sits down to write these. Wise-Eye, the AI companion in every organisation on The Grove, keeps them as it works alongside whoever holds the branch. Every few turns of a conversation, it folds what's been said into the documents: it rewrites the living ones whole when the conversation has moved them, and adds a dated line to the decisions. When it starts a new conversation, it reads them first. So does a new person taking up the branch. Wise-Eye's memory of the work isn't in a private chat. It's in the same documents everyone else reads.
+Nobody sits down to write these. Wise-Eye, the AI companion in every organisation running on the operating system, keeps them as it works alongside whoever holds the branch. Every few turns of a conversation, it folds what's been said into the documents: it rewrites the living ones whole when the conversation has moved them, and adds a dated line to the decisions. When it starts a new conversation, it reads them first. So does a new person taking up the branch. Wise-Eye's memory of the work isn't in a private chat. It's in the same documents everyone else reads.
 
 These documents are open to every member by default. A document can be placed in a locked domain (an area of the organisation's work held by one branch), and then only that branch's holders can read it. Others can see that it exists and why they can't open it. The lock lives on the domain, not the document, and it changes only by a proposal in the forum around its branch's parent. No steward can quietly hide what the organisation knows. An open document can't be slipped behind a lock; that takes a proposal too.
 

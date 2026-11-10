@@ -1,6 +1,6 @@
 # Chapter 8. Purpose: what closes, what explores
 
-*A working draft, November 2026. This book is being written while The Grove is being built; expect it to change. Checked against the build as it stood on 1 November 2026.*
+*A working draft, November 2026. This book is being written while the operating system is being built; expect it to change. Checked against the build as it stood on 1 November 2026.*
 
 ---
 
@@ -38,7 +38,7 @@ As Chapter 7 described, an organisation on The Grove has no boss handing down di
 
 This is the turn. In a self-managing organisation, purpose isn't decoration. It's the thing that tells a steward whether a piece of work belongs, whether a new part of the organisation is worth growing, whether a request should be taken up or gently set aside. If it can't do that, nothing else will, and the organisation will drift or quietly grow a boss to fill the gap.
 
-So we made purpose the first thing, not the last. In The Grove, *the seed is the purpose*: an organisation can't be planted without at least a working one. Wise-Eye, the companion, helps a founder find it in the very first conversation.
+So we made purpose the first thing, not the last. Here, *the seed is the purpose*: an organisation can't be planted without at least a working one. Wise-Eye, the companion, helps a founder find it in the very first conversation.
 
 Finding it is harder than it sounds. In one of our test conversations, a small software team brought their company onto The Grove. Their purpose didn't come from asking them to write a mission statement. It came from asking what their company's name meant. They were called Essential. Essential for what? The answer that emerged was something like this: to provide what people need, to ease their lives, and to stay close enough to see the value of it.
 
@@ -50,7 +50,7 @@ The most useful distinction we've found is between purpose and vision.
 
 Purpose closes. It's the organisation's identity: the thing that stays fixed while everything inside it moves. People come and go, parts of the organisation grow and fade, work changes shape week by week, and the purpose holds still so that all that movement has something to move around. It's revisited rarely, and only by proposal.
 
-Vision explores. A founder usually arrives with a vivid picture of what they want to build. On The Grove, that picture is treated as a set of speculations: bets about how to meet the purpose, each one to be tested against the world. Chapter 14 looks at bets in detail. The point here is that they're held lightly, and the purpose is held firmly.
+Vision explores. A founder usually arrives with a vivid picture of what they want to build. Here, that picture is treated as a set of speculations: bets about how to meet the purpose, each one to be tested against the world. Chapter 14 looks at bets in detail. The point here is that they're held lightly, and the purpose is held firmly.
 
 An example we used again and again in design: imagine an organisation whose purpose is to support neurodivergent children. Its founder has a coaching programme in mind. That programme is only the first speculation about how to meet the purpose. Perhaps it works. Perhaps the families need something else entirely: a support network for parents, training for schools, a space for the children themselves. Many shapes could fit the purpose. If the founder had written the coaching programme into the purpose, every one of those discoveries would feel like failure. Kept apart, they feel like learning.
 

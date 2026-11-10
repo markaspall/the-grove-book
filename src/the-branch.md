@@ -1,6 +1,6 @@
 # Chapter 9. The branch: cells, not jobs
 
-*A working draft, November 2026. This book is being written while The Grove is being built; expect it to change. Checked against the build as it stood on 1 November 2026.*
+*A working draft, November 2026. This book is being written while the operating system is being built; expect it to change. Checked against the build as it stood on 1 November 2026.*
 
 ---
 
@@ -36,7 +36,7 @@ The cost to the business is slowness and fragility: work that can't move without
 
 ## A body with no one in charge
 
-When we began designing The Grove's structure in early September 2026, the branch was the first thing we drew. Before forums, before proposals, before Wise-Eye, there was the question of what an organisation is made of.
+When we began designing the operating system's structure in early September 2026, the branch was the first thing we drew. Before forums, before proposals, before Wise-Eye, there was the question of what an organisation is made of.
 
 The picture that unlocked it came from the sea. The Portuguese man o' war looks like a single jellyfish, but it isn't one. It's a siphonophore: a colony of many small, specialised units living as one body. Some keep it afloat. Some catch food. Some digest it. Some defend. Some reproduce. Each is shaped entirely by what it does, and none of them is in charge.[^1] The body works because every part knows its function and the parts fit together, not because something at the top is directing traffic.
 

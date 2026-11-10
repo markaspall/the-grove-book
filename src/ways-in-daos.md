@@ -9,7 +9,7 @@
 
 **In this page**
 
-- Why every organisation on The Grove is a DAO from its first day, with no tokens, wallets or gas
+- Why every organisation running on the operating system is a DAO from its first day, with no tokens, wallets or gas
 - Why token voting broke, and how a say that money can't buy works instead
 - How the blockchain gives each organisation independence all the way through
 - How an organisation takes a legal form, and can leave the network with everything
@@ -23,11 +23,11 @@ The idea was right. The governance wasn't.
 
 ## What you'll find here
 
-**A DAO from day one.** Every organisation on The Grove is a decentralised autonomous organisation: its rules run as code its people agreed. Today that runs on a test bench. When The Grove goes live, each organisation will be its own independent DAO, running its own copy of the operating system with its own DNA growing in it, controlled by nobody else.
+**A DAO from day one.** Every organisation running on the operating system is a decentralised autonomous organisation: its rules run as code its people agreed. Today that runs on a test bench. When The Grove goes live, each organisation will be its own independent DAO, running its own copy of the operating system with its own DNA growing in it, controlled by nobody else.
 
 **No tokens, no wallets, no gas.** Nobody holds a token, pays a fee to act or handles cryptocurrency. The only part of the blockchain anyone touches is signing in, with Internet Identity and the passkey on their phone or laptop. The organisation pays for its own computing, and its money stays in its own bank.
 
-**A say that money can't buy.** Token voting makes say a thing you can purchase. In 2022 an attacker borrowed enough votes to empty a project called Beanstalk in a single transaction. On The Grove, money can fund the work but never buys a say. The weight behind a decision is trust that peers give and can take back, in each forum and on each kind of matter. Consent comes from the people who carry the work, advice from those it touches, and every stage runs on a clock, with a timelock on high-impact changes. Trust and money are kept apart as two currencies.
+**A say that money can't buy.** Token voting makes say a thing you can purchase. In 2022 an attacker borrowed enough votes to empty a project called Beanstalk in a single transaction. Here, money can fund the work but never buys a say. The weight behind a decision is trust that peers give and can take back, in each forum and on each kind of matter. Consent comes from the people who carry the work, advice from those it touches, and every stage runs on a clock, with a timelock on high-impact changes. Trust and money are kept apart as two currencies.
 
 **The invitation is the vouch.** Joining starts with someone already inside vouching for you, with limits on how often and how soon. Two seat holders can put a newcomer on hold. The levels of proof are written in: signing in to belong, proof of being a unique human for the floor, and a full identity check for anyone who holds a seat. No provider has been chosen for those checks yet.
 
@@ -39,7 +39,7 @@ The idea was right. The governance wasn't.
 
 ## What's still open
 
-The Grove is still being built and tested, with simulated organisations. Independence, sealed copies of the system and the Steward organisation that looks after the code are decided for go-live and not yet built. The identity checks have no provider. And whether a new network that loosens a guardrail must ship under a different name is still to be settled.
+The operating system is still being built and tested, with simulated organisations. Independence, sealed copies of the system and the Steward organisation that looks after the code are decided for go-live and not yet built. The identity checks have no provider. And whether a new network that loosens a guardrail must ship under a different name is still to be settled.
 
 ## Where to start
 

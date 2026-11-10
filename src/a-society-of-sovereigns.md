@@ -1,6 +1,6 @@
 # Chapter 1. A society of sovereigns
 
-*A working draft, November 2026. This book is being written while The Grove is being built; expect it to change. Checked against the build as it stood on 1 November 2026.*
+*A working draft, November 2026. This book is being written while the operating system is being built; expect it to change. Checked against the build as it stood on 1 November 2026.*
 
 ---
 
@@ -92,7 +92,7 @@ Three levels of it run through the book.
 
 **Sovereign people.** It starts here, and it belongs to the person. Nobody grants it, and no organisation can take it away. What an organisation can do is give it room or crowd it out. The organisations we mean give it room: people can see the whole of what they're part of, raise what they sense, take up the work they're drawn to, and leave when they need to. Not managed, not assigned, not scored.
 
-**Sovereign organisations.** Organisations that answer to their own purpose, not to whoever funds them, hosts them or owns the ground they stand on. Nothing they depend on can be taken away, or used as leverage, by anyone outside. That independence is what makes an organisation sovereign. Keeping a boss from growing inside is a separate matter. An organisation where money can fund the work but never buy a say, and where no single person can capture the whole, is one that leaves its people room for their own sovereignty. That's what The Grove's guardrails are for.
+**Sovereign organisations.** Organisations that answer to their own purpose, not to whoever funds them, hosts them or owns the ground they stand on. Nothing they depend on can be taken away, or used as leverage, by anyone outside. That independence is what makes an organisation sovereign. Keeping a boss from growing inside is a separate matter. An organisation where money can fund the work but never buy a say, and where no single person can capture the whole, is one that leaves its people room for their own sovereignty. That's what the operating system's guardrails are for.
 
 **A sovereign society.** A society made of many such organisations, able to work together and commit together without one of them ruling the rest. Self-sustaining, not because someone at the top holds it together, but because its parts can sense, respond and coordinate.
 
@@ -112,7 +112,7 @@ That's the future this book is reaching for. People as the sparks, the sensing o
 
 ## How we decided
 
-We had to decide where to begin. The obvious place was the product: here's what The Grove does, here's how it works. We chose not to, because a tool without a reason is just another tool, and most readers have seen plenty of those.
+We had to decide where to begin. The obvious place was the product: here's what the operating system does, here's how it works. We chose not to, because a tool without a reason is just another tool, and most readers have seen plenty of those.
 
 We also weighed where to aim. Policy and politics were tempting, because that's where the big levers seem to be, but they're slow, contested, and not where most people can act tomorrow. Individual change was the other pull, but it puts the weight on the people least able to bear it. We settled on organisations because they sit in the middle: big enough to matter, small enough to change, and the place where most of us spend our days.
 

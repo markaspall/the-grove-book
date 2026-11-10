@@ -3,7 +3,7 @@
 <!-- card: What emerges from all our small actions comes back to us as society. We rarely ask what it's showing us. -->
 <!-- description: Atoms make cells, cells make organs, organs make a person. The nesting doesn't stop there. What emerges from all our small actions acts back on us as the world we live in, a kind of intelligence with no one home, and we rarely ask what it's showing us. -->
 
-*A working draft, November 2026. This book is being written while The Grove is being built; expect it to change. Checked against the build as it stood on 1 November 2026.*
+*A working draft, November 2026. This book is being written while the operating system is being built; expect it to change. Checked against the build as it stood on 1 November 2026.*
 
 ---
 

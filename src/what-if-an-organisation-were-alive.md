@@ -1,6 +1,6 @@
 # Chapter 5. What if an organisation were alive?
 
-*A working draft, November 2026. This book is being written while The Grove is being built; expect it to change. Checked against the build as it stood on 1 November 2026.*
+*A working draft, November 2026. This book is being written while the operating system is being built; expect it to change. Checked against the build as it stood on 1 November 2026.*
 
 ---
 
@@ -59,7 +59,7 @@ Living things nest. A cell is a whole, and also a part of an organ. An organ is 
 
 The same is true of organisations, if we let it be. A team is a whole, with its own purpose and its own way of working, and also a part of something larger. That larger thing is a whole too, and part of a network of others. Nothing is only a part. Nothing is only a whole. Each level has room to run itself, and each answers to the one it belongs to.
 
-That will matter a great deal in later chapters, when we look at how The Grove is actually built. For now it's enough to see that the machine picture, with its single chart and its one direction of control, can't describe this. A living picture can.
+That will matter a great deal in later chapters, when we look at how the operating system is actually built. For now it's enough to see that the machine picture, with its single chart and its one direction of control, can't describe this. A living picture can.
 
 ## Living things are born, change and die
 
@@ -131,7 +131,7 @@ From the very first design, we chose the living picture over the machine. It was
 
 Choosing it was easy. Living with it was harder. Two questions took real argument.
 
-The first was whether an organisation has a boundary at all. People in The Grove can belong to many organisations at once. Organisations can split, merge and overlap. For a while it seemed the boundary might dissolve entirely. We settled on the membrane: many boundaries, one for each kind of thing that crosses, open for ideas and information, clear and firm for decisions, seats and money. Later, reading the sociocracy teacher Ted Rau's work on organisations as social systems, we sharpened it further.[^3] The organisation is a whirlpool in an ocean, and its boundary isn't the same thing as its purpose. Purpose says what it exists to serve. The boundary says what lies where.
+The first was whether an organisation has a boundary at all. People can belong to many organisations at once. Organisations can split, merge and overlap. For a while it seemed the boundary might dissolve entirely. We settled on the membrane: many boundaries, one for each kind of thing that crosses, open for ideas and information, clear and firm for decisions, seats and money. Later, reading the sociocracy teacher Ted Rau's work on organisations as social systems, we sharpened it further.[^3] The organisation is a whirlpool in an ocean, and its boundary isn't the same thing as its purpose. Purpose says what it exists to serve. The boundary says what lies where.
 
 The second was how far to trust the reading. If an organisation can be read, it can also be watched, and watching people is the fastest way to kill the honesty that makes the reading worth having. So we drew hard lines. No reading is ever about a person. Nothing the reading shows ever feeds directly into a decision, someone's pay or their place. It informs; people decide. And we chose the word *rehearse* rather than *predict*. A map that claims to be the territory is dangerous. A map that says *here's what we see, what do you make of it?* is useful.
 

@@ -1,6 +1,6 @@
 # Chapter 18. Into the legal world
 
-*A working draft, November 2026. This book is being written while The Grove is being built; expect it to change. Checked against the build as it stood on 1 November 2026.*
+*A working draft, November 2026. This book is being written while the operating system is being built; expect it to change. Checked against the build as it stood on 1 November 2026.*
 
 ---
 
@@ -37,15 +37,15 @@ The law isn't blind to other ways. Co-operatives have carried shared ownership f
 
 The turn is to stop asking whether to have a legal body and ask which way authority flows through it.
 
-And to see the legal body as part of the organisation, not something standing outside or above it. It's how the organisation moves in the real world: how it signs a lease, holds an account, employs someone, is seen by a court. It's optional, and it belongs to the organisation the way a branch does. On The Grove it's a collectively stewarded legal entity: held by the members together, carrying out what the organisation decides, and answering to it.
+And to see the legal body as part of the organisation, not something standing outside or above it. It's how the organisation moves in the real world: how it signs a lease, holds an account, employs someone, is seen by a court. It's optional, and it belongs to the organisation the way a branch does. Here it's a collectively stewarded legal entity: owned by the organisation, stewarded by its members together, carrying out what the organisation decides, and answering to it.
 
 In the usual company, the paper is the source and the organisation borrows from it. Turn that round. Decisions are made in the organisation, by the people doing the work, in the way the earlier chapters describe. The legal body doesn't decide anything. It points at where decisions are made and says to a bank or a court: what they agreed, we agreed.
 
 Until recently that was a nice idea with nowhere to stand. In 2021 the Wyoming legislature passed what's usually called its DAO supplement, which lets a limited liability company declare itself a decentralised autonomous organisation and name the smart contract, the running code, that governs it.[^3] (A DAO is simply an organisation whose rules are carried out by code its members agreed, rather than by an officer.) The Marshall Islands passed its own law the following year.[^4] For the first time, the paper could say: the rules are over there, in the running system.
 
-An organisation on The Grove is already a DAO in that sense, from its first day, as Chapter 6 described: its rules run as code its people agreed. What it doesn't have, until it takes a legal form, is a body the law can see.
+An organisation running on the operating system is already a DAO in that sense, from its first day, as Chapter 6 described: its rules run as code its people agreed. What it doesn't have, until it takes a legal form, is a body the law can see.
 
-That's the shape organisations on The Grove are designed to take. We call it a passport, not a new king. A passport lets you travel and be recognised. It doesn't tell you where to go.
+That's the shape organisations running on the operating system are designed to take. We call it a passport, not a new king. A passport lets you travel and be recognised. It doesn't tell you where to go.
 
 ## What the design says
 

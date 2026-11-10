@@ -1,6 +1,6 @@
 # Chapter 15. Promises
 
-*A working draft, November 2026. This book is being written while The Grove is being built; expect it to change. Checked against the build as it stood on 1 November 2026.*
+*A working draft, November 2026. This book is being written while the operating system is being built; expect it to change. Checked against the build as it stood on 1 November 2026.*
 
 ---
 
@@ -30,7 +30,7 @@ The usual fix is a manager with a list. It works, up to a point. It also puts on
 
 ## The bakery that lost its orders
 
-Promises came late in the design of The Grove. By the time we turned to them, on 20 October 2026, we had already built how organisations decide, how trust is extended, and how work finds the branch that answers for it (a branch being the part of the organisation that holds a particular kind of work). We thought commitments would follow naturally from all that. A simulation showed us they didn't.
+Promises came late in the design. By the time we turned to them, on 20 October 2026, we had already built how organisations decide, how trust is extended, and how work finds the branch that answers for it (a branch being the part of the organisation that holds a particular kind of work). We thought commitments would follow naturally from all that. A simulation showed us they didn't.
 
 We ran a model-played bakery organisation over many weeks: AI agents playing the people, customers sending orders, the whole thing running on the system as it then stood. In one run, a promise made to a customer landed on a branch with nobody carrying it. Its day came and went with nothing said. Two weeks later, several well-meaning helpers found it at the same moment, and every one of them wrote the same apology.
 

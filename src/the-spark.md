@@ -1,6 +1,6 @@
 # Chapter 7. The spark
 
-*A working draft, November 2026. This book is being written while The Grove is being built; expect it to change. Checked against the build as it stood on 1 November 2026.*
+*A working draft, November 2026. This book is being written while the operating system is being built; expect it to change. Checked against the build as it stood on 1 November 2026.*
 
 ---
 
@@ -40,7 +40,7 @@ What's striking about this view is that responsibility isn't given. It's taken. 
 
 And when the formal structure doesn't match who's really carrying things, trouble follows. Some people hold authority without taking any initiative. Others take initiative and have no authority to finish what they started. Merckelbach describes two ways it goes wrong: the despot, who never lets go of anything; and the vacuum, where everyone is equal and nobody leads, so nothing gets decided.
 
-We take a great deal from this, and part company with it in places. Source theory gives the person who started something a lasting role as its source, the one who listens for the whole. On The Grove, a founder's vision is treated as a set of hypotheses to test rather than a picture to hold. The founder's seat is one others can share. And nobody holds the whole by right of having started it. We come back to where those differences lead later in the book.
+We take a great deal from this, and part company with it in places. Source theory gives the person who started something a lasting role as its source, the one who listens for the whole. Here, a founder's vision is treated as a set of hypotheses to test rather than a picture to hold. The founder's seat is one others can share. And nobody holds the whole by right of having started it. We come back to where those differences lead later in the book.
 
 ## Seats, not jobs
 
@@ -64,7 +64,7 @@ We call the person holding a seat its steward.
 
 The word was chosen with care. A steward isn't an owner. They don't possess the part of the organisation they hold; they look after it on behalf of the whole, for as long as they hold the seat. And a steward isn't a manager. Their job isn't to produce results with their own hands, or to tell others what to do. It's to tend the conditions in which the work can thrive: making sure the right work reaches the part, that what it needs is there, that what's growing gets room and what's fading is let go.
 
-Holding a seat isn't a job, either. It's closer to a role you play, sometimes several at once, often alongside your other work. Whoever plants an organisation on The Grove holds its first seat, the root, which carries the organisation's purpose and anything that hasn't yet found a home. That's because someone has to hold it at the start, not because it belongs to them. The root is stewardship of the whole, and that may not be where a founder belongs. Founders are often several people, and the one with the energy to start something isn't always the one best placed to tend the whole once it's growing. Whoever holds the root can step down and pass it on; the system only insists that it's never left with nobody in it.
+Holding a seat isn't a job, either. It's closer to a role you play, sometimes several at once, often alongside your other work. Whoever plants an organisation holds its first seat, the root, which carries the organisation's purpose and anything that hasn't yet found a home. That's because someone has to hold it at the start, not because it belongs to them. The root is stewardship of the whole, and that may not be where a founder belongs. Founders are often several people, and the one with the energy to start something isn't always the one best placed to tend the whole once it's growing. Whoever holds the root can step down and pass it on; the system only insists that it's never left with nobody in it.
 
 The honest answer to whether the root is above anyone has two halves. In decisions, it isn't: the root is one seat in a forum it shares with the branches just beneath it, and its voice weighs the same as theirs. In structure, it is: work with no home rests there, tensions nobody has answered end there, and only its forum can change the purpose. So the root isn't a boss, but it carries more than it looks. The quickest way for a founder to stop carrying it alone is for others to take up seats, including a share of the root itself, so that what it was holding moves out to the people who are now carrying it.
 

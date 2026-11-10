@@ -3,7 +3,7 @@
 <!-- card: Written in public, while it's being built. -->
 <!-- description: A book on The Grove, the first network of organisations running on an operating system for organisations without a boss: the design, the reasons behind it, and how we decided. -->
 
-*A working draft, November 2026. This book is being written while The Grove is being built; expect it to change. Checked against the build as it stood on 1 November 2026.*
+*A working draft, November 2026. This book is being written while the operating system is being built; expect it to change. Checked against the build as it stood on 1 November 2026.*
 
 ---
 
@@ -22,7 +22,7 @@
 
 ## See it first
 
-<video controls preload="metadata" playsinline poster="media/tour-poster.jpg" style="width:100%;height:auto;border-radius:14px;background:#1b1f1a" aria-label="A tour of The Grove">
+<video controls preload="metadata" playsinline poster="media/tour-poster.jpg" style="width:100%;height:auto;border-radius:14px;background:#1b1f1a" aria-label="A tour of the operating system">
   <source src="media/tour.mp4" type="video/mp4">
   <a href="media/tour.mp4">Watch the tour</a>
 </video>
@@ -68,7 +68,7 @@ We could have waited until it was finished and then written it up. We chose not 
 
 The first is that it will never be finished. A system built to let organisations sense and respond has to keep sensing and responding itself. A book that waited for the last word would wait for ever.
 
-The second is that the thinking matters as much as the result. Every part of The Grove came from a choice between options, and most of those choices were hard. If you only see the answers, you can't judge them. So in every chapter you'll find a section called **How we decided**: what we weighed, what we chose, and why. Sometimes you'll disagree. That's the point.
+The second is that the thinking matters as much as the result. Every part of the design came from a choice between options, and most of those choices were hard. If you only see the answers, you can't judge them. So in every chapter you'll find a section called **How we decided**: what we weighed, what we chose, and why. Sometimes you'll disagree. That's the point.
 
 The third is that we need you. The ideas in this book stand on the shoulders of a lot of people who have thought carefully about how humans organise: in self-management, in systems thinking, in biology, in economics, in the study of how people grow. Some of them will read this and see things we've missed. We'd rather hear it while there's still time to change course.
 
@@ -82,7 +82,7 @@ She isn't the only one. Otto Scharmer's books, which I devoured one after anothe
 
 There's a phrase we keep coming back to: *life is an experiment.*
 
-It isn't meant casually. It's how we've tried to build. A founder's vision, in The Grove, is treated as a hypothesis, not a plan. A proposal says what it expects to change and gets looked back on to see if it did. Structure grows where the work proves it's needed and fades where it doesn't. Nothing is assumed to be true just because someone important said it.
+It isn't meant casually. It's how we've tried to build. A founder's vision is treated as a hypothesis, not a plan. A proposal says what it expects to change and gets looked back on to see if it did. Structure grows where the work proves it's needed and fades where it doesn't. Nothing is assumed to be true just because someone important said it.
 
 It would be strange to write a book about that and then pretend the book itself was settled truth. So this book is an experiment too. Each chapter is our best current understanding. When we learn something that changes it, we'll change it, and say so.
 
@@ -116,7 +116,7 @@ Every chapter follows a similar shape. It starts with a doubt, looks at what the
 
 ## Ways in
 
-Not everyone arrives from the same place, and the book doesn't have to be read in order. If you come with a particular interest, these short pages say what The Grove looks like from where you stand, and which chapters to read first:
+Not everyone arrives from the same place, and the book doesn't have to be read in order. If you come with a particular interest, these short pages say what the operating system and The Grove look like from where you stand, and which chapters to read first:
 
 - [If you're into agentic AI](ways-in-agentic-ai.md): an operating system that is itself agentic, with an AI that earns its standing and never gets a vote.
 - [If you're into self-management](ways-in-self-management.md): Holacracy, sociocracy and Teal ideas, with the structure held by the system instead of by tired people.
@@ -137,11 +137,11 @@ We've tried to keep the door open. Where a field's word earns its place, we use 
 
 You'll see all three, and the lines between them are deliberate.
 
-"I" is Mark. It's the years before The Grove existed: the experiences that shaped the question, the things that failed and the things that kept nagging. And it's the future I hope for, wherever the book looks ahead to what might become possible. Those are beliefs before they're designs, and a belief is one person's to own.
+"I" is Mark. It's the years before the operating system existed: the experiences that shaped the question, the things that failed and the things that kept nagging. And it's the future I hope for, wherever the book looks ahead to what might become possible. Those are beliefs before they're designs, and a belief is one person's to own.
 
 But even my "I" isn't mine alone. For thirty years I've read the people who thought about these things before me: about organisations and systems, about how people grow, about consciousness and what we might become. The shelf at the back of this book names many of them. I couldn't have come to any of the ideas I've put an "I" to without them. Where they surface in a chapter, I've tried to say so.
 
-"We" begins the moment the idea was shared. From then on, The Grove was conceived, argued over, designed, tested and built by one human working alongside AI collaborators: in conversation, in code, in long sessions of testing and rethinking. Every decision was a person's. Very little of the work was done alone, and claiming it as "I" would be untrue.
+"We" begins the moment the idea was shared. From then on, the operating system was conceived, argued over, designed, tested and built by one human working alongside AI collaborators: in conversation, in code, in long sessions of testing and rethinking. Every decision was a person's. Very little of the work was done alone, and claiming it as "I" would be untrue.
 
 The "we" is wider than that, though. Many people have shaped this through conversation: practitioners, friends, people who pushed back, people who asked the question I hadn't thought to ask. They aren't named here, but they're part of it, and their mark is on more pages than they know. I needed the AI to get going. The "we" deserves more humans, and it will grow as others add what they see. If you take part, whether by disagreeing, by trying it, or by telling us where it breaks, you're in it too.
 

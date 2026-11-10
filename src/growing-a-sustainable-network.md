@@ -3,7 +3,7 @@
 <!-- card: How a network of organisations might start with nothing, grow without being captured, and need a little less of the outside world each year. -->
 <!-- description: Every attempt to build a society outside the money system seems to end the same way: the founders own it, the next generation sells it, or the tax office closes it. A strawman for how a network of organisations might start with nothing and grow without being captured. -->
 
-*A working draft, November 2026. This book is being written while The Grove is being built; expect it to change. This chapter is a strawman: problems and candidate answers to argue with. None of it is built, and little of it is decided.*
+*A working draft, November 2026. This book is being written while the operating system is being built; expect it to change. This chapter is a strawman: problems and candidate answers to argue with. None of it is built, and little of it is decided.*
 
 ---
 
@@ -24,7 +24,7 @@ That's the doubt, and history gives it plenty of support. Communes have been bou
 
 ## The question
 
-Chapter 30 pictures a society whose needs are met by many small organisations, owned by no one. Suppose a network of organisations on The Grove took that on as a shared purpose. Not a commune that drops out, but a growing web of self-managed organisations that together provide for people's needs, and that become steadily less dependent on the world outside.
+Chapter 30 pictures a society whose needs are met by many small organisations, owned by no one. Suppose a network of organisations running on the operating system took that on as a shared purpose. Not a commune that drops out, but a growing web of self-managed organisations that together provide for people's needs, and that become steadily less dependent on the world outside.
 
 How would it start, with no capital and no land? How would it keep what it builds from being sold? How far could it move away from outside money, and where would it stop?
 
@@ -62,7 +62,7 @@ At birth, someone holds the title, the keys and the signatures. That's the found
 
 The people who start it aren't necessarily the ones with the money, and they're often more than one. More often founders bring the energy: the idea, the first gathering, the will to keep going. Nor do they have to be the ones who hold the root, the seat that stewards the whole, once it's growing. The money can come from many places, outside and in. A bank or an ethical lender. Many small loans from supporters who believe in it, which is how many housing projects in Germany's Mietshäuser Syndikat, which comes up again below, are funded.[^1] Community shares, where in the UK a co-operative or community benefit society can raise money from many people while each member still has one vote. And members lending their own savings to the place they live in.
 
-Whoever lends, the same rule holds as everywhere on The Grove: money can fund the work but never buys a say. A loan is repaid, with interest if that's agreed. It never comes with a vote.
+Whoever lends, the same rule holds as everywhere in the operating system: money can fund the work but never buys a say. A loan is repaid, with interest if that's agreed. It never comes with a vote.
 
 Inside an organisation on The Grove, part of this is already handled. The founder holds no last word, and the guardrails in Chapter 6 bite the moment a second person takes a seat. What the system can't reach is what sits outside it: a loan signed in one person's name, land registered to a few early members, a bank mandate with one signature on it. Those need a handover of their own.
 
@@ -92,7 +92,7 @@ Where the lock should sit, with the fund, with a group of other sites, or with a
 
 ## No single point of failure
 
-The network could take a legal form, like any organisation on The Grove. But anything holding the whole network's assets becomes a target: one lawsuit, one regulator, one hostile government or buyer reaches everything.
+The network could take a legal form, like any organisation. But anything holding the whole network's assets becomes a target: one lawsuit, one regulator, one hostile government or buyer reaches everything.
 
 So the strawman keeps the network's balance sheet thin. It holds agreements and the shared code, not the land. Assets and the liability that comes with them sit in the organisations that use them. And there would be several funds, in several countries, so that no one country's law can freeze the whole, with each site free to choose which to borrow from. How funds coordinate without becoming a cartel is open.
 
@@ -100,7 +100,7 @@ So the strawman keeps the network's balance sheet thin. It holds agreements and 
 
 Outside money is the outside world's lever. How would organisations in the network trade with each other without it?
 
-The cleanest form we know is mutual credit. When one organisation supplies another, the supplier's balance goes up and the buyer's goes down by the same amount. The balances always sum to zero, nobody issues them, and there's nothing to buy or speculate on. It isn't a token in the crypto sense, and it fits The Grove's rule that nobody needs to hold one. Switzerland's WIR has run this way between businesses since 1934, and Sardex in Sardinia is a newer example.[^4] Outside money would be used only where something crosses the membrane. Credit limits, and how an organisation that leaves settles its balance, are open.
+The cleanest form we know is mutual credit. When one organisation supplies another, the supplier's balance goes up and the buyer's goes down by the same amount. The balances always sum to zero, nobody issues them, and there's nothing to buy or speculate on. It isn't a token in the crypto sense, and it fits the operating system's rule that nobody needs to hold one. Switzerland's WIR has run this way between businesses since 1934, and Sardex in Sardinia is a newer example.[^4] Outside money would be used only where something crosses the membrane. Credit limits, and how an organisation that leaves settles its balance, are open.
 
 ## The state doesn't stop at the membrane
 
@@ -125,7 +125,7 @@ The split that falls out is clean. Mutual credit between organisations, where pr
 
 There's a harder part. A commons only works if contribution is fair. The work gets done on branches, and branches need people's hours, but that tells you nothing about whether each person is giving their share in return for what they receive. Without a way to see that, a few people end up carrying everyone, others quietly take more than they give, and resentment does the rest. It's a downward spiral, and it has ended more communities than money has. So there would have to be a balance for each person: their hours set against the share they agreed to give.
 
-That runs straight into one of our own rules: no points, counts or streaks about people. We'd rather say so than smooth it over. The way we'd hold the two together is the way The Grove already treats promises. Each member makes a promise to the commons, a share of hours in return for a home, food and care, and the record is of that promise being kept, firm on the promise and gentle on the person. Each person sees their own balance. Nobody is ranked, nothing is published as a league table, and nobody is compared with anyone else. When someone falls short for a sustained stretch, or gives far beyond their share until they're running dry, that starts a conversation with the people they share a home and work with, the way an at-risk promise does. And the balance never touches trust, the weight a person carries in decisions, which Chapter 17 keeps apart from money for the same reason.
+That runs straight into one of our own rules: no points, counts or streaks about people. We'd rather say so than smooth it over. The way we'd hold the two together is the way the operating system already treats promises. Each member makes a promise to the commons, a share of hours in return for a home, food and care, and the record is of that promise being kept, firm on the promise and gentle on the person. Each person sees their own balance. Nobody is ranked, nothing is published as a league table, and nobody is compared with anyone else. When someone falls short for a sustained stretch, or gives far beyond their share until they're running dry, that starts a conversation with the people they share a home and work with, the way an at-risk promise does. And the balance never touches trust, the weight a person carries in decisions, which Chapter 17 keeps apart from money for the same reason.
 
 Whether that's enough to keep a balance of hours from becoming a scoreboard, we don't know. It's the line we'd watch most closely.
 
@@ -173,7 +173,7 @@ Pulled together, the strawman runs in six steps.
 
 We started from the failures, not the dream. Each part of the strawman answers a known way these attempts end: assets held in a few people's names, the generation that sells, the single body that can be sued or seized, the tax bill on a life that was priced, the side business that swallows the community. Where someone has already solved a piece, the Syndikat, WIR, Twin Oaks, we've borrowed rather than invented.
 
-We kept the network thin and the organisations thick because that's how The Grove already works. The organisation is where people decide and where assets sit. The network holds agreements and the shared code, as Chapter 27 described, and a network that held more would become the centre we've designed out everywhere else.
+We kept the network thin and the organisations thick because that's how the operating system already works. The organisation is where people decide and where assets sit. The network holds agreements and the shared code, as Chapter 27 described, and a network that held more would become the centre we've designed out everywhere else.
 
 And we've written it down before building any of it because the mistakes here are expensive and slow. A badly designed proposal can be reworked in a week. A site sold by the wrong generation is gone.
 

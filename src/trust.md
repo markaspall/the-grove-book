@@ -1,6 +1,6 @@
 # Chapter 12. Trust
 
-*A working draft, November 2026. This book is being written while The Grove is being built; expect it to change. Checked against the build as it stood on 1 November 2026.*
+*A working draft, November 2026. This book is being written while the operating system is being built; expect it to change. Checked against the build as it stood on 1 November 2026.*
 
 ---
 
@@ -110,7 +110,7 @@ And when someone really is acting in bad faith, there's no tribunal. Trust fades
 
 ## How we decided
 
-The idea of a trust system is older than The Grove. An earlier experiment in 2023 played with it. Once branches and forums stood in September 2026, trust became the keystone that held them together. We built it in the first wave of the core on 19 September and refined it on 22 September.
+The idea of a trust system is older than the operating system. An earlier experiment in 2023 played with it. Once branches and forums stood in September 2026, trust became the keystone that held them together. We built it in the first wave of the core on 19 September and refined it on 22 September.
 
 The biggest choice was rejecting one global trust score. It would have been simpler, and it's what most reputation systems do. We chose separate economies for each forum and each category instead, because a single score is a single target for capture, and because nobody is equally trustworthy on everything.
 

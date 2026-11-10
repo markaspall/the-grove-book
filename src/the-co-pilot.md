@@ -1,6 +1,6 @@
 # Chapter 22. The co-pilot
 
-*A working draft, November 2026. This book is being written while The Grove is being built; expect it to change. Checked against the build as it stood on 1 November 2026.*
+*A working draft, November 2026. This book is being written while the operating system is being built; expect it to change. Checked against the build as it stood on 1 November 2026.*
 
 ---
 
@@ -35,9 +35,9 @@ Underneath both sits an older problem. Researchers who studied pilots and plant 
 
 There's a great deal of talk just now about how organisations should bring AI agents into their work, and most are finding it hard. A 2025 study from MIT's NANDA initiative found that about nineteen in every twenty organisations it looked at had seen no measurable return from their generative AI pilots. It put the gap down less to the models than to tools that don't remember, adapt or learn from the work they're given.[^2] The usual picture is a capable model bolted onto an organisation that was never shaped for it, with someone left to wire it to the right data and teach it the business.
 
-On The Grove it's the other way round. The operating system is itself an agentic system. Wise-Eye isn't an add-on to be integrated. It's part of how the organisation runs from the day it's planted: beside every seat, reading the same records the organisation keeps, working inside the same rules. An organisation on The Grove gets it out of the box.
+Here it's the other way round. The operating system is itself an agentic system. Wise-Eye isn't an add-on to be integrated. It's part of how the organisation runs from the day it's planted: beside every seat, reading the same records the organisation keeps, working inside the same rules. An organisation running on the operating system gets it out of the box.
 
-Language models are good at something ordinary software never was: meaning. They can tell what a message is asking for rather than which words it contains, notice two people saying the same thing in different ways, and find the thread through a pile of material. So that's where The Grove uses one, and it uses one in a lot of places.
+Language models are good at something ordinary software never was: meaning. They can tell what a message is asking for rather than which words it contains, notice two people saying the same thing in different ways, and find the thread through a pile of material. So that's where the operating system uses one, and it uses one in a lot of places.
 
 - **Work.** It reads what arrives, asks what the work is, and routes it to the accountability that answers for it. It reads what a person shares, a document, a page or notes, and says what it holds. It notices when a kind of work keeps arriving with nobody answering for it, and when a job a branch has just taken on answers better for work waiting somewhere else.
 - **Shape.** From the work itself, it drafts the structure the work shows: a branch for a function with steady work of its own, or a first shape for an organisation that's still one branch. It reads an accountability's words and offers a split when two jobs are hiding in one.

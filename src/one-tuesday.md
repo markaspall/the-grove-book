@@ -1,12 +1,12 @@
 # Interlude. One Tuesday
 
-*A working draft, November 2026. This book is being written while The Grove is being built; expect it to change. Checked against the build as it stood on 1 November 2026.*
+*A working draft, November 2026. This book is being written while the operating system is being built; expect it to change. Checked against the build as it stood on 1 November 2026.*
 
 ---
 
 **In this interlude**
 
-- One ordinary working day in a small bike workshop whose organisation runs on The Grove
+- One ordinary working day in a small bike workshop whose organisation is on The Grove
 - How a customer's email finds the right branch, and a drafted reply waits for a person
 - How work passed back and forth shows up as a tension that blames nobody
 - How a promise gets a name and a day, and a proposal runs on clocks, not meetings

@@ -1,6 +1,6 @@
 # Chapter 27. DNA, the network, and why not open source
 
-*A working draft, November 2026. This book is being written while The Grove is being built; expect it to change. Checked against the build as it stood on 1 November 2026.*
+*A working draft, November 2026. This book is being written while the operating system is being built; expect it to change. Checked against the build as it stood on 1 November 2026.*
 
 ---
 
@@ -41,7 +41,7 @@ So we started from a different question. Not who can read the code, but who can 
 
 The answer begins with a distinction we drew in Chapter 6. What makes an organisation that organisation isn't code. It's data: its purpose, its branches and what each answers for, its agreements, the playbook each piece of work follows, the shapes of the records it keeps, the decisions it has made and the record of how. We call this its DNA. It's written and changed by the people in the organisation, through the organisation's own proposals, and it belongs to them.
 
-That part is built. Every organisation on The Grove holds its own DNA, kept apart from every other's, and when it describes itself in its first hour the result is its own pack, held at the root like its purpose. The code underneath is something else. It's the ground the DNA grows in: the means to run, and the few guardrails every organisation carries. We call the smallest core of it, the part nobody can vote away, the kernel.
+That part is built. Every organisation holds its own DNA, kept apart from every other's, and when it describes itself in its first hour the result is its own pack, held at the root like its purpose. The code underneath is something else. It's the ground the DNA grows in: the means to run, and the few guardrails every organisation carries. We call the smallest core of it, the part nobody can vote away, the kernel.
 
 Once you see the two apart, the design follows. The DNA has to be the organisation's, fully and always. The ground has to be something nobody can take away, including us.
 

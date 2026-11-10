@@ -1,6 +1,6 @@
 # The parts and what they do
 
-*A working draft, November 2026. This book is being written while The Grove is being built; expect it to change. Checked against the build as it stood on 1 November 2026.*
+*A working draft, November 2026. This book is being written while the operating system is being built; expect it to change. Checked against the build as it stood on 1 November 2026.*
 
 ---
 
@@ -34,7 +34,7 @@ This page is a reference to every named part of the system the book describes, s
 
 **The routing rule.** A forum with fewer than two distinct people doesn't decide; its decisions go to the next forum up that has two, ending at the root. One person holding several branches is still one person. (Chapter 9)
 
-**DAO.** A decentralised autonomous organisation: one whose rules are carried out by code its people agreed. Every organisation on The Grove is one from its first day. Nobody holds tokens, pays fees to act or handles cryptocurrency; the only touch of the blockchain is signing in with Internet Identity. (Chapter 6)
+**DAO.** A decentralised autonomous organisation: one whose rules are carried out by code its people agreed. Every organisation running on the operating system is one from its first day. Nobody holds tokens, pays fees to act or handles cryptocurrency; the only touch of the blockchain is signing in with Internet Identity. (Chapter 6)
 
 **Legal wrapper.** An optional legal form for the organisation itself, so that it can be a legal entity the law can see: a DAO company owned by the organisation, which its members govern, pointing at where the organisation decides, with a purpose lock beside it. The organisation decides; the wrapper only carries its decisions into the legal world. Not built yet. (Chapter 18)
 

@@ -1,6 +1,6 @@
 # Chapter 17. Money and value
 
-*A working draft, November 2026. This book is being written while The Grove is being built; expect it to change. Checked against the build as it stood on 1 November 2026.*
+*A working draft, November 2026. This book is being written while the operating system is being built; expect it to change. Checked against the build as it stood on 1 November 2026.*
 
 ---
 
@@ -58,7 +58,7 @@ Money moves from the commons to a branch by a proposal, heard in the root's foru
 
 ## A budget, not a wallet
 
-The Grove doesn't hold the organisation's money or move it. The money stays in the organisation's own bank, and The Grove keeps the books beside it. Once money is allocated to a branch, it's a budget, not a wallet anyone can drain. Each payment is recorded against it, with a named payee.
+The operating system doesn't hold the organisation's money or move it. The money stays in the organisation's own bank, and the operating system keeps the books beside it. Once money is allocated to a branch, it's a budget, not a wallet anyone can drain. Each payment is recorded against it, with a named payee.
 
 A payment counts at once on the word of the person who records it, seen by everyone with its evidence, and any member can question it for a week. A questioned payment comes out of the books until it's settled. A second look, any other member's yes, is needed before it counts when there's no evidence attached, or when the amount is over a limit the organisation sets. There's no limit unless it sets one.
 
